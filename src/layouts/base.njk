@@ -8,6 +8,7 @@
     
     <link as="style" href={{ "/style.css" | cssHash }} rel="preload">
     {% if image %}
+    <meta content="image true">
     <link rel="preload" as="image" href="{{ image }}" imagesizes="(max-width: 850px) 100vw, 820px">
     {% endif %}
     <link rel="stylesheet" href={{ "/style.css" | cssHash }} type="text/css">

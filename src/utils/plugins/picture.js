@@ -31,7 +31,7 @@ module.exports = (document, options) => {
     } else if (document.querySelector('meta[property="og:image"]') !== null) {
       const og = document.querySelector('meta[property="og:image"]')
       const tw = document.querySelector('meta[property="twitter:image"]')
-      const preload = document.querySelector('link[as="image/webp"][rel="preload"]')
+      const preload = document.querySelector('link[as="image"][rel="preload"]')
       
       if (basename(src) !== basename(og.getAttribute('content')))
         throw new Error(`Picture plugin error when transforming ${src}`)
