@@ -7,9 +7,6 @@
     {% include "components/meta.njk" %}
     
     <link as="style" href={{ "/style.css" | cssHash }} rel="preload">
-    {% if image %}
-    <link rel="preload" as="image" href="{{ image }}" imagesizes="(max-width: 850px) 100vw, 820px">
-    {% endif %}
     <link rel="stylesheet" href={{ "/style.css" | cssHash }} type="text/css">
     
     {% include "components/js-head.njk" %}

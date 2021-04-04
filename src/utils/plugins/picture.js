@@ -31,7 +31,6 @@ module.exports = (document, options) => {
     } else if (document.querySelector('meta[property="og:image"]') !== null) {
       const og = document.querySelector('meta[property="og:image"]')
       const tw = document.querySelector('meta[property="twitter:image"]')
-      const preload = document.querySelector('link[as="image"][rel="preload"]')
       
       if (basename(src) !== basename(og.getAttribute('content')))
         throw new Error(`Picture plugin error when transforming ${src}`)
@@ -39,8 +38,6 @@ module.exports = (document, options) => {
       const url = 'https://jesor.me' + meta.jpeg[meta.jpeg.length - 3].url
       og.setAttribute('content', url)
       tw.setAttribute('content', url)
-      preload.setAttribute('imagesrcset', meta.webp.map(p => p.srcset).join(', '))
-      preload.setAttribute('href', meta.jpeg[meta.jpeg.length - 2].url)
     }
     
     i.outerHTML = `
