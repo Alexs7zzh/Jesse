@@ -88,7 +88,7 @@ main > hr {
   border-top: 1px solid #e6e6e6;
 }
 
-article nav {
+.related {
   display: grid;
   grid-template: "next previous" 1fr / 1fr 1fr;
 }
