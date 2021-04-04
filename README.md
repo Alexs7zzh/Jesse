@@ -1,17 +1,16 @@
 ## Todo
 
-2. taglist
-3. toc
-4. Absolute url
-5. post_url
-6. excerpt_img
-7. markdown lint?
-8. Analytics
+- [ ] 标签页 Javascript
+- [ ] table of contents
+- [ ] 移除所有 absolute_url
+- [ ] 移除所有 post_url
+- [ ] 移除所有 excerpt_img？
+- [ ] 部分文章 Markdown 语法错误，用linter检查
+- [ ] 添加 Analytics
 
 ## Changes
 
-1. 「钱的焦虑、责任和安全感」支付宝图片，加余白
-2. 首页时间右对齐
-3. 手机屏幕上首页时间维持在右侧
-4. 上下一篇文章加了渐变效果
-5. Pagination title
+1. 「钱的焦虑、责任和安全感」支付宝图片高度？（原博客：图片最大高度 37em）或许可以手动给图片加余白
+2. 首页时间右对齐；手机屏幕上时间维持在右侧
+3. 上下一篇文章，给鼠标hover加了渐变效果
+4. 第x页的网页标题，原本：「Page 2 of 51 for 大破进击 - Page 2 of 51 | 大破进击」
