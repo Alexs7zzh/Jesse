@@ -91,6 +91,7 @@ main > hr {
 .related {
   display: grid;
   grid-template: "next previous" 1fr / 1fr 1fr;
+  gap: 1rem;
 }
 
 .next, .previous {
