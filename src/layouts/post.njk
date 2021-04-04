@@ -32,7 +32,7 @@ permalink: "/{{ page.date | date: '%Y' }}/{{ page.fileSlug }}/"
 
 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
-<nav>
+<nav class="related">
   {% if nextPost %}
   <a class="next" href="{{ nextPost.url }}">
     <span>上一篇</span>
