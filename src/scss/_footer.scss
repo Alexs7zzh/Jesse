@@ -4,6 +4,10 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+  @supports(env(safe-area-inset-bottom)) {
+    padding-bottom: env(safe-area-inset-bottom);
+    height: calc(8rem + 2 * env(safe-area-inset-bottom));
+  }
 }
 
 footer h2, footer p, footer section {
