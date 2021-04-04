@@ -13,38 +13,38 @@ permalink: "/{{ page.date | date: '%Y' }}/{{ page.fileSlug }}/"
   
   {{ content | safe }}
   
-  {% if not standalone %}
-    <div class="meta">
-      {% if tags %}
-        <ul class="taglist">
-        {% for tag in tags %}
-          <li class="button"><a href="/all/{{ tag }}/">{{ tag }}</a></li>
-        {% endfor %}
-        </ul>
-      {% endif %}
-      
-      <time datetime="{{ page.date | dateString }}">{{ page.date | dateString }}</time>
-    </div>
-    
-    <hr />
-    
-    {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-    {% set nextPost = collections.posts | getNextCollectionItem(page) %}
-    <nav>
-      {% if nextPost %}
-      <a class="next" href="{{ nextPost.url }}">
-        <span>上一篇</span>
-        <span>{{ nextPost.data.title }}</span>
-      </a>
-      {% endif %}
-      
-      {% if previousPost %}
-      <a class="previous" href="{{ previousPost.url }}">
-        <span>下一篇</span>
-        <span>{{ previousPost.data.title }}</span>
-      </a>
-      {% endif %}
-    </nav>
+</article>
+
+{% if not standalone %}
+<div class="meta">
+  {% if tags %}
+    <ul class="taglist">
+    {% for tag in tags %}
+      <li class="button"><a href="/all/{{ tag }}/">{{ tag }}</a></li>
+    {% endfor %}
+    </ul>
   {% endif %}
   
-</article>
+  <time datetime="{{ page.date | dateString }}">{{ page.date | dateString }}</time>
+</div>
+
+<hr />
+
+{% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{% set nextPost = collections.posts | getNextCollectionItem(page) %}
+<nav>
+  {% if nextPost %}
+  <a class="next" href="{{ nextPost.url }}">
+    <span>上一篇</span>
+    <span>{{ nextPost.data.title }}</span>
+  </a>
+  {% endif %}
+  
+  {% if previousPost %}
+  <a class="previous" href="{{ previousPost.url }}">
+    <span>下一篇</span>
+    <span>{{ previousPost.data.title }}</span>
+  </a>
+  {% endif %}
+</nav>
+{% endif %}

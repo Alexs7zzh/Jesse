@@ -1,9 +1,10 @@
 {
   "title": "大破进击",
   "url": "https://jesor.me",
+  "feedUrl": "https://jesor.me/feed.xml",
   "description": "廃人日志。",
-  "logo": "/assets/images/logo/android-chrome-512x512.png",
   "author": "Jesse",
+  "email": "jessechan42@gmail.com",
   "twitter": "@Jesoooor",
   "telegram_channel": "https://t.me/forwardlikehell",
   "ga": "UA-114350775-1",

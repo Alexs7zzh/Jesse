@@ -1,5 +1,8 @@
-article {
-  padding-bottom: 2rem;
+main {
+  padding-bottom: 1.8rem;
+  @media screen and (min-width: 1024px) {
+    padding-bottom: 2.4rem;
+  }
 }
 
 article h1 {
@@ -19,12 +22,52 @@ article h2 {
   color: #111;
 }
 
+article h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.5rem;
+  color: #111;
+}
+
+article h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+}
+
+article h5 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
+}
+
+article h6 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
+  color: #{$text-color-secondary};
+}
+
 article p {
   font-size: 1rem;
 }
 
 article a {
   color: #{$color-accent};
+}
+
+article hr {
+  margin: 1.2rem 0;
+  border: none;
+  border-top: 1px solid #e6e6e6;
+}
+
+article {
+  ol, ul {
+    padding: 0;
+    margin: 1.2rem 0;
+    margin-left: 1.5rem;
+  }
 }
 
 blockquote {
@@ -39,7 +82,7 @@ blockquote {
   }
 }
 
-article > hr {
+main > hr {
   margin-top: 2.4rem;
   border: none;
   border-top: 1px solid #e6e6e6;

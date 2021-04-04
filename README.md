@@ -1,14 +1,12 @@
 ## Todo
 
-1. Analytics
-2. Absolute url
-3. post_url
-4. Check markdown styles
-5. rss
+2. taglist
+3. toc
+4. Absolute url
+5. post_url
 6. excerpt_img
-7. toc
-8. markdown lint?
-9. taglist
+7. markdown lint?
+8. Analytics
 
 ## Changes
 

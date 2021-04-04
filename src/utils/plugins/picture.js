@@ -25,6 +25,8 @@ module.exports = (document, options) => {
     const last = meta.jpeg[meta.jpeg.length - 1]
     i.setAttribute('width', last.width)
     i.setAttribute('height', last.height)
+    i.setAttribute('src', last.url)
+    
     if (index !== 0) {
       i.setAttribute('loading', 'lazy')
       i.setAttribute('decoding', 'async')

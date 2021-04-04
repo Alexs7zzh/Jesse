@@ -74,10 +74,6 @@ main time {
   display: flex;
   align-items: center;
   margin-top: 0.8rem;
-  margin-bottom: 1.4rem;
-  @media screen and (min-width: 1024px) {
-    margin-bottom: 2.2rem;
-  }
 }
 
 .pagination li {
