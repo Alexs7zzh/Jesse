@@ -9,6 +9,7 @@
 7. toc
 8. markdown lint?
 9. taglist
+10. compare date
 
 ## Changes
 

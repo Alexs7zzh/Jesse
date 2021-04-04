@@ -40,6 +40,7 @@ module.exports = (document, options) => {
       og.setAttribute('content', url)
       tw.setAttribute('content', url)
       preload.setAttribute('imagesrcset', meta.webp.map(p => p.srcset).join(', '))
+      preload.setAttribute('href', meta.jpeg[meta.jpeg.length - 2].url)
     }
     
     i.outerHTML = `
