@@ -5,8 +5,8 @@
 - [ ] 移除所有 absolute_url
 - [ ] 移除所有 post_url
 - [ ] 移除所有 excerpt_img？
-- [ ] 部分文章 Markdown 语法错误，用linter检查
-- [ ] 添加 Analytics
+- [ ] 部分文章 Markdown 语法错误，用 linter 检查
+- [ ] 添加 analytics
 
 ## Changes
 
@@ -14,3 +14,7 @@
 2. 首页时间右对齐；手机屏幕上时间维持在右侧
 3. 上下一篇文章，给鼠标hover加了渐变效果
 4. 第x页的网页标题，原本：「Page 2 of 51 for 大破进击 - Page 2 of 51 | 大破进击」
+
+## Memo
+
+- 迁移域名时更改 picture plugin 中的网址

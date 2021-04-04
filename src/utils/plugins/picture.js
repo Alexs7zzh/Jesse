@@ -37,7 +37,7 @@ module.exports = (document, options) => {
       if (basename(src) !== basename(og.getAttribute('content')))
         throw new Error(`Picture plugin error when transforming ${src}`)
         
-      const url = 'https://jesor.me' + meta.jpeg[meta.jpeg.length - 3].url
+      const url = 'https://jesse-rebuild.vercel.app' + meta.jpeg[meta.jpeg.length - 3].url
       og.setAttribute('content', url)
       tw.setAttribute('content', url)
     }
