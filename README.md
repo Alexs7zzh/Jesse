@@ -18,4 +18,4 @@
 
 ## Memo
 
-- 迁移域名时更改 picture plugin 中的网址
+- 迁移域名时更改 picture plugin, metadata 中的网址

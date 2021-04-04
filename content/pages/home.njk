@@ -14,7 +14,7 @@ permalink: /{{ '' if pagination.pageNumber == 0 else 'page/' + (pagination.pageN
   </h2>
   {% if post.data.excerpt_img %}
     <figure>
-      <img src="{{ post.data.image }}" alt="">
+      <img src="{{ post.data.image }}" alt="{{ post.data.title }}">
     </figure>
   {% endif %}
   {{ post.data.excerpt | markdown | safe }}
@@ -41,7 +41,7 @@ permalink: /{{ '' if pagination.pageNumber == 0 else 'page/' + (pagination.pageN
   <ol>
   
     <li class="button{% if not pagination.href.previous %} inactive{% endif %}">
-      <a {% if pagination.href.previous %}href="{{ pagination.href.previous }}"{% endif %} aria-label="previous page">
+      <a href="{{ pagination.href.previous or page.url }}" aria-label="previous page">
         <svg fill="#000000" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
           <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
         </svg>
@@ -55,7 +55,7 @@ permalink: /{{ '' if pagination.pageNumber == 0 else 'page/' + (pagination.pageN
     {% endfor %}
     
     <li class="button{% if not pagination.href.next %} inactive{% endif %}">
-      <a {% if pagination.href.next %}href="{{ pagination.href.next }}"{% endif %} aria-label="next page">
+      <a href="{{ pagination.href.next or page.url }}" aria-label="next page">
         <svg fill="#000000" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
           <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
         </svg>
