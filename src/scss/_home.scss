@@ -1,0 +1,115 @@
+main {
+  max-width: 850px;
+  padding: 0 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  @media screen and (max-width: 1024px) {
+    padding: 0 1rem;
+  }
+}
+
+main section {
+  margin-top: 1rem;
+  margin-bottom: 2.6rem;
+}
+
+main h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #111;
+  margin-bottom: 1.2rem;
+}
+
+main p {
+  margin: 1.2rem 0;
+  font-size: 0.9rem;
+}
+
+.more {
+  margin: 0;
+  user-select: none;
+  a { color: #{$color-accent}; }
+}
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.taglist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  user-select: none;
+}
+
+.taglist li {
+  font-size: 0.9rem;
+  display: inline-block;
+  padding: 0.4rem 0.6rem;
+  margin: 0;
+  border-radius: 2rem;
+  line-height: 1;
+  a {
+    color: #{$color-accent};
+  }
+}
+
+main time {
+  color: #{$text-color-secondary};
+  font-size: 0.9rem;
+}
+
+.pagination p {
+  color: #{$text-color-secondary};
+}
+
+.pagination ol {
+  user-select: none;
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  align-items: center;
+  margin-top: 0.8rem;
+  margin-bottom: 1.4rem;
+  @media screen and (min-width: 1024px) {
+    margin-bottom: 2.2rem;
+  }
+}
+
+.pagination li {
+  background-color: #{$color-bg};
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0.25rem;
+}
+
+.pagination svg {
+  display: block;
+}
+
+.inactive {
+  svg {
+    fill: rgba(51, 51, 51, 0.5);
+    cursor: not-allowed;
+  }
+  &:hover {
+    background-color: #{$color-bg};
+    svg {
+      fill: rgba(51, 51, 51, 0.5);
+    }
+  }
+}
+
+li.active {
+  background-color: #{$color-accent};
+  a {
+    color: white;
+  }
+}

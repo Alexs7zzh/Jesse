@@ -1,0 +1,66 @@
+---
+layout: base.njk
+pagination:
+  data: collections.posts
+  size: 5
+  alias: posts
+permalink: /{{ '' if pagination.pageNumber == 0 else 'page/' + (pagination.pageNumber + 1) + '/' }}
+---
+
+{% for post in posts %}
+<section aria-labelledby="{{ post.data.page.fileSlug }}">
+  <h2 id="{{ post.data.page.fileSlug }}">
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+  </h2>
+  {% if post.data.excerpt_img %}
+    <figure>
+      <img src="{{ post.data.image }}" alt="">
+    </figure>
+  {% endif %}
+  {{ post.data.excerpt | markdown | safe }}
+  
+  <p class="more"><a href="{{ post.url }}">阅读全文</a></p>
+  
+  <div class="meta">
+    {% if post.data.tags %}
+      <ul class="taglist">
+      {% for tag in post.data.tags %}
+        <li class="button"><a href="/all/{{ tag }}/">{{ tag }}</a></li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+    
+    <time datetime="{{ post.date | dateString }}">{{ post.date | dateString }}</time>
+  </div>
+  
+</section>
+{% endfor %}
+
+<nav aria-labelledby="pagination-title" class="pagination">
+  <p id="pagination-title">共计 {{ collections.posts.length }} 篇文章，{{ pagination.pages.length }} 页</p>
+  <ol>
+  
+    <li class="button{% if not pagination.href.previous %} inactive{% endif %}">
+      <a {% if pagination.href.previous %}href="{{ pagination.href.previous }}"{% endif %}>
+        <svg fill="#000000" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+          <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/>
+        </svg>
+      </a>
+    </li>
+    
+    {% for num, suffix in ((pagination.pageNumber + 1) | pagination(pagination.hrefs) ) %}
+      <li class="button{% if suffix == page.url %} active{% endif %}">
+        <a href="{{ suffix }}">{{ num }}</a>
+      </li>
+    {% endfor %}
+    
+    <li class="button{% if not pagination.href.next %} inactive{% endif %}">
+      <a {% if pagination.href.next %}href="{{ pagination.href.next }}"{% endif %}>
+        <svg fill="#000000" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/>
+        </svg>
+      </a>
+    </li>
+    
+  </ol>
+</nav>

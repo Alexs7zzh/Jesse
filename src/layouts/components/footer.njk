@@ -1,0 +1,18 @@
+<footer>
+  <div>
+    <h2>{{ metadata.footer }}</h2>
+    
+    <section>
+      <a href="{{ metadata.url }}/feed.xml">
+        <img width="30" height="30" src="/rss.svg" />
+        <span>RSS</span>
+      </a>
+      <a href="{{ metadata.telegram_channel }}">
+        <img width="30" height="30" src="/telegram.svg"/ >
+        <span>Telegram Channel</span>
+      </a>
+    </section>
+    
+    <p>© {{ metadata.title }} {{ year }}</p>
+  </div>
+</footer>

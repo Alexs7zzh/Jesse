@@ -1,0 +1,91 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+img,
+picture {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  width: auto;
+}
+
+:target {
+  scroll-margin-top: 2em;
+}
+
+::selection {
+  background: rgba(252, 77, 80, 0.5);
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  text-size-adjust: 100%;
+  font-size: 16px;
+  @media screen and (min-width: 320px) {
+    font-size: calc( 16px + 2 * ((100vw - 320px) / 960));
+  }
+  @media screen and (min-width: 1280px) {
+    font-size: 18px;
+  }
+}
+
+body {
+  color: #{$text-color};
+  line-height: 1.6;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: #{$text-color};
+  font-weight: 700;
+  text-decoration: none;
+  transition: color 0.8s ease;
+  &:visited {
+    color: #{$text-color};
+  }
+  &:hover {
+    color: #{$color-accent};
+    text-decoration: underline;
+  }
+}
+
+.button {
+  cursor: pointer;
+  font-weight: 700;
+  transition: color 0.8s ease, background-color 0.8s ease;
+  background-color: #{$color-bg};
+  &:hover {
+    background-color: #{$color-accent};
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+    svg {
+      fill: #fff;
+    }
+  }
+}

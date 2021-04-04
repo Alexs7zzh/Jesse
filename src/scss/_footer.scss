@@ -1,0 +1,53 @@
+footer {
+  height: 8rem;
+  background-color: #{$color-bg};
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer h2, footer p, footer section {
+  text-align: center;
+}
+
+footer h2 {
+  margin-bottom: 0.4rem;
+  font-weight: 700;
+  font-size: 1rem;
+  @media screen and (min-width: 320px) {
+    font-size: calc( 1rem + 0.45rem * ((var(--width) - 320) / 960));
+  }
+  @media screen and (min-width: 1280px) {
+    font-size: 1.45rem;
+  }
+}
+
+footer section {
+  margin-bottom: 0.6rem;
+  font-weight: 500;
+  font-size: .9rem;
+  @media screen and (min-width: 320px) {
+    font-size: calc( .9rem + 0.2rem * ((var(--width) - 320) / 960));
+  }
+  @media screen and (min-width: 1280px) {
+    font-size: 1.1rem;
+  }
+}
+
+footer a {
+  font-weight: 500;
+  &:first-child {
+    margin-right: 1rem;
+  }
+}
+
+footer img {
+  width: 1em;
+  height: 0.8em;
+  display: inline-block;
+}
+
+
+footer p {
+  font-size: 0.8rem;
+}

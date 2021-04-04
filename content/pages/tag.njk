@@ -1,0 +1,27 @@
+---
+layout: base.njk
+permalink: /all/
+---
+
+<ol class="taglist tag-page">
+  <li class="button">Show All<span>{{ collections.posts.length }}</span></li>
+  {% for tag, num, level in (collections.posts | tags) %}
+  <li class="button tag-{{ level }}">
+    <a href="/all/?tag={{ tag }}">{{ tag }}<span>{{ num }}</span></a>
+  </li>
+  {% endfor %}
+</ol>
+
+{% for year, posts in collections.postsByYear %}
+<section class="postlist">
+  <h2>{{ year }}</h2>
+  <ol>
+    {% for post in posts %}
+    <li>
+      <time datetime={{ post.data.page.date | dateString}}>{{ post.data.page.date | shortDate }}</time>
+      <a href={{ post.data.page.url }}>{{ post.data.title }}</a>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endfor %}

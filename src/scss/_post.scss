@@ -1,0 +1,72 @@
+article {
+  padding-bottom: 2rem;
+}
+
+article h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-top: 0.5rem;
+  margin-bottom: 1.2rem;
+  color: #111;
+}
+
+article h2 {
+  border: 0 solid #e6e6e6;
+  border-bottom-width: 1px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.8rem;
+  color: #111;
+}
+
+article p {
+  font-size: 1rem;
+}
+
+article a {
+  color: #{$color-accent};
+}
+
+blockquote {
+  padding-left: 1rem;
+  margin: 1.2rem 0;
+  border: 0 solid #cccccc;
+  border-left-width: 4px;
+  color: #{$text-color-secondary};
+  p {
+    font-size: 0.9rem;
+    margin: 0.5rem 0;
+  }
+}
+
+article > hr {
+  margin-top: 2.4rem;
+  border: none;
+  border-top: 1px solid #e6e6e6;
+}
+
+article nav {
+  display: grid;
+  grid-template: "next previous" 1fr / 1fr 1fr;
+}
+
+.next, .previous {
+  display: flex;
+  flex-direction: column;
+  color: #{$text-color};
+  span:first-child {
+    color: #{$text-color-secondary};
+  }
+  &:hover {
+    color: #{$text-color-secondary};
+  }
+}
+
+.next {
+  grid-area: next;
+}
+
+.previous {
+  grid-area: previous;
+  text-align: right;
+}
