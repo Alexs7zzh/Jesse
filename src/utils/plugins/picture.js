@@ -2,7 +2,7 @@ const Image = require('@11ty/eleventy-img')
 const { basename } = require('path')
 
 const defaultOptions = {
-  widths: [480, 640, 1280, 1920, null],
+  widths: [640, 768, 1280, 1366, 1600, 1920],
   sizes: '',
   formats: ['webp', 'jpeg'],
   urlPath: '/assets/',
@@ -37,7 +37,7 @@ module.exports = (document, options) => {
       if (basename(src) !== basename(og.getAttribute('content')))
         throw new Error(`Picture plugin error when transforming ${src}`)
         
-      const url = 'https://jesse-rebuild.vercel.app' + meta.jpeg[meta.jpeg.length - 3].url
+      const url = 'https://jesse-rebuild.vercel.app' + meta.jpeg[meta.jpeg.length - 4].url
       og.setAttribute('content', url)
       tw.setAttribute('content', url)
     }
