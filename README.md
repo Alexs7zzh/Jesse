@@ -2,6 +2,7 @@
 
 Performance
 - [x] 压缩 svg 图标并 inline 到 html
+- [x] Plausible 记录实际加载图片尺寸
 
 Function
 - [ ] 标签页 Javascript

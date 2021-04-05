@@ -5,9 +5,9 @@ const { terser } = require('rollup-plugin-terser')
 const { basename } = require('path')
 const Mutex = require('async-mutex').Mutex
 
-const bundling = async () => {
+const bundling = async url => {
   const bundle = await rollup.rollup({
-    input: ['src/js/taglist.js', 'src/js/toc.js'],
+    input: [`src/js/${url}`],
     plugins: [terser()]
   })
     
@@ -46,7 +46,7 @@ module.exports = config => {
       const release = await mutex.acquire()
       try {
         if (Object.keys(jsHash).length === 0)
-          jsHash = await bundling()
+          jsHash = await bundling(url.replace('/', ''))
       } finally {
         release()
       }

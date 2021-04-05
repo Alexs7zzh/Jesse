@@ -2,7 +2,7 @@ const Image = require('@11ty/eleventy-img')
 const { basename } = require('path')
 
 const defaultOptions = {
-  widths: [640, 768, 1280, 1366, 1600, 1920],
+  widths: [600, 768, 1000, 1024, 1280, 1366, 1440, 1600, 1680, 1800],
   sizes: '',
   formats: ['webp', 'jpeg'],
   urlPath: '/assets/',
@@ -39,7 +39,7 @@ module.exports = (document, options) => {
       
       let url = ''
       for (let j = meta.jpeg.length - 1; j >=0; j--)
-        if (meta.jpeg[j].width <= 1280) {
+        if (meta.jpeg[j].width <= 960) {
           url = 'https://jesse-rebuild.vercel.app' + meta.jpeg[j].url
           break
         }
