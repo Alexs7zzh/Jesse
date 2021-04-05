@@ -1,7 +1,7 @@
 ## Todo
 
 Performance
-- [ ] 压缩 svg 图标并 inline 到 html
+- [x] 压缩 svg 图标并 inline 到 html
 
 Function
 - [ ] 标签页 Javascript

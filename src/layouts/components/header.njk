@@ -1,7 +1,7 @@
 <header>
   <nav>
     <div>
-      <img width="30" height="30" alt="logo image" src="/logo.svg" />
+      {{ 'assets/logo/logo.min.svg' | svg | safe }}
       <h1><a title="{{ metadata.title }}" href="/">{{ metadata.title }}</a></h1>
     </div>
     <ul>
