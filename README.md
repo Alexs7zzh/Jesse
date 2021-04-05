@@ -1,12 +1,22 @@
 ## Todo
 
+Performance
+- [ ] 压缩 svg 图标并 inline 到 html
+
+Function
 - [ ] 标签页 Javascript
 - [ ] table of contents
+
+Immigration
 - [ ] 移除所有 absolute_url
 - [ ] 移除所有 post_url
 - [ ] 移除所有 excerpt_img？
 - [ ] 部分文章 Markdown 语法错误，用 linter 检查
+
+Finishing up
 - [ ] 添加 analytics
+- [ ] 使用 CMS？
+- [ ] 迁移域名时更改 picture plugin, metadata 中的网址
 
 ## Changes
 
@@ -15,7 +25,3 @@
 3. 上下一篇文章，给鼠标hover加了渐变效果
 4. 第x页的网页标题，原本：「Page 2 of 51 for 大破进击 - Page 2 of 51 | 大破进击」
 5. Maybe: 减小文章标题的行距（主要是手机上双行标题的情况）
-
-## Memo
-
-- 迁移域名时更改 picture plugin, metadata 中的网址
