@@ -23,6 +23,9 @@ const filterPage = tag =>
 Array.from(document.querySelectorAll('.tag-page li')).forEach(i => i.addEventListener('click', e => {
   let el = e.target
   while (el.tagName !== 'LI') el = el.parentElement
+  const oldSelected = document.querySelector('.tag-page li.selected')
+  if (oldSelected !== null) oldSelected.classList.remove('selected')
+  el.classList.add('selected')
   const tag = el.dataset.tag
   if (tag !== undefined) {
     window.history.pushState({}, null, `/all/?tag=${tag}`)
@@ -35,4 +38,8 @@ Array.from(document.querySelectorAll('.tag-page li')).forEach(i => i.addEventLis
   })
 }))
 
-if (match !== null) filterPage(decodeURI(match[1]))
+if (match !== null) {
+  const tag = decodeURI(match[1])
+  document.querySelector(`.tag-page li[data-tag="${tag}"]`).classList.add('selected')
+  filterPage(tag)
+}

@@ -1,7 +1,9 @@
 <script>
   document.documentElement.style.setProperty('--width', window.innerWidth)
+  document.documentElement.style.setProperty('--height', window.innerHeight)
   window.addEventListener('resize', () => {
     document.documentElement.style.setProperty('--width', window.innerWidth)
+    document.documentElement.style.setProperty('--height', window.innerHeight)
   })
 </script>
 <script async defer data-domain="jesse-rebuild.vercel.app" src="https://analytics.shinlog.me/js/plausible.js"></script>
