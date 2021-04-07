@@ -1,68 +1,61 @@
-main {
-  padding-bottom: 1.8rem;
-  @media screen and (min-width: 1024px) {
-    padding-bottom: 2.4rem;
-  }
-}
-
-article h1 {
-  font-size: 2.2rem;
-  font-weight: 700;
-  margin-top: 0.5rem;
-  margin-bottom: 1.2rem;
-  color: #111;
-}
-
-article h2 {
-  border: 0 solid #e6e6e6;
-  border-bottom-width: 1px;
-  margin-top: 1.5rem;
-  margin-bottom: 1.2rem;
-  font-size: 1.8rem;
-  color: #111;
-}
-
-article h3 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.2rem;
-  font-size: 1.5rem;
-  color: #111;
-}
-
-article h4 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.2rem;
-  font-size: 1.2rem;
-}
-
-article h5 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.2rem;
-  font-size: 1rem;
-}
-
-article h6 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.2rem;
-  font-size: 1rem;
-  color: #{$text-color-secondary};
-}
-
-article p {
-  font-size: 1rem;
-}
-
-article a {
-  color: #{$color-accent};
-}
-
-article hr {
-  margin: 1.2rem 0;
-  border: none;
-  border-top: 1px solid #e6e6e6;
-}
-
 article {
+  h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    margin-bottom: 1.2rem;
+    color: #111;
+  }
+  
+  h2 {
+    border: 0 solid #e6e6e6;
+    border-bottom-width: 1px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.2rem;
+    font-size: 1.8rem;
+    color: #111;
+  }
+  
+  h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.2rem;
+    font-size: 1.5rem;
+    color: #111;
+  }
+  
+  h4 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.2rem;
+    font-size: 1.2rem;
+  }
+  
+  h5 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.2rem;
+    font-size: 1rem;
+  }
+  
+  h6 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.2rem;
+    font-size: 1rem;
+    color: #{$text-color-secondary};
+  }
+  
+  p {
+    font-size: 1rem;
+  }
+  
+  a {
+    color: #{$color-accent};
+  }
+  
+  hr {
+    margin: 1.2rem 0;
+    border: none;
+    border-top: 1px solid #e6e6e6;
+  }
+  
   ol, ul {
     padding: 0;
     margin: 1.2rem 0;

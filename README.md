@@ -5,7 +5,7 @@ Performance
 - [x] Plausible 记录实际加载图片尺寸
 
 Function
-- [ ] 标签页 Javascript
+- [x] 标签页 Javascript
 - [ ] table of contents
 
 Immigration

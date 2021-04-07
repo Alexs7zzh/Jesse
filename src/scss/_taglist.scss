@@ -8,42 +8,57 @@
       background-color: #fca24d;
       color: white;
     }
-    a {
-      color: white;
-    }
-    span {
-      font-size: 0.8rem;
-      display: inline-block;
-      line-height: 1;
-      margin-left: .2rem;
-      vertical-align: top;
-    }
+  }
+  button {
+    border: 0;
+    color: white;
+    font-weight: 700;
+    line-height: 1;
+  }
+  span {
+    font-size: 0.8rem;
+    display: inline-block;
+    line-height: 1;
+    margin-left: .2rem;
+    vertical-align: top;
   }
 }
 
+.hidden {
+  display: none;
+}
+
+.tag-all button { color: #{$text-color}; }
 .tag-1 { background-color: rgba(252, 77, 80, 0.4); }
 .tag-2 { background-color: rgba(252, 77, 80, 0.55); }
 .tag-3 { background-color: rgba(252, 77, 80, 0.7); }
 .tag-4 { background-color: rgba(252, 77, 80, 0.9); }
 
-.postlist h2 {
-  margin-bottom: 1rem;
+.selected {
+  background-color: #fca24d;
+  button { color: white; }
 }
 
-.postlist ol {
-  padding: 0;
-  list-style: none;
-}
-
-.postlist li {
-  margin-bottom: .7rem;
-  color: #111;
-}
-
-.postlist time {
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  color: #{$text-color-secondary};
-  font-size: 0.9rem;
-  display: inline-block;
-  margin-right: 1rem;
+.postlist {
+  h2 {
+    margin-bottom: 1rem;
+  }
+  
+  ol {
+    padding: 0;
+    list-style: none;
+  }
+  
+  li {
+    margin-bottom: .7rem;
+    color: #111;
+  }
+  
+  time {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    color: #{$text-color-secondary};
+    font-size: 0.9rem;
+    display: inline-block;
+    margin-right: 1rem;
+  }
 }

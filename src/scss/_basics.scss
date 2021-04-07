@@ -38,6 +38,20 @@ picture {
   background: rgba(252, 77, 80, 0.5);
 }
 
+button {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+  text-transform: none;
+  -webkit-appearance: button;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}
+
 html {
   margin: 0;
   padding: 0;

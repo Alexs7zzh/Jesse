@@ -4,53 +4,48 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  @supports(env(safe-area-inset-bottom)) {
-    padding-bottom: env(safe-area-inset-bottom);
-    height: calc(8rem + 2 * env(safe-area-inset-bottom));
+  
+  h2, p, section {
+    text-align: center;
   }
-}
-
-footer h2, footer p, footer section {
-  text-align: center;
-}
-
-footer h2 {
-  margin-bottom: 0.4rem;
-  font-weight: 700;
-  font-size: 1rem;
-  @media screen and (min-width: 320px) {
-    font-size: calc( 1rem + 0.45rem * ((var(--width) - 320) / 960));
+  
+  h2 {
+    margin-bottom: 0.4rem;
+    font-weight: 700;
+    font-size: 1rem;
+    @media screen and (min-width: 320px) {
+      font-size: calc( 1rem + 0.45rem * ((var(--width) - 320) / 960));
+    }
+    @media screen and (min-width: 1280px) {
+      font-size: 1.45rem;
+    }
   }
-  @media screen and (min-width: 1280px) {
-    font-size: 1.45rem;
+  
+  section {
+    margin-bottom: 0.6rem;
+    font-weight: 500;
+    font-size: .9rem;
+    @media screen and (min-width: 320px) {
+      font-size: calc( .9rem + 0.2rem * ((var(--width) - 320) / 960));
+    }
+    @media screen and (min-width: 1280px) {
+      font-size: 1.1rem;
+    }
   }
-}
-
-footer section {
-  margin-bottom: 0.6rem;
-  font-weight: 500;
-  font-size: .9rem;
-  @media screen and (min-width: 320px) {
-    font-size: calc( .9rem + 0.2rem * ((var(--width) - 320) / 960));
+  
+  a {
+    font-weight: 500;
+    &:first-child {
+      margin-right: 1rem;
+    }
   }
-  @media screen and (min-width: 1280px) {
-    font-size: 1.1rem;
+  
+  svg {
+    width: 1em;
+    height: 0.8em;
   }
-}
-
-footer a {
-  font-weight: 500;
-  &:first-child {
-    margin-right: 1rem;
+  
+  p {
+    font-size: 0.8rem;
   }
-}
-
-footer svg {
-  width: 1em;
-  height: 0.8em;
-}
-
-
-footer p {
-  font-size: 0.8rem;
 }
