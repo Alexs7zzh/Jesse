@@ -6,6 +6,7 @@ const { basename } = require('path')
 const Mutex = require('async-mutex').Mutex
 
 const bundling = async url => {
+  console.log(url)
   const bundle = await rollup.rollup({
     input: [`src/js/${url}`],
     plugins: [terser()]
@@ -44,9 +45,10 @@ module.exports = config => {
     
     config.addNunjucksAsyncFilter('jsHash', async (url, callback) => {
       const release = await mutex.acquire()
+      const file = url.replace('/', '')
       try {
-        if (Object.keys(jsHash).length === 0)
-          jsHash = await bundling(url.replace('/', ''))
+        if (!jsHash[file])
+          jsHash = await bundling(file)
       } finally {
         release()
       }
