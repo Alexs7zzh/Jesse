@@ -1,4 +1,4 @@
-{% if process.env.ELEVENTY_ENV %}
+{% if env %}
 <script defer async src="{{ '/srcset.js' | jsHash }}"></script>
 {% endif %}
 {% if page.url == '/all/' %}
