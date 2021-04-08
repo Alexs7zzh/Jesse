@@ -32,7 +32,7 @@ image: /assets/2017/v2-bb381a8909b1143bf55adb266d540d95.jpg
 
 <br>
 
-![]({{ "/assets/2017/v2-d880f931d04d4eeaf8447cd87986b96d.jpg" | absolute_url }})
+![](/assets/2017/v2-d880f931d04d4eeaf8447cd87986b96d.jpg)
 
 <br>
 
@@ -44,7 +44,7 @@ Vocaloid 可以让创作者通过调教程序，使其唱出歌声来。Vocaloid
 
 <br>
 
-![]({{ "/assets/2017/v2-b0c3072151636d1cec02632cdbb0c798.jpg" | absolute_url }})
+![](/assets/2017/v2-b0c3072151636d1cec02632cdbb0c798.jpg)
 
 （初音未来被当做 2007 年东京文化的象征编入 Tokyo Culture Story 这个视频里。）
 
@@ -80,7 +80,7 @@ Vocaloid 可以让创作者通过调教程序，使其唱出歌声来。Vocaloid
 
 <br>
 
-![]({{ "/assets/2017/v2-53203559fb17fc0ae7218167cd94e8f9.jpg" | absolute_url }})
+![](/assets/2017/v2-53203559fb17fc0ae7218167cd94e8f9.jpg)
 
 （《idolm@ster 剧场版 走向光辉的未来！》特典 CD 封面。）
 
@@ -112,7 +112,7 @@ LoveLive 最早是在《电击 G's Magazine》上发表的读者参与型企划�
 
 <br>
 
-![]({{ "/assets/2017/v2-74fd316f0551abd93b5d55a683a79960.jpg" | absolute_url }})
+![](/assets/2017/v2-74fd316f0551abd93b5d55a683a79960.jpg)
 
 <br>
 
@@ -122,7 +122,7 @@ LoveLive 最早是在《电击 G's Magazine》上发表的读者参与型企划�
 
 <br>
 
-![]({{ "/assets/2017/IMG_1792.jpg" | absolute_url }})
+![](/assets/2017/IMG_1792.jpg)
 
 （LoveLive 主题的绘马。）
 

@@ -55,14 +55,14 @@ image: /assets/2015/7375720bc71ab6efedfc1f3217fde00c.jpg
 
 就在两个月之前，同样是用「葛军」这个身份，有营销团队在微博进行营销。而相关媒体进行澄清之后，这个账号并没有被新浪禁封，而是改头换面，一抹脸转型成了一个营销号。
 
-![]({{ "/assets/2015/0c0b98c5fad8f59b304aca490beee6a8.jpg" | absolute_url }})
+![](/assets/2015/0c0b98c5fad8f59b304aca490beee6a8.jpg)
 
 <br>
 
 **而其中的重点是，那个当初在微博冒充「葛军」的账号，最初所用的头像，跟今天这个知乎的 [@葛军](https://www.zhihu.com/people/fcc91c678b62d1e334e951acd98b84c1) ，是同一张图片。**
 
-![]({{ "/assets/2015/7375720bc71ab6efedfc1f3217fde00c.jpg" | absolute_url }})
-![]({{ "/assets/2015/ffee82886cc17fce048433ee2174a63e.jpg" | absolute_url }})
+![](/assets/2015/7375720bc71ab6efedfc1f3217fde00c.jpg)
+![](/assets/2015/ffee82886cc17fce048433ee2174a63e.jpg)
 
 <br>
 
@@ -96,4 +96,4 @@ image: /assets/2015/7375720bc71ab6efedfc1f3217fde00c.jpg
 
 20:13 事情已得到解决。
 
-![]({{ "/assets/2015/5775f0e52608cf1d76269d1c97bd6739.jpg" | absolute_url }})
+![](/assets/2015/5775f0e52608cf1d76269d1c97bd6739.jpg)

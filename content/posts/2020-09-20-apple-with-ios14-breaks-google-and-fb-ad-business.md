@@ -60,7 +60,7 @@ iPhone 上一个「弹窗」，击中了谷歌和 FB 的要害。
 
 在 iOS 14 上，苹果将每一台 iPhone 的广告追踪功能做成了一个显性的隐私选项。当用户第一次打开 App 时，iOS 会主动询问用户「是否同意 App 对你进行跨网站、App 的追踪？」。显然，大量用户会选择拒绝。
 
-![]({{ "/assets/2020/ios14-tracking-prevent.jpg" | absolute_url }})
+![](/assets/2020/ios14-tracking-prevent.jpg)
 
 根据苹果一贯的态度，App 开发者不能因为用户「拒绝被追踪」，就限制用户正常使用 App。如果 App 因为用户拒绝开启某个权限就不正常运行，面临的后果很可能是直接无法上架 App Store。类似的做法在安卓平台上则屡见不鲜。
 
@@ -87,7 +87,7 @@ iOS 的微小变化，很快演变成整个行业的地震。
 
 苹果想扮演的不只是「破坏者」的角色。在向 IDFA 模式重拳出击的同时，它也设计了一套新的「重建方案」。
 
-![]({{ "/assets/2020/skad-frame.jpg" | absolute_url }})
+![](/assets/2020/skad-frame.jpg)
 
 两年前，苹果就自己设计了一套针对 iOS 的广告追踪框架，SKAdNetwork。它与 IDFA 一样，可以追踪广告投放的效果。不同的是，SKAd 不会追踪特定的用户或设备，而只会追踪「行为」。
 

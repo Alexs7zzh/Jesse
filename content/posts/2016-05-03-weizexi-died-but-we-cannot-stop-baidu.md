@@ -88,7 +88,7 @@ image: /assets/2016/4c81e2f52388938a715035c926c38682.jpg
 
 没用的。
 
-![]({{ "/assets/2016/771599b4e4acdfb3b2f3afa5472cd484_hd.jpg" | absolute_url }})
+![](/assets/2016/771599b4e4acdfb3b2f3afa5472cd484_hd.jpg)
 
 <br>
 

@@ -90,4 +90,4 @@ IA：…fuck，deja vu 地狱降临，全宇宙都变成我爸爸了。
 
 完
 
-![]({{ "/assets/2018/IMG_1100.jpg" | absolute_url }})
+![](/assets/2018/IMG_1100.jpg)

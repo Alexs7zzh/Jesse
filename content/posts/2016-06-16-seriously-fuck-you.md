@@ -40,7 +40,7 @@ Seriously，所有营销微博公司的工作人员，肏您妈。
 
 <br>
 
-![]({{ "/assets/2016/9829676de0519b2c7cf81bbbfd2c1de0.jpg" | absolute_url }})
-![]({{ "/assets/2016/d4211951725a70aee6e79bfe0179dddd.jpg" | absolute_url }})
-![]({{ "/assets/2016/29aa0d730138bce74fdc0b4d908df385.jpg" | absolute_url }})
-![]({{ "/assets/2016/d6a698cd72963a5c93d8af351331e145.jpg" | absolute_url }})
+![](/assets/2016/9829676de0519b2c7cf81bbbfd2c1de0.jpg)
+![](/assets/2016/d4211951725a70aee6e79bfe0179dddd.jpg)
+![](/assets/2016/29aa0d730138bce74fdc0b4d908df385.jpg)
+![](/assets/2016/d6a698cd72963a5c93d8af351331e145.jpg)

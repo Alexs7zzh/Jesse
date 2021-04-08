@@ -19,7 +19,7 @@ image: /assets/2020/ipad-10-heading.jpg
 
 乔布斯没有解释这张沙发存在的意义，而是直接展示了这款「介于 iPhone 和 MacBook 之间」的设备，iPad。他坐在沙发上，翘起腿，开始用一种前所未有的方式演示浏览网页，收发邮件，管理照片……
 
-![]({{ "/assets/2020/steve-jobs-ipad.jpg" | absolute_url }})
+![](/assets/2020/steve-jobs-ipad.jpg)
 
 十年前的这场初代 iPad 发布会上，乔布斯列举了七大需求，网页、邮件、照片、视频、音乐、游戏、电子书，表示 iPad 在处理这些需求时，比 iPhone 和 MacBook 更具优势。
 
@@ -36,7 +36,7 @@ iPad 和 iPhone 运行着几乎一样的 iPhone OS 系统，所以除了搭载�
 
 起初，大部分第三方 app 都还没有针对 iPad 进行适配开发，只能在 iPad 巨大的屏幕中间显示一个小小的界面，用户也可以将这个界面手动放大至两倍，但渲染分辨率并不会变，所以看起来会有点模糊。一些「老顽固」 app 直到今天都没有针对 iPad 进行适配，比如「著名」的 Instagram。
 
-![]({{ "/assets/2020/instagram-on-ipad.jpg" | absolute_url }})
+![](/assets/2020/instagram-on-ipad.jpg)
 
 2010 年，距离 iPhone 诞生已经过去了三年，越来越多的消费者开始对这套「多点触控交互」感兴趣，基于 iPhone OS 的开发生态也迅速壮大。相比 iPhone，iPad 更能体现触摸交互的优势，因为它更大。用户可以更简单地用手指滑动菜单，放大缩小图片、地图，在「水果忍者」游戏里一刀切开五个水果。
 
@@ -56,7 +56,7 @@ iPad 销量一飞冲天，它更新迭代的速度也惊人的快。
 
 2013 年，iPad 总销售额达到 320 亿美元，是迄今为止 iPad 取得过最好的销售成绩。自此，iPad 的「好日子」结束了。
 
-![]({{ "/assets/2020/photographer-with-iphone.jpg" | absolute_url }})
+![](/assets/2020/photographer-with-iphone.jpg)
 
 iPad 之所以能成功，其中一个重要因素在于移动互联网的发展。但随着智能手机的发展和普及，平板电脑终究只能是这个时代的配角。
 
@@ -78,7 +78,7 @@ iPad 之所以能成功，其中一个重要因素在于移动互联网的发展
 
 这成为了 iPad 独特软件交互的基础。如果说之前的 iPad 在软件层面还只是一个「放大版的 iPhone」，从 iOS 9 开始，iPad 有了一套更适合自己的软件。
 
-![]({{ "/assets/2020/ipad-split-view.jpg" | absolute_url }})
+![](/assets/2020/ipad-split-view.jpg)
 
 三个月后，2015 年 9 月，iPad Pro 问世。
 
@@ -86,7 +86,7 @@ iPad 之所以能成功，其中一个重要因素在于移动互联网的发展
 
 配备 Smart Keyboard 和 Apple Pencil 的 iPad Pro，成为了一个全新的设备，一个「触屏」的、「可以涂鸦、绘画」的、「运行 iOS 软件」的，新的电脑。
 
-![]({{ "/assets/2020/ipad-notes-10.jpg" | absolute_url }})
+![](/assets/2020/ipad-notes-10.jpg)
 
 之后几年里，iPad 在生产力这条路上越走越远。2018 年 10 月，全新设计的 iPad Pro 推出，集各种先进技术于一身。搭载广角 Face ID，可以在任意方向下识别面部解锁；内置了 102 块磁铁用于吸附新款的键盘外壳和 Apple Pencil，且可以给 Pencil 无线充电。
 
@@ -102,7 +102,7 @@ iOS 也加入了越来越多针对 iPad 的功能，包括类似 macOS 的 Dock 
 
 今天，你很难用一个词准确定义 iPad。它是一个「内容消费设备」？还是一个「生产力工具」？还是一个「教具」？这些都正确，但都不准确。
 
-![]({{ "/assets/2020/ipad-drone-10.jpg" | absolute_url }})
+![](/assets/2020/ipad-drone-10.jpg)
 
 2017 年末，苹果发布了一个 iPad Pro 广告，广告中的小女孩拿着自己的 iPad 走街串巷，做各种各样的事，工作、交流、娱乐……最后，她的母亲问她，「你在电脑上干什么呢？」，女孩反问「What's a computer?（电脑是什么？）」
 
@@ -112,7 +112,7 @@ iOS 也加入了越来越多针对 iPad 的功能，包括类似 macOS 的 Dock 
 
 有人会用「买前生产力，买后爱奇艺」来调侃 iPad 作为一个生产力工具的不成熟。但越来越多的人正在用 iPad 做各种各样的事，比如这篇文章就是在我的 iPad Pro 上写的。除此之外，我还会用它编辑照片、管理博客，扫描一些纸质文件、用 Apple Pencil 在合同上签名……我身边还有朋友会用 iPad Pro 连接到 Github 管理代码；用 iPad Pro 设计图标、画画、作曲编曲、在课堂上做笔记。当然，我们也都会用它看视频、听音乐、收发消息。
 
-![]({{ "/assets/2020/ipad-music-10.jpg" | absolute_url }})
+![](/assets/2020/ipad-music-10.jpg)
 
 销量上，iPad 至今没有恢复到巅峰时期的水平。自 2017 年触底后，整个 iPad 业务开始以一个相对缓慢的速度增长。这与之前「乘着时代的浪潮前进」不同，iPad 走入了一个更复杂，也艰难得多的领域。
 

@@ -30,7 +30,7 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 <br>
 
-![]({{ "/assets/2015/a99f7100b71bff74f5a57d0fddcf2f0f.jpg" | absolute_url }})
+![](/assets/2015/a99f7100b71bff74f5a57d0fddcf2f0f.jpg)
 
 ## watchOS 2
 
@@ -44,7 +44,7 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 <br>
 
-![]({{ "/assets/2015/177df60a665cdb1da0df8881182a4d22.jpg" | absolute_url }})
+![](/assets/2015/177df60a665cdb1da0df8881182a4d22.jpg)
 
 ## iPad Pro
 
@@ -62,7 +62,7 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 <br>
 
-![]({{ "/assets/2015/8552d6bf50c531d54fc21ac51bd0ae68.jpg" | absolute_url }})
+![](/assets/2015/8552d6bf50c531d54fc21ac51bd0ae68.jpg)
 
 ## Apple TV
 
@@ -80,7 +80,7 @@ Android平台本身跟硬件的粗糙适应，让我每天面对各种各样的�
 
 <br>
 
-![]({{ "/assets/2015/7d00345bdf56aa3a897737104c83058d.jpg" | absolute_url }})
+![](/assets/2015/7d00345bdf56aa3a897737104c83058d.jpg)
 
 ## iPhone 6s & 6s Plus
 

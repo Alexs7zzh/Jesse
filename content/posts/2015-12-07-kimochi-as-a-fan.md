@@ -83,4 +83,4 @@ AKB48，十年祝贺。
 
 以上。
 
-![]({{ "/assets/2015/IMG_0623.jpg" | absolute_url }})
+![](/assets/2015/IMG_0623.jpg)

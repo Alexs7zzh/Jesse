@@ -20,7 +20,7 @@ image: /assets/2020/iphone-12-event-header.jpg
 
 所以当我在 3G 网络下，用 iPhone 4 第一次刷出「图文并茂」的微博时，那个体验是非常震撼的。4G 落地的时候，虽然应用体验没有特别大的变化，但资费下调带来的改变还是很明显的，我用不再担心「流量超额」这件事了。
 
-![]({{ "/assets/2020/iphone-12-5g.jpg" | absolute_url }})
+![](/assets/2020/iphone-12-5g.jpg)
 
 谈到 5G，过去一年可能所有人都经历了一轮心理上的「降温」。5G 在建设、应用中的阻力暴露，信号覆盖的难度、基站的建设和运营成本、包括终端功耗，解决起来都很麻烦。伴随着 4G 服务的劣化，未来充满了重重困难。
 
@@ -34,7 +34,7 @@ image: /assets/2020/iphone-12-event-header.jpg
 
 你要知道，当年乔布斯那一句「3.5 寸是最适合人手的屏幕尺寸」坑了多少人。后来从三星 Galaxy S2、到 Note 系列、到苹果自己的 iPhone 6，市场一次又一次用销量证明，大就是好。
 
-![]({{ "/assets/2020/iphone-12-mini.jpg" | absolute_url }})
+![](/assets/2020/iphone-12-mini.jpg)
 
 但智能手机市场真的饱和了，饱和到连苹果都要做细分市场，不然就真没发展空间了。新 iPhone 从最初的一款，到现在算上不同颜色直接给你来 18 款。对苹果来说，只要供应链管理跟得上，多做一个尺寸就能多覆盖一点人群，也就多一点大卖的可能性。
 
@@ -53,7 +53,7 @@ iPhone 12 和 12 Pro 的总体路线没变，但苹果把两者之间最关键�
 
 因为苹果的业务发展，正在逐步摆脱对 iPhone 销售额的依赖，追求更多元化发展。导致的后果就是，Pro 的吸引力越来越小了。现在的 Pro，越来越有 Apple Watch 不锈钢表壳版本内味儿了。
 
-![]({{ "/assets/2020/iphone-12-pro.jpg" | absolute_url }})
+![](/assets/2020/iphone-12-pro.jpg)
 
 Pro 的立足点在于相机——苹果在 4 款手机上用了三套不同的相机系统。
 
@@ -85,7 +85,7 @@ iPhone 12 是一代「全新 iPhone」吗？当然是。
 
 但这一次，苹果所做的不是「定义未来」。相反，它把定义和选择的权力，交给了用户。无论是屏幕尺寸、相机规格和功能、充电方式、配件的搭配、5G 结合 LiDAR 的应用，都由用户自己决定。
 
-![]({{ "/assets/2020/iphone-12-various-choice.jpg" | absolute_url }})
+![](/assets/2020/iphone-12-various-choice.jpg)
 
 过去每一次 iPhone 有形态变化的时候，苹果都会尽量减少 SKU，给用户少点选择。毕竟高端产品就要一锤定音，但走到今天，时代已经变了。
 
@@ -103,7 +103,7 @@ iOS 14 上，苹果针对 Siri 做了很多优化，我日常使用 iPhone 和 C
 
 目前苹果的思路，是把 iPhone 打造成 Siri 体验的中枢。就是说，你的所有偏好数据，主要存在 iPhone 上，当你通过 HomePod 访问 Siri 时，Siri 会再去局域网内的 iPhone 上获取你的相关数据。
 
-![]({{ "/assets/2020/homepod-mini.jpg" | absolute_url }})
+![](/assets/2020/homepod-mini.jpg)
 
 总之，这个事情做起来，相比 Siri on iCloud，会复杂很多。Siri 体验的优化之路，还很漫长。
 

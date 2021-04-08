@@ -13,7 +13,7 @@ image: /assets/2015/9da61afe3dad83c92772918340ee4d58.jpg
 
 ## Apple Music
 
-![]({{ "/assets/2015/d3a9b302637b74a029c2f25cbbdadc3b.jpg" | absolute_url }})
+![](/assets/2015/d3a9b302637b74a029c2f25cbbdadc3b.jpg)
 
 昨晚的发布会，当Jimmy Lovine出来向大家介绍Apple Music的时候，大多数熬夜关注WWDC的朋友，甚至包括那些科技媒体的运营，在前20分钟都不知道发生了什么。**苹果在首次推出iTunes改变了数字音乐的销售之后，现在它要做最好同时又是最便宜的流媒体服务了。**
 
@@ -31,15 +31,15 @@ $9.99一个月的价格和Spotify一样，前三个月对所有Apple用户免费
 
 在前面一篇专栏里我说了苹果的「禁欲系」设计取向，而在乔布斯去世之后，Jonathan Ive也一直在着手把自己的设计风格更多地带进来，而今年他出任CDO之后，给我们带来了，iOS9 - after you get high 。
 
-![]({{ "/assets/2015/27aa53ff534ae273dc8f7a6ea7d549f9.jpg" | absolute_url }})
+![](/assets/2015/27aa53ff534ae273dc8f7a6ea7d549f9.jpg)
 
-![]({{ "/assets/2015/43feb71328d9effa5c6fbd0d5b8afd31.jpg" | absolute_url }})
+![](/assets/2015/43feb71328d9effa5c6fbd0d5b8afd31.jpg)
 
 从这个Siri的动画开始，到搜索后结果选择进入的光效。iOS9给我的感觉就是，这个效果确定不是哪个hippie设计师嗑high了弄出来的东西？
 
 不过我仍然觉得Jony Ive搞的这套东西也好，Google现在力推的Material Design也好，都是非常好的尝试。或许iOS7开始的扁平化在设计上包容度并不那么好，但Apple在设计上的号召力大家应该已经看到了。对色彩更大胆的运用，其实是更符合年轻人的胃口的。
 
-![]({{ "/assets/2015/d54263b5c49465102c1613fbdc08fc56.jpg" | absolute_url }})
+![](/assets/2015/d54263b5c49465102c1613fbdc08fc56.jpg)
 
 很多人都说苹果变了，开放这么多API给开发者，在功能上不断做加法，已经背离了乔布斯最初设计iOS的理念了。
 
@@ -47,7 +47,7 @@ $9.99一个月的价格和Spotify一样，前三个月对所有Apple用户免费
 
 我相信搜索功能的API也跟开放的通知中心一样易于管理，让你很容易就可以把那些乱推垃圾信息的app拒之门外。
 
-![]({{ "/assets/2015/aea198eff5f420d5fa35ab642137b176.jpg" | absolute_url }})
+![](/assets/2015/aea198eff5f420d5fa35ab642137b176.jpg)
 
 苹果在这一场show上的重点就是对自己内容服务的深化。无论是更好用的Spotlight，还是News，还是Apple Music 。在经过了成为世界上最好的互联网内容获取设备之后，想要进一步优化用户通过设备获取信息的体验，自己介入去做内容在某种角度上就是非常必要的了。
 
@@ -55,11 +55,11 @@ $9.99一个月的价格和Spotify一样，前三个月对所有Apple用户免费
 
 现在苹果要把这些东西做成一个框架来给各大媒体使用，无论是对阅读体验有着较高要求的用户，还是对媒体本身来说，都会是个好消息。
 
-![]({{ "/assets/2015/ec125ec05383225954538d724969f77a.jpg" | absolute_url }})
+![](/assets/2015/ec125ec05383225954538d724969f77a.jpg)
 
 ApplePay和Passbook的整合。这一点就像我在Google I/O结束的时候评价AndroidPay一样，这两家现在做不做颠覆性的新功能暂且不论，但互相肯定是不会允许对方有的某个实用性的功能自己没有这样的事情发生的。
 
-![]({{ "/assets/2015/5b64c65b3fcf6b0f15ea6186b668141c.jpg" | absolute_url }})
+![](/assets/2015/5b64c65b3fcf6b0f15ea6186b668141c.jpg)
 
 其实我们还是很容易看到苹果的态度。这个拥有着世界上运行最流畅的两个操作系统的企业，在跨出一个功能上的一大步之后，仍然马上转头继续不断优化自己的体验。你也不得不承认，苹果目前依然在给众多的普通消费者带来最好的消费级体验。
 
@@ -71,9 +71,9 @@ ApplePay和Passbook的整合。这一点就像我在Google I/O结束的时候评
 
 你也可以看到，即便与前面可以说相对平淡的OS X和iOS发布比起来，底下的开发者对于watchOS发布稀稀拉拉的掌声，更没有欢呼，都体现了这个产品其实还停留在一个非常非常初级的阶段。
 
-![]({{ "/assets/2015/452f492192b54b525f5291a1463d7f3c.jpg" | absolute_url }})
+![](/assets/2015/452f492192b54b525f5291a1463d7f3c.jpg)
 
-![]({{ "/assets/2015/94131b5d885388eebbac65dbb972ac54.jpg" | absolute_url }})
+![](/assets/2015/94131b5d885388eebbac65dbb972ac54.jpg)
 
 难以想象苹果居然会在发布会上把这些，night-stand mode、支持多种颜色的Digital Touch当个正儿八经的功能来发布。Kevin Lynch在台上不断地问 " Isn't it cool? " 的时候我已经在脑海里重复了一万遍 "Absolutely not." 了。
 

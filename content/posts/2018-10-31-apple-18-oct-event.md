@@ -17,7 +17,7 @@ iPad 和 Mac 所处的位置正变得愈发尴尬。
 
 <br>
 
-![]({{ "/assets/2018/macbook-air.jpg" | absolute_url }})
+![](/assets/2018/macbook-air.jpg)
 ## MacBook Air 2018
 苹果再次用上 Air 这个名字，说明 MacBook / MacBook Pro，iPad / iPad Pro 这种命名方式已是「过去时」了。
 
@@ -39,7 +39,7 @@ iPad 和 Mac 所处的位置正变得愈发尴尬。
 
 <br>
 
-![]({{ "/assets/2018/macmini.jpg" | absolute_url }})
+![](/assets/2018/macmini.jpg)
 ## Mac mini 2018
 跟预测的一模一样。Mac mini 在数不清多少年之后，迎来了一次配置更新。以及有了「现代 Mac 必备」的深空灰色。
 
@@ -51,7 +51,7 @@ iPad 和 Mac 所处的位置正变得愈发尴尬。
 
 <br>
 
-![]({{ "/assets/2018/today-at-appple.jpg" | absolute_url }})
+![](/assets/2018/today-at-appple.jpg)
 ## Today at Apple
 这场发布会给了 Angela Ahrendts 一段超长的时间来讲苹果未来在 Apple Store 上的布局，发布了一系列新的 Today at Apple 课程。这让人不免产生联想，传闻中她将成为 Tim Cook 的继任者，接棒 CEO 的位置，难道是真的？
 
@@ -69,7 +69,7 @@ iPad 和 Mac 所处的位置正变得愈发尴尬。
 
 <br>
 
-![]({{ "/assets/2018/ipad-pro.jpg" | absolute_url }})
+![](/assets/2018/ipad-pro.jpg)
 ## iPad Pro 2018
 iPad Pro 是今年最重要的一款苹果新产品。
 

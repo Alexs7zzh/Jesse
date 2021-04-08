@@ -9,7 +9,7 @@ Function
 - [x] table of contents
 
 Immigration
-- [ ] 移除所有 absolute_url
+- [x] 移除所有 absolute_url
 - [ ] 移除所有 post_url
 - [x] 移除所有 excerpt_img
 - [x] 更改 assets url

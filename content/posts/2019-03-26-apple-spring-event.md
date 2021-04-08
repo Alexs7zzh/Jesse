@@ -14,7 +14,7 @@ image: /assets/2019/think-different.jpg
 
 <br>
 
-![]({{ "/assets/2019/apple-news.jpg" | absolute_url }})
+![](/assets/2019/apple-news.jpg)
 
 ## Apple News+
 库克非常自豪地宣布 Apple News 已经是美国排名第一的「新闻 App」，但这其实是一个比较鸡贼的说法。因为无论是 Google 还是 Facebook 的 app，都有「看新闻」的功能，但它们都不能被归类为「新闻 App」，且美国大部分媒体都有自己的网页和 App，像 Apple News 这样专门的新闻聚合 App 是很少的。事实上，如果考虑用户数和使用时间，Apple News 完全无法和 Facebook、Google 相提并论，这是苹果所面临的现状。
@@ -27,7 +27,7 @@ Apple News+ 基本就是 Texture 的翻版，只需要 10 美元一个月就可�
 
 <br>
 
-![]({{ "/assets/2019/apple-card.jpg" | absolute_url }})
+![](/assets/2019/apple-card.jpg)
 
 ## Apple Card
 从 2014 年秋天到现在，Apple Pay 已经 4 岁半了，它在 2019 年的目标是突破 100 亿笔交易。库克表示这是个巨大的数字，但支付宝在 2018 年的交易笔数是 1975 亿，财付通（微信支付）是 4600 亿。虽然这里 Apple Pay 的交易基本都是对商户的，平均金额会更高。支付宝微信的交易里有大量小额的转账，水分更多。但 Apple Pay 的发展还是遇到了一些瓶颈。
@@ -38,7 +38,7 @@ Apple Pay 的问题不在于产品。它很方便，在发达国家的接受度�
 
 <br>
 
-![]({{ "/assets/2019/apple-arcade.jpg" | absolute_url }})
+![](/assets/2019/apple-arcade.jpg)
 
 ## Apple Arcade
 100 多个游戏；全部苹果独占；横跨 iPhone、iPad、Mac 和 Apple TV；没有内购项目；价格未知。
@@ -49,7 +49,7 @@ Apple Pay 的问题不在于产品。它很方便，在发达国家的接受度�
 
 <br>
 
-![]({{ "/assets/2019/apple-tv.jpg" | absolute_url }})
+![](/assets/2019/apple-tv.jpg)
 
 ## Apple TV+
 在「高筑墙，广积粮」几年之后，苹果不能再「缓称王」了，因为 Netflix 已经在世界范围内冉冉升起。苹果和老对手亚马逊化干戈为玉帛，集结一帮大小媒体，对 Netflix 发起了一场「六大门派围攻光明顶」。

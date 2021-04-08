@@ -44,7 +44,7 @@ image: "/assets/2017/v2-70eaddaf985368106ece0c66e3506dcc.jpg"
 
 而今天呢？知乎一个月之前刚刚发布了「轮带逛」的官方表情。
 
-![]({{ "/assets/2017/v2-4c1cbdf05dd08e1f2f312980d9b5c6cd.jpg" | absolute_url }})
+![](/assets/2017/v2-4c1cbdf05dd08e1f2f312980d9b5c6cd.jpg)
 
 看到这个[答案](https://www.zhihu.com/question/39175384/answer/87196245)，深以为然。
 

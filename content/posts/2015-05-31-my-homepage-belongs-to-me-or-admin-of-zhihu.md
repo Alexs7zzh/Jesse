@@ -15,17 +15,17 @@ image: /assets/2015/6b2522ab57355b9d435368c8d4999ca7.jpg
 
 几分钟后，我处理完了自己的消息，再刷新了一下TL，我的TL变成这样了。
 
-![]({{ "/assets/2015/e3afdab04f3911da000babd2224083ae.jpg" | absolute_url }})
+![](/assets/2015/e3afdab04f3911da000babd2224083ae.jpg)
 
 怎么不见了？我点进子雄的个人主页，这些动态还清清楚楚地展示在他的主页上啊？
 
-![]({{ "/assets/2015/800cf7612ca644997aa011e4bda108c7.jpg" | absolute_url }})
+![](/assets/2015/800cf7612ca644997aa011e4bda108c7.jpg)
 
-![]({{ "/assets/2015/20a137f238f3ba8c0363d4c54c3b31a7.jpg" | absolute_url }})
+![](/assets/2015/20a137f238f3ba8c0363d4c54c3b31a7.jpg)
 
 而我也没有开那个让知乎官方决定我的TL上显示什么的功能啊。 
 
-![]({{ "/assets/2015/5ac958ba1df362d141a43d6a6be946b5.jpg" | absolute_url }})
+![](/assets/2015/5ac958ba1df362d141a43d6a6be946b5.jpg)
 
 再结合一下头几天 [@Shimizumint](https://www.zhihu.com/people/c6a88903a476789b098a088182c69fe1) 巨巨莫名出现在其关注者TL上的点赞（[被点赞的我。 - 残念少女 - 知乎专栏](https://zhuanlan.zhihu.com/enokitsukanon/20050432)），贵乎的TL上的bug还真是多啊。
 

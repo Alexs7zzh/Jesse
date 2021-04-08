@@ -54,7 +54,7 @@ image: /assets/2015/d337b7796cd30e5c9d063b331df2a6d4.jpg
 
 然而接下来的剧情是这样的。
 
-![]({{ "/assets/2015/d76457bb52db27fd1ee13892a15ba0e4.jpg" | absolute_url }})
+![](/assets/2015/d76457bb52db27fd1ee13892a15ba0e4.jpg)
 
 所以你的意思是「有赌不算输」么？
 

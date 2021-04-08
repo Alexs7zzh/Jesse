@@ -11,7 +11,7 @@ image: /assets/2019/sex-education-1.jpg
 
 <br>
 
-![]({{ "/assets/2019/sex-education-2.jpg" | absolute_url }})
+![](/assets/2019/sex-education-2.jpg)
 ## 性的迷思
 作为一部分级 16+ 的电影，《Sex Education》对性的描写毫不避讳。从第一集的第一幕开始，它就一直在试图通过直白的描写，来破除一种关于性的迷思，继而由此消除青少年对性的焦虑。无论是第一集里太在意自己「床上表现」从而无法成功射精的 Adam；在床上永远只会迎合男性，不明白自己需求的 Aimee；有「处女焦虑」所以到处找男生想要破处的 Lily；一直维持着自己「完美」的形象，害怕别人发现自己阴道很丑的 Ruby……
 
@@ -21,7 +21,7 @@ image: /assets/2019/sex-education-1.jpg
 
 <br>
 
-![]({{ "/assets/2019/sex-education.jpg" | absolute_url }})
+![](/assets/2019/sex-education.jpg)
 ## 爱的教育
 按照正常的戏剧逻辑，一个迷思被打倒了，必须要重建一套新的东西。《Sex Education》在破除了性的迷思之后，将主题落到了「性」背后的「爱」上。
 
@@ -33,7 +33,7 @@ image: /assets/2019/sex-education-1.jpg
 
 <br>
 
-![]({{ "/assets/2019/sex-education-3.jpg" | absolute_url }})
+![](/assets/2019/sex-education-3.jpg)
 ## Origin of Love
 《Sex Education》讲的是一个和解的故事。在这样一个压力很大，随时都在被身边的同学注视着、judging 着的高中里，你要学会放松，学会自信，学会勇敢。与他人和解，以及更重要的，与自己和解。
 

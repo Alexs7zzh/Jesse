@@ -13,7 +13,7 @@ image: /assets/2016/v2-56fa6d15f92ebddec2b7494806650fc4.jpg
 
 <br>
 
-![]({{ "/assets/2016/v2-fc8eb45d58a0320140f5c01d9c1994d7.jpg" | absolute_url }})
+![](/assets/2016/v2-fc8eb45d58a0320140f5c01d9c1994d7.jpg)
 
 ## Accessibility
 
@@ -35,7 +35,7 @@ _Tim Cook 回顾了 iPhone 7 和 Apple Watch 发布一个多月以来取得的�
 
 <br>
 
-![]({{ "/assets/2016/v2-95009221914083a5abd100a34b7be3af.jpg" | absolute_url }})
+![](/assets/2016/v2-95009221914083a5abd100a34b7be3af.jpg)
 
 ## Apple TV
 
@@ -65,7 +65,7 @@ Apple TV 的硬件没有更新，可能意味着，苹果已经开始意识到�
 
 <br>
 
-![]({{ "/assets/2016/v2-515159ca3441089448f1fb9a273b488c.jpg" | absolute_url }})
+![](/assets/2016/v2-515159ca3441089448f1fb9a273b488c.jpg)
 
 ## 新 MacBook Pro
 
@@ -77,7 +77,7 @@ _价格上，新 MacBook Pro 分为三个大类，13 寸不带 Touch Bar、13 �
 
 <br>
 
-![]({{ "/assets/2016/v2-84ae9aa9ec3dccbeea04aa20eb8aaf92.jpg" | absolute_url }})
+![](/assets/2016/v2-84ae9aa9ec3dccbeea04aa20eb8aaf92.jpg)
 
 ### Touch Bar
 
@@ -95,7 +95,7 @@ Touch Bar 就是一个典型的这个逻辑之下诞生的东西，即使苹果�
 
 <br>
 
-![]({{ "/assets/2016/v2-033944b866fb1d767000268988fd2123.jpg" | absolute_url }})
+![](/assets/2016/v2-033944b866fb1d767000268988fd2123.jpg)
 
 ### Thunderbolt 3 接口
 

@@ -12,7 +12,7 @@ image: /assets/2015/f8d7e40aa2a4ecf5a892c9f54d013e2b.jpg
 
 --- LCS.EU解说Trevor Henry
 
-![]({{ "/assets/2015/aecfe35d17353c89470874fbcc4b50ef.jpg" | absolute_url }})
+![](/assets/2015/aecfe35d17353c89470874fbcc4b50ef.jpg)
 
 我想，应该没有人会不喜欢xPeke，这样一个有着如地中海阳光一般灿烂笑容的西班牙男孩吧。他身上有总冠军的成绩，被载入史册的传奇时刻，对朋友毫无保留的义气，让胜利的天平一次次倒向他却没人能模仿的游戏理解。
 
@@ -28,7 +28,7 @@ image: /assets/2015/f8d7e40aa2a4ecf5a892c9f54d013e2b.jpg
 
 在淘汰赛中连续击败CLG.EU、aAa之后，xPeke成为了第一个捧起召唤师奖杯的选手之一。
 
-![]({{ "/assets/2015/30bfd7fdf2e68ae124109bcd5baf5d9e.jpg" | absolute_url }})
+![](/assets/2015/30bfd7fdf2e68ae124109bcd5baf5d9e.jpg)
 
 <br>
 
@@ -46,7 +46,7 @@ image: /assets/2015/f8d7e40aa2a4ecf5a892c9f54d013e2b.jpg
 
 但xPeke不止是一个天才，他还有着绵长的后劲，他对游戏的理解一直到S5都前无古人后无来者。在S2的短暂低谷之后，xPeke再次崛起，之后他一直保持着上佳的状态，他的职业寿命贯穿整个LOL历史，他在职业的舞台上看着Froggen、Alex新人变旧人，直到S5，他仍然用他招牌式的笑容，面对着全世界的观众。
 
-![]({{ "/assets/2015/9f15d692e84477e1de45270559fd6ec3.jpg" | absolute_url }})
+![](/assets/2015/9f15d692e84477e1de45270559fd6ec3.jpg)
 
 <br>
 
@@ -56,7 +56,7 @@ image: /assets/2015/f8d7e40aa2a4ecf5a892c9f54d013e2b.jpg
 
 就像经过S2的沉寂之后，xPeke宣告归来的那一场战役。
 
-![]({{ "/assets/2015/47af4538ca545a7b332b8d3c2fd91a9b.jpg" | absolute_url }})
+![](/assets/2015/47af4538ca545a7b332b8d3c2fd91a9b.jpg)
 
 <br>
 
@@ -88,7 +88,7 @@ xPeke仍然是fnatic的英雄，是欧洲之星。但道高一尺，魔高一丈
 
 然而xPeke所想要的，明显不是一次「任性」那么简单。身后是三个几乎被战队「抛弃」的老将，和一个完全没有职业经验的新人Niels，xPeke带着OG从欧洲的LSPL，挑战者联赛，一路杀进LCS.EU，虽然在LCS夏季季后赛里最终2比3惜败老东家Fnatic，但所幸仍然进入S5，最后在世界赛上，和Fnatic，并肩作为两颗闪闪发光的欧洲之星，各占据一个四强席位。
 
-![]({{ "/assets/2015/f8d7e40aa2a4ecf5a892c9f54d013e2b.jpg" | absolute_url }})
+![](/assets/2015/f8d7e40aa2a4ecf5a892c9f54d013e2b.jpg)
 
 游戏天才的固有形象，往往就是Faker、Bjergsen这样，内敛、单纯、不问世事、甚至面对游戏之外的事情，是有点呆滞的，他们很多时候只关心比赛的胜利。而xPeke则不同，他在镜头前有着自己招牌式的笑容，除了比赛的成绩，他更在意的东西或许还有家人，朋友，英雄主义。
 
@@ -98,4 +98,4 @@ xPeke仍然是fnatic的英雄，是欧洲之星。但道高一尺，魔高一丈
 
 xPeke离开的背影，辉煌，且洒下一路星光。
 
-![]({{ "/assets/2015/dacd33c3c0fe98dc3e316f4c29c679de.jpg" | absolute_url }})
+![](/assets/2015/dacd33c3c0fe98dc3e316f4c29c679de.jpg)

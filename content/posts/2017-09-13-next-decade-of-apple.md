@@ -35,7 +35,7 @@ image: /assets/2017/iphone-x-snap.jpg
 
 并且在这样一个时间点，已经没人能否定他所传达给整个世界的巨大能量。
 
-![]({{ "/assets/2017/v2-d9090ae380c7a7169af12efa5ddb0954.jpg" | absolute_url }})
+![](/assets/2017/v2-d9090ae380c7a7169af12efa5ddb0954.jpg)
 
 <br>
 
@@ -52,7 +52,7 @@ image: /assets/2017/iphone-x-snap.jpg
 
 Today at Apple 的重点在于让 Apple Store 课程的重点不在只是「学」什么，而是有很多可以纯粹去享受、去简单了解的项目。这让每个人都能简单地参与到其中来。
 
-![]({{ "/assets/2017/v2-082b4ae7f957ba835b3b85b707d03891.jpg" | absolute_url }})
+![](/assets/2017/v2-082b4ae7f957ba835b3b85b707d03891.jpg)
 
 <br>
 
@@ -79,7 +79,7 @@ Apple Watch Series 3 加入了 LTE 移动网络，我实在是想不通其除了
 
 这让包括我在内的一大批觉得 Apple Watch「太卡」的用户应当可以松一口气了，或许再过个一两年，Apple Watch 上运行独立顺畅地运行一些原生 App 就可以不再是梦想了。
 
-![]({{ "/assets/2017/v2-3ac61f0331d08a175d6f38bec3930515.jpg" | absolute_url }})
+![](/assets/2017/v2-3ac61f0331d08a175d6f38bec3930515.jpg)
 
 <br>
 
@@ -104,7 +104,7 @@ Apple TV 4K 加上其可能与 iPhone、iPad 的联动，这完全是一套世�
 
 Apple TV 就好好当自己的 TV 吧，游戏机？不存在的。
 
-![]({{ "/assets/2017/v2-98d4f17791a6b9fd3d1a8a48d8a4c8ae.jpg" | absolute_url }})
+![](/assets/2017/v2-98d4f17791a6b9fd3d1a8a48d8a4c8ae.jpg)
 
 <br>
 
@@ -125,7 +125,7 @@ Phil Schiller 的语速提前揭示了 iPhone 8 沦为 iPhone 7 小改款的身�
 
 但我们也没有忘记之前爆出苹果正在合作的那家致力于做出广范围无线充电的公司，也许今年的无线充电也只是一个引子，能彻底颠覆无限充电方式的技术其实已经在路上了。明年或者后年将会和我们见面。
 
-![]({{ "/assets/2017/v2-b7513a26ec1ed4b421b82ced161c4776.jpg" | absolute_url }})
+![](/assets/2017/v2-b7513a26ec1ed4b421b82ced161c4776.jpg)
 
 <br>
 
@@ -177,7 +177,7 @@ Phil Schiller 的语速提前揭示了 iPhone 8 沦为 iPhone 7 小改款的身�
 
 当 Craig Federighi 演示在 SnapChat 里往脸上涂颜料的时候，我相信大部分人都其效果之逼真震惊到了。结合之前演示的 AR 游戏的效果，以及更早在互联网上流传的 ARKit 与 Google 的 AR 套件的效果对比，苹果在这个领域的技术储备已经走出很远了。
 
-![]({{ "/assets/2017/v2-8054e5e6f7a8a075b6253720f6d297b3.jpg" | absolute_url }})
+![](/assets/2017/v2-8054e5e6f7a8a075b6253720f6d297b3.jpg)
 
 <br>
 

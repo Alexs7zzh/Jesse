@@ -74,4 +74,4 @@ image: /assets/2021/money-dollar-bill.jpg
 
 购买请转账 99 元至支付宝 & Paypal: jessechan42@gmail.com ，并备注你的邮箱地址，用于接收内容。
 
-![]({{ "/assets/2021/lifehacking-101-deluxe-payment.jpg" | absolute_url }})
+![](/assets/2021/lifehacking-101-deluxe-payment.jpg)

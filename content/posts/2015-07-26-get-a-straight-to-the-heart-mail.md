@@ -10,7 +10,7 @@ image: /assets/2015/3c8e55233409249093fde161bede19a6.jpg
 
 私信的内容是这样的。
 
-![]({{ "/assets/2015/571be2b29948a73b6b938ea77ba7245f_hd.jpg" | absolute_url }})
+![](/assets/2015/571be2b29948a73b6b938ea77ba7245f_hd.jpg)
 
 （其id已处理）
 

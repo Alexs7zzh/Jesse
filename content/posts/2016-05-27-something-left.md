@@ -26,7 +26,7 @@ image: /assets/2016/8135c48979360cc5618785db9644b64f.jpg
 
 来回横穿了两次，最后一次又是一对母女，骑着脚踏车横穿这里。一起过去之后，我还在回头看电车，他们好奇地看了看我，骑走了。这时候，才想起来，好像应该拍照。举起手机随便拍了一张。后来才发现，好像跟动画里最后飞驰而过的电车，是一样的车。
 
-![]({{ "/assets/2016/13503ba34dbb7db96dda219acb27990d.jpg" | absolute_url }})
+![](/assets/2016/13503ba34dbb7db96dda219acb27990d.jpg)
 
 <br>
 
@@ -50,7 +50,7 @@ image: /assets/2016/8135c48979360cc5618785db9644b64f.jpg
 
 -「没赶上 Final LoveLive，ごめんね。」，在心里默默地说。
 
-![]({{ "/assets/2016/ea899bf0622cb3de493bb222f73f33d5.jpg" | absolute_url }})
+![](/assets/2016/ea899bf0622cb3de493bb222f73f33d5.jpg)
 
 <br>
 

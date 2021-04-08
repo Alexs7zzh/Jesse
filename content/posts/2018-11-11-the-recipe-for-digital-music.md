@@ -30,7 +30,7 @@ Tim Cook 在一次采访中说，数字音乐所关乎的，不应是「冰冷�
 
 乔布斯展示了这样一张表，来解释 iPod 如何能让用户以相对低的成本，随身携带更多更高品质的音乐。
 
-![]({{ "/assets/2018/ipod-advantage.jpg" | absolute_url }})
+![](/assets/2018/ipod-advantage.jpg)
 
 <br>
 

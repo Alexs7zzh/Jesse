@@ -28,7 +28,7 @@ watchOS / tvOS / macOS / iOS 10 / 总结
 
 **关于 watchOS 3，最重要的一件事情就是，9 月发新的 Apple Watch 的可能性已经非常非常大了。**
 
-![]({{ "/assets/2016/0f9541db89c1a40d8bf3338c0b280397.jpg" | absolute_url }})
+![](/assets/2016/0f9541db89c1a40d8bf3338c0b280397.jpg)
 
 <br>
 
@@ -74,7 +74,7 @@ watchOS / tvOS / macOS / iOS 10 / 总结
 
 **它缓缓地跟在 iOS 的身后，但我们发现，Apple TV 终于开始与 iOS 设备在操作上进行互动了。**
 
-![]({{ "/assets/2016/022b78220ea52618fb446f36aaa00cdc.jpg" | absolute_url }})
+![](/assets/2016/022b78220ea52618fb446f36aaa00cdc.jpg)
 
 <br>
 
@@ -120,7 +120,7 @@ watchOS / tvOS / macOS / iOS 10 / 总结
 
 **越来越像 iOS ，越来越紧贴 iOS 的 Mac，苹果是在为谁造电脑？**
 
-![]({{ "/assets/2016/884b96d991ef3c5cddbd541e0bc09c60.jpg" | absolute_url }})
+![](/assets/2016/884b96d991ef3c5cddbd541e0bc09c60.jpg)
 
 <br>
 
@@ -152,7 +152,7 @@ watchOS / tvOS / macOS / iOS 10 / 总结
 
 **苹果在推销的，远远不只是一台 iPhone ，而是一种绚烂的生活方式。**
 
-![]({{ "/assets/2016/92cb3876c7ff7b505a506fcba2376c3a.jpg" | absolute_url }})
+![](/assets/2016/92cb3876c7ff7b505a506fcba2376c3a.jpg)
 
 <br>
 
@@ -212,7 +212,7 @@ watchOS / tvOS / macOS / iOS 10 / 总结
 
 你可以看到，三个 app 的顶栏（往往是标题栏）都不见了，app 的主体界面只联通到屏幕的最顶部，而标题则以富文本的形式融入到了主界面之中。
 
-![]({{ "/assets/2016/00d4b7d173bc3fdc5cbfb194e275f29a.jpg" | absolute_url }})
+![](/assets/2016/00d4b7d173bc3fdc5cbfb194e275f29a.jpg)
 
 <br>
 

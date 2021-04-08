@@ -30,7 +30,7 @@ macOS 要在代码层与 iOS 进行对接；有开发者在代码中发现了「
 苹果还是给了 tvOS 一丝曙光。新的 tvOS 将支持 PS4 和 Xbox 1 手柄（虽然 tvOS 上也没有多少值得一玩的游戏），或许 Apple Arcade 能让 tvOS 这口气吊得稍微久一点点。
 
 <br>
-![]({{ "/assets/2019/watchos-6.jpg" | absolute_url }})
+![](/assets/2019/watchos-6.jpg)
 ## watchOS 6
 watchOS 6 终于为「发廊风」的信息表盘提供了「单色模式」，会自动检测环境中的噪音，提供警报；开始追踪分析你长期的运动表现。
 
@@ -54,7 +54,7 @@ HomePod 支持「声纹识别」了，AirPods 上的 Siri 现在可以读出短�
 今年苹果已经展现出整合 Siri 大平台的意识，它还有时间去酝酿未来的大更新。
 
 <br>
-![]({{ "/assets/2019/ios-13.jpg" | absolute_url }})
+![](/assets/2019/ios-13.jpg)
 ## iOS 13 (for iPhone)
 ### 性能和隐私
 随着智能手机从增量市场转变为存量市场，苹果的发展主旋律已经从「驱动用户频繁换新设备」，变成了「让用户手里的设备发挥更大的价值」。
@@ -82,7 +82,7 @@ iOS 13 的相机继续增强了「人像模式」，但「人像模式」模型�
 
 <br>
 
-![]({{ "/assets/2019/ipados.jpg" | absolute_url }})
+![](/assets/2019/ipados.jpg)
 ## iPadOS
 这件事早在两年前就有预兆。
 
@@ -104,7 +104,7 @@ iPadOS 的 App 功能更新围绕着 Safari 和「文件」app 展开。Safari �
 
 <br>
 
-![]({{ "/assets/2019/macos-catalina.jpg" | absolute_url }})
+![](/assets/2019/macos-catalina.jpg)
 ## macOS Catalina
 ### RIP, iTunes
 iTunes 没有死，只是被边缘化了。Apple Music、Apple TV 和播客这三个 iTunes 最主要的功能被剥离出来，成为了三个独立的 App。不出意外的话，性能上这三个 App 一定是要强于目前的 iTunes，应该也会和 Siri 整合得更好。
@@ -127,7 +127,7 @@ macOS Catalina 与 iOS 13 进行了更多小功能的同步。它也有了新的
 
 <br>
 
-![]({{ "/assets/2019/mac-pro-display.jpg" | absolute_url }})
+![](/assets/2019/mac-pro-display.jpg)
 ## Mac Pro & Pro Display XDR
 我原本期待库克以「One More Thing」的形式来介绍它们，结果在 macOS 之前就发布了，让我沉浸在震惊中，macOS 的部分都没怎么认真听。
 
@@ -147,7 +147,7 @@ Pro Display 的售价是 4999 / 5999 美元（经特殊处理的雾面屏版本�
 
 <br>
 
-![]({{ "/assets/2019/iPad-mac-merge.jpg" | absolute_url }})
+![](/assets/2019/iPad-mac-merge.jpg)
 ## 总结
 这的确是 10 年内最重要的一场 WWDC。苹果对整套产品生态进行了一次重构，iOS 和 watchOS 留在消费设备阵营，按照既定的路线稳步发展。Siri 也组建起了自己的「小队」，正酝酿下次的大更新。
 
