@@ -12,6 +12,7 @@ Immigration
 - [ ] 移除所有 absolute_url
 - [ ] 移除所有 post_url
 - [ ] 移除所有 excerpt_img？
+- [x] 更改 assets url
 - [ ] 部分文章 Markdown 语法错误，用 linter 检查
 
 Finishing up
