@@ -1,9 +1,8 @@
 ---
-excerpt: "8 年前的一首歌，引发了 8 年后的一场次文化狂欢。"
-title: "MUSICAL FRIDAY｜云 K 歌"
+excerpt: 8 年前的一首歌，引发了 8 年后的一场次文化狂欢。
+title: MUSICAL FRIDAY｜云 K 歌
 tags: 音乐 游戏 科技 次文化
-image: "/assets/2020/minecraft-revenge.jpg"
-excerpt_img: true
+image: /assets/2020/minecraft-revenge.jpg
 ---
 
 故事是这样的。

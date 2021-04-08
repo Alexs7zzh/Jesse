@@ -1,9 +1,11 @@
 ---
 title: "🔥 HomePod: A Sound-hacking Speaker"
-excerpt: "这是 HomePod 根本的颠覆性所在。 从记录声音到重构声音，物理定律决定了单纯的回放不可能做到完美。对于狭小的空间，单体扬声器不可能回放出令人满意的立体声，HomePod 在音响领域迈出了 hack 声音的第一步，我无比期待看到它在未来还能做得更多更好。"
-tags: 科技 🔥
-image: "/assets/2017/apple-homepod-02.jpeg"
-excerpt_img: true
+excerpt: >-
+  这是 HomePod 根本的颠覆性所在。
+  从记录声音到重构声音，物理定律决定了单纯的回放不可能做到完美。对于狭小的空间，单体扬声器不可能回放出令人满意的立体声，HomePod 在音响领域迈出了
+  hack 声音的第一步，我无比期待看到它在未来还能做得更多更好。
+tags: "科技 🔥"
+image: /assets/2017/apple-homepod-02.jpeg
 ---
 
 （关于我自己拿到 HomePod 之后的实际体验，[补充了一些在这里]({% post_url 2018-03-09-something-more-about-homepod %})。）

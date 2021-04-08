@@ -1,13 +1,12 @@
 ---
-excerpt: "作为一种艺术媒介，游戏不断向前发展，过程中我们是否应当包容像 TLOU2 这样「未实现的野心」？
+excerpt: |-
+  作为一种艺术媒介，游戏不断向前发展，过程中我们是否应当包容像 TLOU2 这样「未实现的野心」？
 
 
-
-*全程高能剧透"
-title: "⭐️《最后生还者 2》的功与罪"
+  *全程高能剧透
+title: ⭐️《最后生还者 2》的功与罪
 tags: 游戏 ⭐️
-image: "/assets/2020/tlou2-cover.jpg"
-excerpt_img: true
+image: /assets/2020/tlou2-cover.jpg
 ---
 
 我花了一周时间通关 TLOU2。

@@ -1,9 +1,8 @@
 ---
-excerpt: "他努力理解了一下我说的这一大串，然后说：「Of course, LA, right? everybody is a star here.」"
+excerpt: '他努力理解了一下我说的这一大串，然后说：「Of course, LA, right? everybody is a star here.」'
 title: 星
 tags: 日常
-image: "/assets/2019/DSC00299.JPG"
-excerpt_img: true
+image: /assets/2019/DSC00299.JPG
 ---
 
 ## 一

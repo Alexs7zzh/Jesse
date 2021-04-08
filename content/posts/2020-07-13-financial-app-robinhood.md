@@ -1,9 +1,10 @@
 ---
-excerpt: "新一轮牛市的大幕似乎正在徐徐拉开。这一次，互联网金融平台将成为新的主角，他们能够触及的用户数远超传统券商。这时，Robinhood 给整个行业敲响了警钟：风越大，就越是要保持冷静和谨慎。"
-title: "Robinhood：劫贫济富"
+excerpt: >-
+  新一轮牛市的大幕似乎正在徐徐拉开。这一次，互联网金融平台将成为新的主角，他们能够触及的用户数远超传统券商。这时，Robinhood
+  给整个行业敲响了警钟：风越大，就越是要保持冷静和谨慎。
+title: Robinhood：劫贫济富
 tags: 科技
-image: "/assets/2020/robinhood-trade.jpg"
-excerpt_img: true
+image: /assets/2020/robinhood-trade.jpg
 ---
 
 （本文首发于[极客公园](https://www.geekpark.net/news/262729)，本站收录时进行了修改。）

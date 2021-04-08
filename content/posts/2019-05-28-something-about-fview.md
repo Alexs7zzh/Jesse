@@ -1,9 +1,8 @@
 ---
-excerpt: "能尽力守护自己在意的人和事，就是最棒的人类了。"
+excerpt: 能尽力守护自己在意的人和事，就是最棒的人类了。
 title: 最后一次，聊下爱否
 tags: 日常
-image: "/assets/2019/leaving-beijing.jpg"
-excerpt_img: true
+image: /assets/2019/leaving-beijing.jpg
 ---
 
 两年前的这个时候，我做完了自己在爱否的最后一个项目，离开了。

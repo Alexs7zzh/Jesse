@@ -1,13 +1,14 @@
 ---
-excerpt: "在 Dorsey 的设想中，去中心化的社交媒体协议，能将割裂的社交平台连接起来。内容将自由地流动于不同的平台间，用户可以轻松将 Twitter 上的内容转发到 Facebook，也可以在 Facebook 上 @ 任意 Twitter 用户。用户、平台、开发者都将受益于这个巨大的内容框架。
+excerpt: >-
+  在 Dorsey 的设想中，去中心化的社交媒体协议，能将割裂的社交平台连接起来。内容将自由地流动于不同的平台间，用户可以轻松将 Twitter
+  上的内容转发到 Facebook，也可以在 Facebook 上 @ 任意 Twitter 用户。用户、平台、开发者都将受益于这个巨大的内容框架。
 
 
 
-在这个框架下，信息就像血液，被区块链泵向互联网的每一个角落，成为「地球的脉搏」，实现 Twitter 成立之初的理想。"
-title: "Twitter 想回到过去"
+  在这个框架下，信息就像血液，被区块链泵向互联网的每一个角落，成为「地球的脉搏」，实现 Twitter 成立之初的理想。
+title: Twitter 想回到过去
 tags: 科技
-image: "/assets/2020/george-pagan-iii-f-PH16nZHKI-unsplash.jpg"
-excerpt_img: true
+image: /assets/2020/george-pagan-iii-f-PH16nZHKI-unsplash.jpg
 ---
 
 （本文首发于[极客公园](https://www.geekpark.net/news/254228)，本站收录时进行了修改。）

@@ -1,9 +1,8 @@
 ---
-excerpt: "这是一个「将成本控制和产品设计交织在一起」的手机。"
+excerpt: 这是一个「将成本控制和产品设计交织在一起」的手机。
 title: 荣耀V20：你从这个洞里看见了什么？
 tags: 科技 硬件
-image: "/assets/2019/IMG_1505.jpg"
-excerpt_img: true
+image: /assets/2019/IMG_1505.jpg
 ---
 
 （本文首发于[动点科技](https://cn.technode.com/post/2019-01-08/honor-v20-review/)。）

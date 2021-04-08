@@ -1,9 +1,8 @@
 ---
-excerpt: "知乎是一个由大家共建的问答社区，这里也许没有标准答案。"
-title: "跟知乎有关的三个故事"
+excerpt: 知乎是一个由大家共建的问答社区，这里也许没有标准答案。
+title: 跟知乎有关的三个故事
 tags: 科技
-image: "/assets/2021/zhihu-invitation.jpg"
-excerpt_img: true
+image: /assets/2021/zhihu-invitation.jpg
 ---
 
 一个略带喜感的事实是，成年之后，我坚持做过时间最长的一件事，是「玩知乎」。

@@ -1,18 +1,18 @@
 ---
-title: "Tech in 2017: Hack Reality"
-excerpt: "「哪件数码产品最能代表 2017 年？」
+title: 'Tech in 2017: Hack Reality'
+excerpt: >-
+  「哪件数码产品最能代表 2017 年？」
 
 
 
-我本想从这个问题切入，来总结 2017 年的数字生活。
+  我本想从这个问题切入，来总结 2017 年的数字生活。
 
 
 
-我把自己在 2017 年买的全部数码产品列了一个清单，却没有从中得到一个明确且唯一的答案。<br>
-是 iPhone X 吗？是 Nintendo Switch 吗？纵观 2017 这一整年，优秀、甚至是伟大的产品很多，但你很难从一款产品中，得以窥见整个 2017。"
+  我把自己在 2017 年买的全部数码产品列了一个清单，却没有从中得到一个明确且唯一的答案。<br> 是 iPhone X 吗？是 Nintendo
+  Switch 吗？纵观 2017 这一整年，优秀、甚至是伟大的产品很多，但你很难从一款产品中，得以窥见整个 2017。
 tags: 科技
-image: "/assets/2018/anas-alshanti-169265.jpg"
-excerpt_img: true
+image: /assets/2018/anas-alshanti-169265.jpg
 ---
 
 

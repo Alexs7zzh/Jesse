@@ -1,10 +1,10 @@
 ---
-excerpt: "最近这几年，geek和文艺青年这两个群体，很多时候被影视作品里的cliche所硬生生地割裂开来。而实际上，这两种人在很大程度上是互相重叠的，毕竟都是nerd嘛。<br>
-《The Martian》所做的，就是在一部电影里，把两种趣味融合在一起。"
-title: "《The Martian》：On your face, Neil Armstrong."
+excerpt: >-
+  最近这几年，geek和文艺青年这两个群体，很多时候被影视作品里的cliche所硬生生地割裂开来。而实际上，这两种人在很大程度上是互相重叠的，毕竟都是nerd嘛。<br>
+  《The Martian》所做的，就是在一部电影里，把两种趣味融合在一起。
+title: '《The Martian》：On your face, Neil Armstrong.'
 tags: 电影
-image: "/assets/2015/729699b1e7fec2f15f1af86d96956143.jpg"
-excerpt_img: true
+image: /assets/2015/729699b1e7fec2f15f1af86d96956143.jpg
 ---
 
 无论是远古的《2001：太空漫游》，还是到这两年的《Gravity》、《Interstella》，如果你从一开始就想把一个科幻故事设定在一个相对「硬核」的太空环境下，那么这个故事一般就不太可能是一个很符合世俗戏剧审美的故事。毕竟在严肃的科幻里，我们探讨的更多的，还是在太空中人类所面临的新环境、人类在太空中的变化这样的东西。如果我们要演一出很传统的戏，又何必设置一个大部分观众都搞不懂其「性感」在哪的太空环境呢？

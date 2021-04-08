@@ -1,9 +1,11 @@
 ---
-excerpt: "在过去的 10 年里，iOS 一点点成长为了苹果最重要的现金牛。但在今天，iOS 所走的路正慢慢变成一条「老路」，华尔街高喊着，只有内容服务和可穿戴设备才能救苹果。或许两三年之后，iPhone 的更新也会像 2018 MacBook Pro 一样，更新一下配置，悄然在官网上线。"
-title: "苹果 18 秋季发布会：老路和新路"
+excerpt: >-
+  在过去的 10 年里，iOS 一点点成长为了苹果最重要的现金牛。但在今天，iOS
+  所走的路正慢慢变成一条「老路」，华尔街高喊着，只有内容服务和可穿戴设备才能救苹果。或许两三年之后，iPhone 的更新也会像 2018 MacBook
+  Pro 一样，更新一下配置，悄然在官网上线。
+title: 苹果 18 秋季发布会：老路和新路
 tags: 科技
-image: "/assets/2018/Snipaste_2018-09-13_04-58-40.jpg"
-excerpt_img: true
+image: /assets/2018/Snipaste_2018-09-13_04-58-40.jpg
 ---
 
 （本文首发于[TechCrunch 中文版](https://techcrunch.cn/2018/09/13/apple-18-fall-event/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）

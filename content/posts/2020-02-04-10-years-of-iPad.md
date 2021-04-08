@@ -1,9 +1,10 @@
 ---
-excerpt: "iPad 走入了一个更复杂，也艰难得多的领域，但它却因此拥有了更多的可能性。它不再是那个只在七个应用场景下比 iPhone 更有优势平板电脑，而是在每个人手上用法都截然不同的 iPad。"
+excerpt: >-
+  iPad 走入了一个更复杂，也艰难得多的领域，但它却因此拥有了更多的可能性。它不再是那个只在七个应用场景下比 iPhone
+  更有优势平板电脑，而是在每个人手上用法都截然不同的 iPad。
 title: "🔥 10 years of iPad"
-tags: 科技 🔥
-image: "/assets/2020/ipad-10-heading.jpg"
-excerpt_img: true
+tags: "科技 🔥"
+image: /assets/2020/ipad-10-heading.jpg
 ---
 
 （本文首发于[极客公园](https://mp.weixin.qq.com/s/QVRtbOs6NOvQ-YI9xz-N6g)，原标题为「十年了，你除了会拿 iPad 看剧还会干啥！」，本站收录时进行了修改。）

@@ -1,9 +1,8 @@
 ---
-excerpt: "我决定用人力的方式做一点 curation。"
+excerpt: 我决定用人力的方式做一点 curation。
 title: "更新日志：精选⭐️、热门🔥"
 tags: Log
-image: "/assets/2021/memory.jpg"
-excerpt_img: true
+image: /assets/2021/memory.jpg
 ---
 
 Hi, 

@@ -1,9 +1,8 @@
 ---
-excerpt: "关于「使用 Apple 产品的正确姿势」，我们要不要成为这样的「模范消费者」，以及这样做的意义是什么。"
-title: "Hey, Siri, is this the right way to use iPhone？"
+excerpt: 关于「使用 Apple 产品的正确姿势」，我们要不要成为这样的「模范消费者」，以及这样做的意义是什么。
+title: 'Hey, Siri, is this the right way to use iPhone？'
 tags: 科技 次文化
-image: "/assets/2016/2376f9fa902033ef6815fdf3c6f0ab45.jpg"
-excerpt_img: true
+image: /assets/2016/2376f9fa902033ef6815fdf3c6f0ab45.jpg
 ---
 
 在各种硬件发布会和 WWDC 的 Demo 里，以及各种广告里，Apple 一直都试图在展示一种「使用 Apple 产品的正确姿势」。这个东西在《Modern Family》S06E16 到达了一个高潮。

@@ -1,9 +1,8 @@
 ---
-excerpt: "如果说《Violet Evergarden》是一月最大花瓶，那么《DitF》甚至只能是被打碎的一地玻璃渣。"
-title: "《Darling in the Franxx》：彩色玻璃渣"
+excerpt: 如果说《Violet Evergarden》是一月最大花瓶，那么《DitF》甚至只能是被打碎的一地玻璃渣。
+title: 《Darling in the Franxx》：彩色玻璃渣
 tags: 次文化
-image: "/assets/2018/chuttersnap-413005-unsplas.jpg"
-excerpt_img: true
+image: /assets/2018/chuttersnap-413005-unsplas.jpg
 ---
 
 我很少会针对一个我纯粹给出差评的虚构作品写评论。但 TV 动画跟其他虚构作品不一样的地方就在于，你是要去追的。在长达半年的追的过程中，你可能对它真的抱有特别高的期望，特别是在整体的故事性上。到最后几周，《DitF》的质量已经不只是雪崩了，它在我心中衡量「0 分」的地面上砸出了一个巨大的陨石坑。

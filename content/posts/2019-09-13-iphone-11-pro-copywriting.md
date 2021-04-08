@@ -1,13 +1,12 @@
 ---
-excerpt: "苹果发布会落下帷幕，新 iPhone 中文文案的翻译（再次）受到了不少朋友的诟病。
+excerpt: |-
+  苹果发布会落下帷幕，新 iPhone 中文文案的翻译（再次）受到了不少朋友的诟病。
 
 
-
-这里挑选了一些我认为不够好的翻译进行了重译，宗旨是保留英文原文案的思路，对实在无法保留的就尽量表达出产品特性。放在这里，权当抛砖引玉。"
-title: "iPhone 11 Pro 文案重译"
+  这里挑选了一些我认为不够好的翻译进行了重译，宗旨是保留英文原文案的思路，对实在无法保留的就尽量表达出产品特性。放在这里，权当抛砖引玉。
+title: iPhone 11 Pro 文案重译
 tags: 科技
-image: "/assets/2019/apple-copywriting.jpg"
-excerpt_img: true
+image: /assets/2019/apple-copywriting.jpg
 ---
 
 苹果发布会落下帷幕，新 iPhone 中文文案的翻译（再次）受到了不少朋友的诟病。

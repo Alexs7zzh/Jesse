@@ -1,11 +1,10 @@
 ---
-excerpt: "iPhone X 真正所关乎的、引领的，从来就不是什么「全面屏风潮」，而是「making the physical object disappear into the experience」这件事。<br>
-苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。"
+excerpt: >-
+  iPhone X 真正所关乎的、引领的，从来就不是什么「全面屏风潮」，而是「making the physical object disappear
+  into the experience」这件事。<br> 苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。
 title: "🔥 iPhone X: A step beyond"
-tags: 科技 🔥
-
-image: "/assets/2017/tyler-lastovich-454477.jpg"
-excerpt_img: true
+tags: "科技 🔥"
+image: /assets/2017/tyler-lastovich-454477.jpg
 ---
 
 在 iPhone X 产品视频《Introducing iPhone X》的开头，Jony Ive 用了这么一句话来概括 iPhone X 的前世今生：

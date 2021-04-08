@@ -1,9 +1,8 @@
 ---
-excerpt: "在湾区的家里远程办公几个月后，人们开始思考一个问题：能不能将办公的地方搬得更远？部分行动派，已经开始离开旧金山湾区，离开硅谷。"
+excerpt: 在湾区的家里远程办公几个月后，人们开始思考一个问题：能不能将办公的地方搬得更远？部分行动派，已经开始离开旧金山湾区，离开硅谷。
 title: "🔥 逃离硅谷"
-tags: 科技 🔥
-image: "/assets/2020/silicon-valley-bridge.jpg"
-excerpt_img: true
+tags: "科技 🔥"
+image: /assets/2020/silicon-valley-bridge.jpg
 ---
 
 （本文首发于[极客公园](https://www.geekpark.net/news/264917)，本站收录时进行了修改。）

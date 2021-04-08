@@ -1,9 +1,8 @@
 ---
-excerpt: "毫无疑问，一加 7T 是一加推出过的最好的手机，配置强势，但并不偏执。只是它面临的竞争形势，从未如此严峻。"
-title: "一加 7T：不将就，讲究"
+excerpt: 毫无疑问，一加 7T 是一加推出过的最好的手机，配置强势，但并不偏执。只是它面临的竞争形势，从未如此严峻。
+title: 一加 7T：不将就，讲究
 tags: 科技 硬件
-image: "/assets/2019/oneplus7t_cover.jpg"
-excerpt_img: true
+image: /assets/2019/oneplus7t_cover.jpg
 ---
 
 >本文系 Jesse Chan 原创，今日头条首发。

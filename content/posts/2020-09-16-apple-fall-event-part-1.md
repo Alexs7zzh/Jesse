@@ -1,9 +1,8 @@
 ---
-excerpt: "简单聊几句。"
-title: "苹果 2020 秋季发布会：Part 1"
+excerpt: 简单聊几句。
+title: 苹果 2020 秋季发布会：Part 1
 tags: 科技
-image: "/assets/2020/apple-2020-event.jpg"
-excerpt_img: true
+image: /assets/2020/apple-2020-event.jpg
 ---
 
 每年秋季发布会都会写一个完整的文章，但这场发布会的内容量确实撑不起一篇完整的文章，那就随便聊几句吧。

@@ -1,9 +1,10 @@
 ---
-title: "《三块广告牌》：一场重塑信仰之旅"
-excerpt: "我之所以觉得《3 Billboards》在今年的奥斯卡上很有可能夺得最佳影片，就是因为它解构了今天美国现实中，自由与保守派的分裂。在这样一场所有人撞得头破血流的闹剧中，其最终选择落脚于人性，并暗示这是当代美国人所应秉持的，新的「信仰」。"
+title: 《三块广告牌》：一场重塑信仰之旅
+excerpt: >-
+  我之所以觉得《3
+  Billboards》在今年的奥斯卡上很有可能夺得最佳影片，就是因为它解构了今天美国现实中，自由与保守派的分裂。在这样一场所有人撞得头破血流的闹剧中，其最终选择落脚于人性，并暗示这是当代美国人所应秉持的，新的「信仰」。
 tags: 电影
-image: "/assets/2018/Three-Billboards-Creative-Brief_v4.jpg"
-excerpt_img: true
+image: /assets/2018/Three-Billboards-Creative-Brief_v4.jpg
 ---
 
 在今年奥斯卡提名影片中，《3 Billboards Outside Ebbing, Missouri》算是我最期待的一部。本来准备在 iTunes 上买来看，之后发现有引进计划，所以就一直等到其上映才去看。

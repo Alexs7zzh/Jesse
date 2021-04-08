@@ -1,9 +1,8 @@
 ---
-excerpt: "作为下一代「全新 iPhone」，iPhone 12 能再次定义未来吗？"
-title: "iPhone 12 发布会：不被定义的未来"
+excerpt: 作为下一代「全新 iPhone」，iPhone 12 能再次定义未来吗？
+title: iPhone 12 发布会：不被定义的未来
 tags: 科技
-image: "/assets/2020/iphone-12-event-header.jpg"
-excerpt_img: true
+image: /assets/2020/iphone-12-event-header.jpg
 ---
 
 所有人都等得太久了。

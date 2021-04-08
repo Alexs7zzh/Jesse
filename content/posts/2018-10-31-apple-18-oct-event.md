@@ -1,9 +1,10 @@
 ---
-excerpt: "苹果这家公司之所以存在，是因为乔布斯想要给人们带来好的「生产力工具」。Mac 是他最初的起点，iPad 则是他留下的最后遗产。当「娱乐」正在成为一门更好的生意，「生产力」要如何进化？"
-title: "苹果 2018 冬季发布会：创意和生产力"
+excerpt: >-
+  苹果这家公司之所以存在，是因为乔布斯想要给人们带来好的「生产力工具」。Mac 是他最初的起点，iPad
+  则是他留下的最后遗产。当「娱乐」正在成为一门更好的生意，「生产力」要如何进化？
+title: 苹果 2018 冬季发布会：创意和生产力
 tags: 科技
-image: "/assets/2018/apple-oct-2018-event.jpg"
-excerpt_img: true
+image: /assets/2018/apple-oct-2018-event.jpg
 ---
 
 （本文首发于[TechCrunch 中文版](https://techcrunch.cn/2018/10/31/apple-2018-winter-event-creativity-and-productivity/)，一切包括但不限于转载在内的版权事宜请联系 TechCrunch。）

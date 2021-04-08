@@ -1,11 +1,10 @@
 ---
-excerpt: "拿到 iPhone 12 mini 之后，我没有将之前手机里的 App 迁移过来，而是选择了「设置为新 iPhone」。
-
-尺寸上、设计上，iPhone 12 mini 似乎在向后倒退，但对我来说，这是一个「纠错」的机会，是对「手机应该被用来干什么」的一次重新思考。"
+excerpt: |-
+  拿到 iPhone 12 mini 之后，我没有将之前手机里的 App 迁移过来，而是选择了「设置为新 iPhone」。
+  尺寸上、设计上，iPhone 12 mini 似乎在向后倒退，但对我来说，这是一个「纠错」的机会，是对「手机应该被用来干什么」的一次重新思考。
 title: "🔥 iPhone 12 mini: revertigo"
-tags: 科技 🔥
-image: "/assets/2020/iphone-12-mini-3.jpg"
-excerpt_img: true
+tags: "科技 🔥"
+image: /assets/2020/iphone-12-mini-3.jpg
 ---
 
 > It's a common thing. When you're around someone from your past, you kind of revert back to who you were when you knew them. It's called revertigo.

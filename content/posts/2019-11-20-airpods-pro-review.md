@@ -1,9 +1,11 @@
 ---
-excerpt: "从 QC20 到 QC30，从 MDR-1000X 到降噪豆，从 EarPods 到 AirPods 再到 AirPods Pro。耳机逐渐摆脱了线和颈环、实现了主动降噪、体积越来越小、佩戴越来越舒适，只为一个目标：更长时间地停在用户的耳朵里。现在，AirPods Pro 已经非常接近耳机的终极形态：24 小时佩戴，接管我所听到的一切。"
+excerpt: >-
+  从 QC20 到 QC30，从 MDR-1000X 到降噪豆，从 EarPods 到 AirPods 再到 AirPods
+  Pro。耳机逐渐摆脱了线和颈环、实现了主动降噪、体积越来越小、佩戴越来越舒适，只为一个目标：更长时间地停在用户的耳朵里。现在，AirPods Pro
+  已经非常接近耳机的终极形态：24 小时佩戴，接管我所听到的一切。
 title: "🔥 AirPods Pro：数字声音进化论"
-tags: 科技 硬件 🔥
-image: "/assets/2019/airpods-pro.jpg"
-excerpt_img: true
+tags: "科技 硬件 🔥"
+image: /assets/2019/airpods-pro.jpg
 ---
 
 AirPods Pro 是我等了 4 年的耳机。

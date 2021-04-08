@@ -1,9 +1,8 @@
 ---
-excerpt: "越来越多的人，在「科技与人文的十字路口」相遇。"
-title: "OFFLINE 读者来信：沟通时间的桥"
+excerpt: 越来越多的人，在「科技与人文的十字路口」相遇。
+title: OFFLINE 读者来信：沟通时间的桥
 tags: 科技 次文化
-image: "/assets/2021/offline-readers-letter.jpg"
-excerpt_img: true
+image: /assets/2021/offline-readers-letter.jpg
 ---
 
 重启之前，我上一次和别人聊到《离线》，是一年前的冬天。

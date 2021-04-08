@@ -1,9 +1,9 @@
 ---
-excerpt: "对苹果来说，这不仅是卖硬件的商业模式走到头了所以要寻求出路，更是它必须以积极的姿态参与到用内容改变世界的进程之中。以各种介质传达自己的态度，鼓舞人们寻找共识，这跟环保、隐私一样，是一种社会责任。"
+excerpt: >-
+  对苹果来说，这不仅是卖硬件的商业模式走到头了所以要寻求出路，更是它必须以积极的姿态参与到用内容改变世界的进程之中。以各种介质传达自己的态度，鼓舞人们寻找共识，这跟环保、隐私一样，是一种社会责任。
 title: 商业发展的出路，塑造文化的责任
 tags: 科技
-image: "/assets/2019/think-different.jpg"
-excerpt_img: true
+image: /assets/2019/think-different.jpg
 ---
 
 （本文首发于 [TechCrunch 中文版](https://techcrunch.cn/2019/03/26/apple-spring-event/)）

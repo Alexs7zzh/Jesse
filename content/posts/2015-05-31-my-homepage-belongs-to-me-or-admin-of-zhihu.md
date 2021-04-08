@@ -1,13 +1,14 @@
 ---
-excerpt: "这一周内看到各种各样的人抱怨，反对知乎官方最近的一些所作所为，仅仅今天下午一下午就接连有[@winter](https://www.zhihu.com/people/ec03b8e839a6fb763e1b8113455362db) 和[@田浩](https://www.zhihu.com/people/a609689b545c1162f2d6d19fd4a9aeee)老师这两个我个人非常喜欢的答题者说些什么。我其实挺想说点什么的却又不知道说什么好，千言万语大概也就只能汇成一句话吧。
+excerpt: >-
+  这一周内看到各种各样的人抱怨，反对知乎官方最近的一些所作所为，仅仅今天下午一下午就接连有[@winter](https://www.zhihu.com/people/ec03b8e839a6fb763e1b8113455362db)
+  和[@田浩](https://www.zhihu.com/people/a609689b545c1162f2d6d19fd4a9aeee)老师这两个我个人非常喜欢的答题者说些什么。我其实挺想说点什么的却又不知道说什么好，千言万语大概也就只能汇成一句话吧。
 
 
 
-我爱知乎，我怕它完了。真的。"
-title: "我的首页还是知乎管理员的首页？"
+  我爱知乎，我怕它完了。真的。
+title: 我的首页还是知乎管理员的首页？
 tags: 科技
-image: "/assets/2015/6b2522ab57355b9d435368c8d4999ca7.jpg"
-excerpt_img: true
+image: /assets/2015/6b2522ab57355b9d435368c8d4999ca7.jpg
 ---
 
 吃完饭正坐在电脑前刷知乎。在TL上看到 [@子雄](https://www.zhihu.com/people/e41a75ba81f6b90038da375599b8ed30) 关注了这样一个问题，[如何看待知乎友善制度逼走 winter？](https://www.zhihu.com/question/30782408)，还给问题下的几个答案点了赞。自己当时没点进去，只是注意到了这个问题，先去处理自己的消息了。

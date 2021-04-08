@@ -1,9 +1,10 @@
 ---
-excerpt: "正如它的名字，《A Brief Inquiry Into Online Relationships》试图记录的，是现代社会的状态，特别是人的感情。它无所不包的多变曲风是对「信息过载」的精准暗示，嘈杂的电子元素则影射了一切事物在数字化后的失真。它的作词无不指向着我们的脆弱、焦虑、孤独，以及迷失。"
-title: "⭐️《A Brief Inquiry Into Online Relationships》：直面现代"
+excerpt: >-
+  正如它的名字，《A Brief Inquiry Into Online
+  Relationships》试图记录的，是现代社会的状态，特别是人的感情。它无所不包的多变曲风是对「信息过载」的精准暗示，嘈杂的电子元素则影射了一切事物在数字化后的失真。它的作词无不指向着我们的脆弱、焦虑、孤独，以及迷失。
+title: ⭐️《A Brief Inquiry Into Online Relationships》：直面现代
 tags: 科技 音乐 ⭐️
-image: "/assets/2018/the1975.jpg"
-excerpt_img: true
+image: /assets/2018/the1975.jpg
 ---
 
 从专辑名的长度上，你就能看出 The 1975 对技术社会的蔑视。

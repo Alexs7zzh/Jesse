@@ -1,13 +1,14 @@
 ---
-excerpt: "LIFEHACKING101 分为四个单元，分别是「吃和动」、「记账投资与开源节流」、「时间管理和 GTD」、「如何拥有强大的内心？」。每一个单元有文字和音频内容，其中文字内容更精炼、结构更紧凑，音频内容则包含了我个人的经历和详细的解释。
+excerpt: >-
+  LIFEHACKING101 分为四个单元，分别是「吃和动」、「记账投资与开源节流」、「时间管理和
+  GTD」、「如何拥有强大的内心？」。每一个单元有文字和音频内容，其中文字内容更精炼、结构更紧凑，音频内容则包含了我个人的经历和详细的解释。
 
 
 
-以下是 LIFEHACKING101 文字内容摘要。"
-title: "LIFEHACKING101 | 文字内容摘要"
+  以下是 LIFEHACKING101 文字内容摘要。
+title: LIFEHACKING101 | 文字内容摘要
 tags: 日常 科技
-image: "/assets/2019/lh101-excerpt.JPG"
-excerpt_img: true
+image: /assets/2019/lh101-excerpt.JPG
 ---
 
 LIFEHACKING101 完整文字内容已经推送给全部预订用户。

@@ -7,9 +7,8 @@ for (const entry of files) {
   let content = fs.readFileSync(entry, 'utf8')
   let file = matter(content)
   if (file.data.excerpt_img !== undefined) {
-    file.data.excerpt_img = undefined
-    console.log(matter.stringify(file, file.data))
-    break
+    delete file.data.excerpt_img
+    fs.writeFileSync(entry, matter.stringify(file.content, file.data))
   }
 }
 

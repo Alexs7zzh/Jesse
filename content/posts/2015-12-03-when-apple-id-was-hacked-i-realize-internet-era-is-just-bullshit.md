@@ -1,9 +1,8 @@
 ---
-excerpt: "关于一次Apple ID差点被盗的经历，一些使用Apple ID时的安全建议，以及「互联网时代」离我们有多近，又有多远。"
-title: "「只有当Apple ID被盗之后，我才意识到所谓的『互联网时代』离我们实际有多远。」"
+excerpt: 关于一次Apple ID差点被盗的经历，一些使用Apple ID时的安全建议，以及「互联网时代」离我们有多近，又有多远。
+title: 「只有当Apple ID被盗之后，我才意识到所谓的『互联网时代』离我们实际有多远。」
 tags: 科技
-image: "/assets/2015/884d6ffc99701bde186c444ed8532c05_r.jpg"
-excerpt_img: true
+image: /assets/2015/884d6ffc99701bde186c444ed8532c05_r.jpg
 ---
 
 12月2日晚上7点，我刚刚结束了和Apple Support人员的通话，呆坐在电脑前。距离上午10点我在app store尝试购买app失败，进而发现自己的Apple ID已经被锁定，并且重设密码功能也被锁定8小时，已经过去了9个小时。

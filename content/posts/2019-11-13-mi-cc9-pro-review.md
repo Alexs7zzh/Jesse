@@ -1,9 +1,10 @@
 ---
-excerpt: "小米 CC9 Pro 当下最好的拍照手机之一，它对长焦、广角、微距等多焦段镜头的覆盖，让你可以用它来学习、练习拍照。这是小米 CC9 Pro 最大的价值，也是一台「好相机」最重要的意义。"
-title: "小米 CC9 Pro：抛开分数，「最强相机」的意义是什么？"
+excerpt: >-
+  小米 CC9 Pro 当下最好的拍照手机之一，它对长焦、广角、微距等多焦段镜头的覆盖，让你可以用它来学习、练习拍照。这是小米 CC9 Pro
+  最大的价值，也是一台「好相机」最重要的意义。
+title: 小米 CC9 Pro：抛开分数，「最强相机」的意义是什么？
 tags: 科技 硬件
-image: "/assets/2019/xiaomi-cc9-pro-1.jpg"
-excerpt_img: true
+image: /assets/2019/xiaomi-cc9-pro-1.jpg
 ---
 
 <br>

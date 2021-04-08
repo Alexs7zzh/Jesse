@@ -1,13 +1,14 @@
 ---
-excerpt: "作为一个消费者，在总结自己的数字生活的时候，我无意于去评价 2016 年「是否是技术上伟大的一年」，但无论是回想起这一年来对我重要的几个时刻，还是日常生活的变化，技术无不在其中发挥着巨大的作用。
+excerpt: >-
+  作为一个消费者，在总结自己的数字生活的时候，我无意于去评价 2016
+  年「是否是技术上伟大的一年」，但无论是回想起这一年来对我重要的几个时刻，还是日常生活的变化，技术无不在其中发挥着巨大的作用。
 
 
 
-我想这大概就是写这样一篇文章的意义所在，Salute to digital 2016 的具体对象所在了。"
-title: "⭐️ Salute to the digital 2016 in a hard way"
+  我想这大概就是写这样一篇文章的意义所在，Salute to digital 2016 的具体对象所在了。
+title: ⭐️ Salute to the digital 2016 in a hard way
 tags: 科技 日常 次文化 ⭐️
-image: "/assets/2017/photo-1477124508671-45ba8ede458f.jpg"
-excerpt_img: true
+image: /assets/2017/photo-1477124508671-45ba8ede458f.jpg
 ---
 
 （本文首发于[少数派 Matrix](http://matrix.sspai.com/p/db7cf700)）

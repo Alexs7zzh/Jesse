@@ -1,9 +1,10 @@
 ---
-excerpt: "我甚至开始希望，如果 Siri 的口音设置可以不仅限于男声和女声，如果我手机里和我说话的是 C-3PO 这样的机器人，我一定能更好地用 Siri。因为事实就是，在有便利地使用 Siri 的经验之后，我尝试过用更直白，更「像人与人之间对话」的形式，来命令它，而它往往不能理解我在说什么。"
-title: "或许只有面对 C-3PO 的声音，我们才能真正学会怎么和 Siri 交互。"
+excerpt: >-
+  我甚至开始希望，如果 Siri 的口音设置可以不仅限于男声和女声，如果我手机里和我说话的是 C-3PO 这样的机器人，我一定能更好地用
+  Siri。因为事实就是，在有便利地使用 Siri 的经验之后，我尝试过用更直白，更「像人与人之间对话」的形式，来命令它，而它往往不能理解我在说什么。
+title: 或许只有面对 C-3PO 的声音，我们才能真正学会怎么和 Siri 交互。
 tags: 科技
-image: "/assets/2016/v2-fb2b1eb63ecea66f1f3c74e336292a42.jpg"
-excerpt_img: true
+image: /assets/2016/v2-fb2b1eb63ecea66f1f3c74e336292a42.jpg
 ---
 
 一年多以前，Jason Snell 和 John Siracusa 就在播客《Robot or Not》里，讨论过 Siri 是不是 一个 Robot 。

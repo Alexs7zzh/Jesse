@@ -1,9 +1,10 @@
 ---
-excerpt: "当时的乔布斯「口出狂言」，称无论是索尼这样的大公司，还是 Creative 这样的小公司，都没有找到「做好数字音乐的秘诀」（the recipe for digital music）。然后他说，苹果能找到这个「秘诀」。"
-title: "⭐️ 数字音乐的终极秘诀"
+excerpt: >-
+  当时的乔布斯「口出狂言」，称无论是索尼这样的大公司，还是 Creative 这样的小公司，都没有找到「做好数字音乐的秘诀」（the recipe for
+  digital music）。然后他说，苹果能找到这个「秘诀」。
+title: ⭐️ 数字音乐的终极秘诀
 tags: 科技 音乐 ⭐️
-image: "/assets/2018/apple-music.jpg"
-excerpt_img: true
+image: /assets/2018/apple-music.jpg
 ---
 
 （本文首发于 [TAN](https://tan.today/the-ultimate-answer-to-digital-music/)。TAN 是动点科技旗下产品，用有温度，有态度，有深度的视角聚焦全球科技互联网领域的现象剖析。TAN 不记录科技事件，TAN 只测量和你有关的科技进程。 ）

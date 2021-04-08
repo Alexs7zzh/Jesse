@@ -1,9 +1,10 @@
 ---
-excerpt: "Note 10 拥有无懈可击的「机皇」配置，无所不包的全面功能，也有很多冗杂的设置选项和让人感到迷惑的交互功能。这些粗糙的边角细节，都使 Note 10 无法完成最终的那一步跨越。"
-title: "三星 Note 10：机皇的粗糙细节"
+excerpt: >-
+  Note 10 拥有无懈可击的「机皇」配置，无所不包的全面功能，也有很多冗杂的设置选项和让人感到迷惑的交互功能。这些粗糙的边角细节，都使 Note 10
+  无法完成最终的那一步跨越。
+title: 三星 Note 10：机皇的粗糙细节
 tags: 科技 硬件
-image: "/assets/2019/samsung-note-10-1.JPG"
-excerpt_img: true
+image: /assets/2019/samsung-note-10-1.JPG
 ---
 
 <br>

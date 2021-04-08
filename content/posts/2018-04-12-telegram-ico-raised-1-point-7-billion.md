@@ -1,9 +1,8 @@
 ---
-title: "Telegram 靠密码币发行筹集了 17 亿美元，这可能是密码币最好的用武之地"
-excerpt: "Telegram 想创造的不是另一个比特币，而是一个去中心化的新互联网。"
+title: Telegram 靠密码币发行筹集了 17 亿美元，这可能是密码币最好的用武之地
+excerpt: Telegram 想创造的不是另一个比特币，而是一个去中心化的新互联网。
 tags: 科技
-image: "/assets/2018/telegram-ico-uk-pavel-durov-e1523027519286.jpg"
-excerpt_img: true
+image: /assets/2018/telegram-ico-uk-pavel-durov-e1523027519286.jpg
 ---
 
 （本文首发于[极客公园](https://mp.weixin.qq.com/s/IqOoyQmDbFcUrirRK3PFwQ)，一切包括但不限于转载在内的版权事宜请联系极客公园。）

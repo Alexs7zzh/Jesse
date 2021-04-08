@@ -1,9 +1,8 @@
 ---
-excerpt: "优秀的，独一无二的产品从来都是这样的。它们可能很贵，但那些无可取代的产品特性让它们永远可以击中用户，也永远都可以卖得起一个配得上其价值的价格。"
+excerpt: 优秀的，独一无二的产品从来都是这样的。它们可能很贵，但那些无可取代的产品特性让它们永远可以击中用户，也永远都可以卖得起一个配得上其价值的价格。
 title: 小米没有个性
 tags: 科技
-image: "/assets/2019/xiaomi9.jpg"
-excerpt_img: true
+image: /assets/2019/xiaomi9.jpg
 ---
 
 （本文首发于 [TechCrunch 中文版](https://techcrunch.cn/2019/02/23/still-xiaomi/)）

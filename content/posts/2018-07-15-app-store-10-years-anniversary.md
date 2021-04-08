@@ -1,9 +1,10 @@
 ---
-excerpt: "去年的 WWDC 上，苹果做了一个名为 Appocalypse 的短片，用调侃的语气描绘了一个「没有 App 的世界末日」。但我却从这个片子联想到一种真实存在的「危机」。过分用需求导向的 App 思维来解决问题的我们，是否正渐渐失去「创造性使用工具」的能力？"
-title: "App Store 十周年：繁与简"
+excerpt: >-
+  去年的 WWDC 上，苹果做了一个名为 Appocalypse 的短片，用调侃的语气描绘了一个「没有 App
+  的世界末日」。但我却从这个片子联想到一种真实存在的「危机」。过分用需求导向的 App 思维来解决问题的我们，是否正渐渐失去「创造性使用工具」的能力？
+title: App Store 十周年：繁与简
 tags: 科技
-image: "/assets/2018/Snipaste_2018-07-15_04-00-10.jpg"
-excerpt_img: true
+image: /assets/2018/Snipaste_2018-07-15_04-00-10.jpg
 ---
 
 App Store 也十岁了。大家在社交媒体上兴奋地分享着自己当年购买下载的前几个 App，感叹着 iOS App 在过去的 10 年里给我们的生活带来的改变。

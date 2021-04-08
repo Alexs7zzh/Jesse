@@ -1,9 +1,8 @@
 ---
-excerpt: "靠着波澜壮阔的决心，不惧一切的勇气，和对游戏倾尽所有的热忱，CDPR 一步步走到了今天。但这一次，它的野心膨胀成了一场骑虎难下的闹剧。"
-title: "⭐️ 赛博朋克 2077 怎么了？"
+excerpt: 靠着波澜壮阔的决心，不惧一切的勇气，和对游戏倾尽所有的热忱，CDPR 一步步走到了今天。但这一次，它的野心膨胀成了一场骑虎难下的闹剧。
+title: ⭐️ 赛博朋克 2077 怎么了？
 tags: 游戏 ⭐️
-image: "/assets/2020/cyberpunk-2077-header.jpg"
-excerpt_img: true
+image: /assets/2020/cyberpunk-2077-header.jpg
 ---
 
 （本文首发于[极客公园](https://www.geekpark.net/news/271446)，原标题为「复盘《赛博朋克2077》：谁让你提前 57 年发布呢？」，本站收录时进行了修改。）

@@ -1,9 +1,8 @@
 ---
-excerpt: "一篇流水账。其中夹带了一个新人 vlogger 的推荐。"
+excerpt: 一篇流水账。其中夹带了一个新人 vlogger 的推荐。
 title: 春日流水账
 tags: 日常
-image: "/assets/2019/brid-at-ca-1.JPG"
-excerpt_img: true
+image: /assets/2019/brid-at-ca-1.JPG
 ---
 
 距离五月还有整整一个月，已经被五月病的症状所笼罩了，什么都不想干，只想摸。还什么都没干，2019 年就过去了四分之一。所以在这里记一记春天的流水账，顺便推荐一些东西。

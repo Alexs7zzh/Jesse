@@ -1,9 +1,10 @@
 ---
-excerpt: "iPad 走入了一个更复杂，也艰难得多的领域，但它却因此拥有了更多的可能性。它不再是那个只在七个应用场景下比 iPhone 更有优势平板电脑，而是在每个人手上用法都截然不同的 iPad。"
-title: "霍乱时期的相亲"
+excerpt: >-
+  iPad 走入了一个更复杂，也艰难得多的领域，但它却因此拥有了更多的可能性。它不再是那个只在七个应用场景下比 iPhone
+  更有优势平板电脑，而是在每个人手上用法都截然不同的 iPad。
+title: 霍乱时期的相亲
 tags: 科技
-image: "/assets/2020/tinder-2020.jpg"
-excerpt_img: true
+image: /assets/2020/tinder-2020.jpg
 ---
 
 （本文首发于[极客公园](https://www.geekpark.net/news/255611)，本站收录时进行了修改。）

@@ -1,9 +1,17 @@
 ---
-excerpt: "In my 24-year life, which is quite long enough since it's like a quarter of one's whole life, there's never been such a digital device that changed my life as much as Apple Watch did, physically and biologically. Not even iPhone, which entirely changed the way I see the world and connect with people, not even Mac, which I use everyday, creating nice things and make a living, not even Nintendo Switch, which has so many great games that made me laugh and cry. They are all great products, but not as intimate, proactive and liberating as Apple Watch. Compared to those devices, the electrical and processing power Apple Watch packed is so little, but it can do so much."
+excerpt: >-
+  In my 24-year life, which is quite long enough since it's like a quarter of
+  one's whole life, there's never been such a digital device that changed my
+  life as much as Apple Watch did, physically and biologically. Not even iPhone,
+  which entirely changed the way I see the world and connect with people, not
+  even Mac, which I use everyday, creating nice things and make a living, not
+  even Nintendo Switch, which has so many great games that made me laugh and
+  cry. They are all great products, but not as intimate, proactive and
+  liberating as Apple Watch. Compared to those devices, the electrical and
+  processing power Apple Watch packed is so little, but it can do so much.
 title: "🔥 Apple Watch Series 4：Something big"
-tags: 科技 🔥
-image: "/assets/2018/IMG_1129.jpg"
-excerpt_img: true
+tags: "科技 🔥"
+image: /assets/2018/IMG_1129.jpg
 ---
 
 我的 Apple Watch Series 3 在仅仅服役 10 个月后，光荣退役。

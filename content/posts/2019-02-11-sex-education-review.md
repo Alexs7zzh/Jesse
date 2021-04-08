@@ -1,9 +1,8 @@
 ---
-excerpt: "在每一集开头直白的性爱镜头背后，《Sex Education》试图「教」会观众的，其实是和解与爱。"
+excerpt: 在每一集开头直白的性爱镜头背后，《Sex Education》试图「教」会观众的，其实是和解与爱。
 title: 《Sex Education》：性的迷思和爱的教育
 tags: 电影 次文化
-image: "/assets/2019/sex-education-1.jpg"
-excerpt_img: true
+image: /assets/2019/sex-education-1.jpg
 ---
 
 当 Netflix 第一时间把这个剧的预告推到我的首页上来的时候，我以为《Sex Education》就是像《美国派》一样没什么营养的青春性喜剧，只是针对今天的文化语境做了一些适配，在族裔和性取向上做了一点多元化的工作。

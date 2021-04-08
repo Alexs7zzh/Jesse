@@ -1,9 +1,13 @@
 ---
-excerpt: "Privacy means people know what they're signing up for in plain English and repeatedly. That's what it means. I'm an optimist. I believe people are smart and some people wanna share more data than other people do, ask them, ask them every time, make them tell you to stop asking then if they get tired of your asking them. Let them know precisely what you're gonna do with their data."
-title: "iOS 14 重锤广告业：破墙与重建"
+excerpt: >-
+  Privacy means people know what they're signing up for in plain English and
+  repeatedly. That's what it means. I'm an optimist. I believe people are smart
+  and some people wanna share more data than other people do, ask them, ask them
+  every time, make them tell you to stop asking then if they get tired of your
+  asking them. Let them know precisely what you're gonna do with their data.
+title: iOS 14 重锤广告业：破墙与重建
 tags: 科技
-image: "/assets/2020/facebook-cookies.jpg"
-excerpt_img: true
+image: /assets/2020/facebook-cookies.jpg
 ---
 
 （本文首发于[极客公园](https://www.geekpark.net/news/266200)，本站收录时进行了修改。）

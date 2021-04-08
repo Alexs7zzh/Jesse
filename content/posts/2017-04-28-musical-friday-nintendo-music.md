@@ -1,9 +1,9 @@
 ---
-excerpt: "在制作[这期视频](https://www.bilibili.com/video/av9780659/)时，我得以有机会，把任天堂的历史上的那些游戏音乐，至少我所知的，全部梳理了一遍。所以就有了做一期任天堂游戏音乐专题的想法。"
-title: "【M】周五音乐组 -remake：任天堂音乐考"
+excerpt: >-
+  在制作[这期视频](https://www.bilibili.com/video/av9780659/)时，我得以有机会，把任天堂的历史上的那些游戏音乐，至少我所知的，全部梳理了一遍。所以就有了做一期任天堂游戏音乐专题的想法。
+title: 【M】周五音乐组 -remake：任天堂音乐考
 tags: 游戏 音乐
-image: "/assets/2017/v2-4ee3c42b9b8359dec05f57f298971a9f.jpg"
-excerpt_img: true
+image: /assets/2017/v2-4ee3c42b9b8359dec05f57f298971a9f.jpg
 ---
 
 在制作这期视频[《新鲜度 90+：能带来不一样体验的 Nintendo Switch》](https://www.bilibili.com/video/av9780659/)时，我得以有机会，把任天堂的历史上的那些游戏音乐，至少我所知的，全部梳理了一遍。所以就有了做一期任天堂游戏音乐专题的想法。
