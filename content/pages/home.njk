@@ -25,7 +25,7 @@ permalink: /{{ '' if pagination.pageNumber == 0 else 'page/' + (pagination.pageN
     {% if post.data.tags %}
       <ul class="taglist">
       {% for tag in post.data.tags %}
-        <li class="button"><a href="/all/{{ tag }}/">{{ tag }}</a></li>
+        <li class="button"><a href="/all/?tag={{ tag }}">{{ tag }}</a></li>
       {% endfor %}
       </ul>
     {% endif %}

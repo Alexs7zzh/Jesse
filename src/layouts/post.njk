@@ -20,7 +20,7 @@ permalink: "/{{ page.date | date: '%Y' }}/{{ page.fileSlug }}/"
   {% if tags %}
     <ul class="taglist">
     {% for tag in tags %}
-      <li class="button"><a href="/all/{{ tag }}/">{{ tag }}</a></li>
+      <li class="button"><a href="/all/?tag={{ tag }}">{{ tag }}</a></li>
     {% endfor %}
     </ul>
   {% endif %}
