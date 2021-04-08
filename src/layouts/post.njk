@@ -2,12 +2,16 @@
 layout: base.njk
 permalink: "/{{ page.date | date: '%Y' }}/{{ page.fileSlug }}/"
 ---
+{% if toc !== false %}
+<nav class="toc"></nav>
+{% endif %}
+
 <article>
   <h1>{{ title }}</h1>
   
   {% if image %}
   <figure>
-    <img src={{ image }} alt="{{ post.data.title }}" />
+    <img src={{ image }} alt="{{ title }}" />
   </figure>
   {% endif %}
   

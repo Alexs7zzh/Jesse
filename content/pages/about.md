@@ -2,6 +2,7 @@
 title: 关于本站
 permalink: /about/
 standalone: true
+toc: false
 image: /assets/2020/about.jpg
 ---
 

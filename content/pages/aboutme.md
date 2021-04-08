@@ -2,6 +2,7 @@
 title: 关于我
 permalink: /aboutme/
 standalone: true
+toc: false
 image: /assets/2020/bio.jpg
 ---
 

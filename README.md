@@ -6,7 +6,7 @@ Performance
 
 Function
 - [x] 标签页 Javascript
-- [ ] table of contents
+- [x] table of contents
 
 Immigration
 - [ ] 移除所有 absolute_url
