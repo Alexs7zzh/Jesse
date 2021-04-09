@@ -6,7 +6,6 @@ const { basename } = require('path')
 const Mutex = require('async-mutex').Mutex
 
 const bundling = async url => {
-  console.log(url)
   const bundle = await rollup.rollup({
     input: [`src/js/${url}`],
     plugins: [terser()]

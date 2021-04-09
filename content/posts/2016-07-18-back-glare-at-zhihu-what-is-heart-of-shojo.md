@@ -5,7 +5,7 @@ excerpt: |-
   —— 王诺诺，[什么是「少女心」？](https://www.zhihu.com/question/20996727/answer/26118959)
 title: 回望知乎 002丨什么是「少女心」？
 tags: 日常
-image: /assets/2016/akram-shehadi-57720 copy.jpg
+image: /assets/2016/akram-shehadi-57720.jpg
 ---
 
 > 「但是你知道吗培培？我真遇到了对的人的时候，没有任何迷之物体掉下来，而是自己的整个世界冉冉在升起。」
