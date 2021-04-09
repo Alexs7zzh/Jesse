@@ -33,7 +33,7 @@ Revenge 把 Usher 歌曲开头经典的「Usher! Yeah,man」改成了「Creeper?
 
 毫无来由地，8 年前 Revenge 开头的那句「Creeper? Aww,man」成为了一个梗。在各种 Minecraft 相关的 Discord 聊天频道里，有人开始发起挑战，一旦聊天中出现了「Creeper」这个词，其他人就必须开始玩「歌词接龙」的游戏，从「Aww man」开始，把 Revenge 整首歌的歌词接完。
 
-随着这个游戏的流行，Revenge 一度成为了歌词网站 [Genius](genius.com) 上最热的歌词，YouTube 上 Revenge 原视频的热度突破了 8 年前刚发布时的热度。歌词接龙的游戏也开始不限于 Revenge，人们开始在各种 Discord 群组里接龙各种歌曲，特别是很多经典老歌，比如 ABBA 的 Dancing Queen，A-ha 的 的 Take On Me，以及 John Denver 的 Take Me Home, Country Road。
+随着这个游戏的流行，Revenge 一度成为了歌词网站 [Genius](https://genius.com) 上最热的歌词，YouTube 上 Revenge 原视频的热度突破了 8 年前刚发布时的热度。歌词接龙的游戏也开始不限于 Revenge，人们开始在各种 Discord 群组里接龙各种歌曲，特别是很多经典老歌，比如 ABBA 的 Dancing Queen，A-ha 的 的 Take On Me，以及 John Denver 的 Take Me Home, Country Road。
 
 这恰好就是我在高中时代最喜欢干的事之一。2011 年的时候，我还是一个「无所事事」的高中生，无数个无聊的晚上，我都会躲在被子里，对着诺基亚那块 2.4 寸的屏幕，用 wap 贴吧或 S60V3 QQ，在水贴里，在 QQ 群，和朋友们玩「歌词接龙」的游戏。当时接的最多的歌之一，应该是 Mika 的 Big Girl。
 

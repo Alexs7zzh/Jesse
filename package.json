@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "eslint": "^7.23.0",
-    "gray-matter": "^4.0.2"
+    "prettier": "^2.2.1"
   },
   "eslintConfig": {
     "env": {
