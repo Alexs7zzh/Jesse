@@ -1,7 +1,7 @@
+const uslug = require('uslug')
+
 /* global process */
 module.exports = config => {
-  
-  
   config.addTransform('transform', (content, outputPath) => {
     if (outputPath && outputPath.endsWith('.html')) {
       const { parseHTML } = require('linkedom')
@@ -21,7 +21,7 @@ module.exports = config => {
           headings = headings.map(i => [i.tagName, i.innerText])
           const html = `
           <ol>
-            ${headings.map(i => `<li class="${i[0] === 'H2' ? 'h2' : 'h3'}"><a href="#${i[1]}">${i[1]}</a></li>`).join('')}
+            ${headings.map(i => `<li class="${i[0] === 'H2' ? 'h2' : 'h3'}"><a href="#${uslug(i[1])}">${i[1]}</a></li>`).join('')}
           </ol>
           `
           toc.innerHTML = html

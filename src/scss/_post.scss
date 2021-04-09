@@ -169,7 +169,7 @@ main > hr {
     
     .toc-active {
       background-color: rgba(0, 0, 0, 0.05);
-      color: #{$color-accent};
+      color: #{$color-accent}!important;
     }
   }
 }
