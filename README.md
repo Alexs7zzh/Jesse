@@ -27,11 +27,11 @@ Finishing up
 2. 第x页的网页标题，原本：「Page 2 of 51 for 大破进击 - Page 2 of 51 | 大破进击」
 3. Maybe: 减小文章标题的行距（主要是手机上双行标题的情况）
 
-![](https://share.getcloudapp.com/L1udplOp "Normal line height (1.6)") ![](https://share.getcloudapp.com/kpuK5rN6 "1.4 line height")
+![](https://share.getcloudapp.com/L1udplOp/download/jesse-rebuild.vercel.app_2021_to-homepod-the-music-dna_(iPhone%20X).png "Normal line height (1.6)") ![](https://share.getcloudapp.com/kpuK5rN6/download/jesse-rebuild.vercel.app_2021_to-homepod-the-music-dna_(iPhone%20X)%20(1).png "1.4 line height")
 
 ## Markdown
 
-文章 meta 信息
+### 文章 meta 信息
 ```
 ---
 excerpt: |-
@@ -45,19 +45,19 @@ image: /assets/2021/trump-capitol-rally.jpg
 ```
 （`|-`是 frontmatter 中表示多行的符号，之后可以正常写 Markdown。需要缩进。分段落不再需要中间空三行。）
 
-图片
+### 图片
 ```
 ![](/assets/2020/iphone-12-mini-1.jpg)
 ```
 （避免在文件夹名或图片名中出现空格，比如 `/assets/2018/Ready Player One/1.jpg` 被改为了 `/assets/2018/Ready-Player-One/1.jpg`）
 
-博客内链接
+### 博客内链接
 ```
 // https://jesse-rebuild.vercel.app/2021/three-stories-about-zhihu/
 [跟知乎有关的三个故事](/2021/three-stories-about-zhihu/)
 ```
 
-Ulysses Markdown 并不是 Markdown 标准语法。
+### Ulysses Markdown 并不是 Markdown 标准语法。
 1. 每一个元素之间必须空行。
 ```
 // Wrong
