@@ -2,7 +2,7 @@
 excerpt: |-
   还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的 OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个全新的 iPod 么？  
   在今天这些事都完全不成立了，iPod 在苹果完全销声匿迹，在它诞生 15 周年这样一个时间点上，Tim Cook 连提都懒得提它一下，而最新的 MacBook Pro 呢？我看到的是一款，用 iOS 的逻辑来引领的，「试图进一步让 Mac 作为 iOS 用户以 iPhone 为起点进行延伸」的 Mac。
-title: '新 MacBook Pro, with iOS 10.'
+title: "新 MacBook Pro, with iOS 10."
 tags: 科技
 image: /assets/2016/v2-56fa6d15f92ebddec2b7494806650fc4.jpg
 ---
@@ -67,7 +67,7 @@ Apple TV 的硬件没有更新，可能意味着，苹果已经开始意识到�
 
 ## 新 MacBook Pro
 
-_新 MacBook Pro 比之前的 MacBook Pro 更薄更轻更小，屏幕边框进一步收窄，并且有了深空灰色，但取消了之前 MacBook 的发光苹果 Logo 设计__。功能上有了更大的 ForceTouch 触摸板，广色域屏幕，新的扬声器，与之前相比能实现两倍的动态范围，以及第二代蝴蝶式键盘。_
+_新 MacBook Pro 比之前的 MacBook Pro 更薄更轻更小，屏幕边框进一步收窄，并且有了深空灰色，但取消了之前 MacBook 的发光苹果 Logo 设计\_\_。功能上有了更大的 ForceTouch 触摸板，广色域屏幕，新的扬声器，与之前相比能实现两倍的动态范围，以及第二代蝴蝶式键盘。_
 
 _当然，最重要的，还是 MacBook Pro 新加入了一个 OLED 的触控区域，Touch Bar。右边有 Touch ID 且为其单独定制了一个 T1 芯片来专门负责指纹信息的存储和授权。以及配备 4 个 USB-C 形式的 Thunderbolt 3 接口，支持包括 HDMI、Display Port、USB、VGA、电源等等一系列接口的接入。_
 

@@ -26,7 +26,7 @@ image: /assets/2017/tim-marshall-85555.jpg
     Nothing - The Script
     Me and My Broken Heart - Rixton
     Keep On - 前田愛
-    
+
 [Apple Music Playlist：The Ultimate Core of May](https://itunes.apple.com/us/playlist/the-ultimate-core-of-may/idpl.cf1e88a0d3614eaea3ccc31fefc65905)
 
 <br>
@@ -45,8 +45,8 @@ image: /assets/2017/tim-marshall-85555.jpg
 
 <br>
 
- 2010 年的 Justin Bieber 还有变声，没有丑闻，更没有「丁日」这个见证了他在中文互联网世界里从一炮而红到被唾弃，再到现在销声匿迹的诨名。
- 
+2010 年的 Justin Bieber 还有变声，没有丑闻，更没有「丁日」这个见证了他在中文互联网世界里从一炮而红到被唾弃，再到现在销声匿迹的诨名。
+
 我从来没有试图掩盖过我当年对《My World 2.0》这一张算是 Justin Bieber 第一张完整唱片的喜爱，无论是《One Time》还是《Somebody to Love》，还是这一首《One Less Lonely Girl》，运动会的时候听着他们跟同学一起翻墙跑出去打游戏，吃麦当劳 7 块钱两个的派，都是深刻地和特定的时间、特定的事情绑定在一起的旋律和节奏。
 
 <br>
@@ -68,4 +68,3 @@ image: /assets/2017/tim-marshall-85555.jpg
 但我始终还是相信，在这样微微发烫的五月的掩护下，那些低落的、迷惘的、愤懑的时刻，最终都会过去。转眼就是期末考试了，转眼就是暑假了，转眼间从东南亚席卷而来的湿热空气又要笼罩于你的头顶了。吃下了初夏的第一支冰棒，耳机塞进耳朵有一点凉意。
 
 这是五月的灵魂，从窗户里，斜斜地照进来。
-    

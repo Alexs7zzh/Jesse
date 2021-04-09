@@ -14,6 +14,7 @@ image: /assets/2018/IMG_0282.jpg
 <br>
 
 ## 产品
+
 1.安装好 HomePod 之后，「Hey, Siri」在多设备之间的协作变得明显更灵敏，喊完 Hey, Siri 之后，iPhone、Apple Watch 和 HomePod 会同时响应，但 iPhone 和 Apple Watch 会被迅速掐断。不像之前，常常出现 Apple Watch 和 iPhone 同时听完了我的指令并同时执行的情况。有理由认为这个协作是在本地通过 mesh 进行的。
 
 <br>
@@ -35,6 +36,7 @@ image: /assets/2018/IMG_0282.jpg
 <br>
 
 ## 声音
+
 1.HomePod 声音最大的特点，与其他单体音箱一耳朵的区别，其实还是在于苹果下最大力气宣传的 spatial awareness，以及借此模拟出的宽阔音感。
 
 以至于，当你闭着眼睛走进一个 HomePod 正在播放音乐的房间，如果这个房间本身不大的话，你很难快速准确地分辨声音到底从是哪里发出来的。
@@ -57,6 +59,7 @@ image: /assets/2018/IMG_0282.jpg
 <br>
 
 ## 最后还有一点想说
+
 在今天看来，HomePod（以及一切智能音箱） 不会是 Siri（以及一切语音助手） 的完美载体。但其一定是是一个桥梁，一个通道。
 
 因为 HomePod 没有屏幕，并长期处于你伸手够不到的地方，所以它会促使你去使用语音指令，并聆听它语音形式的回应。

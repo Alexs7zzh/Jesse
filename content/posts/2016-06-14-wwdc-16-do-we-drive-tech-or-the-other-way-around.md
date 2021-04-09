@@ -200,7 +200,7 @@ watchOS / tvOS / macOS / iOS 10 / 总结
 
 <br>
 
-### 地图、Apple Music 和 News 
+### 地图、Apple Music 和 News
 
 这三个 app ，跟中国用户的关系都不太大，地图中国用的是高德的数据，新闻中国没有，Apple Music 用户也少的可怜。
 

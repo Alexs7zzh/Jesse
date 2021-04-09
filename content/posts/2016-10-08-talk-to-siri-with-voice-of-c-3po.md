@@ -9,7 +9,7 @@ image: /assets/2016/v2-fb2b1eb63ecea66f1f3c74e336292a42.jpg
 一年多以前，Jason Snell 和 John Siracusa 就在播客《Robot or Not》里，讨论过 Siri 是不是 一个 Robot 。
 
 > - Is Siri a robot?
-> 
+>
 > - No. Siri is barely voice recognition.
 
 <br>

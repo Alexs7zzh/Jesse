@@ -17,6 +17,7 @@ macOS 要在代码层与 iOS 进行对接；有开发者在代码中发现了「
 <br>
 
 ## tvOS
+
 会前，我猜测今年 tvOS 可能直接就不复存在了。它还活着，但已经奄奄一息。
 
 新的 tvOS 已经彻底沦为了一个跑在机顶盒上的 TV App，所有更新都围绕视频内容展开，第三方 app 的存在感已经消失殆尽。考虑到未来会有更多电视机原生支持 Apple TV app，tvOS 和 Apple TV 机顶盒距离被砍应该也只是时间问题了。
@@ -39,6 +40,7 @@ watchOS 6 终于为「发廊风」的信息表盘提供了「单色模式」，�
 <br>
 
 ## SiriKit
+
 在 iOS 13 环节的最后，Craig 把 AirPods、HomePod、CarPlay 这三个语音交互为主导的硬件和 Siri 放在一起打了个包来介绍。我觉得 watchOS 也应该在这个团队里，因为 Apple Watch 也是语音交互主导的设备。
 
 HomePod 支持「声纹识别」了，AirPods 上的 Siri 现在可以读出短信了，一个 iPhone 可以同时配对两对 AirPods 了，CarPlay 为宽屏的汽车中控定制了一套新 UI。这些都是非常小的改进，Siri 相对 Alexa 和 Google Assistant 的落后仍然显而易见。
@@ -62,6 +64,7 @@ HomePod 支持「声纹识别」了，AirPods 上的 Siri 现在可以读出短�
 iOS 开始支持「通过 Apple 登录」，主打隐私保护和防追踪。HomeKit 也有了更完整的安全功能，现在用户可以在手机上远程看到家里的摄像头画面，传输过程通过 iCloud 且经过加密。苹果还认证了几个品牌的路由器，防止用户家里的智能家居遭到外部攻击。值得一提的是，苹果认证的路由器品牌中，包括之前被亚马逊收购的 eero。
 
 ### App 和功能
+
 iOS 支持 Dark Mode 了。考虑到 iPhone X 就用上了 OLED 屏，能够显示「真正的黑」，这是早就应该做的功能。
 
 我对目前公开的 Dark Mode 只有两个怀疑，第一个是第三方开发者会不会很快适配它，特别是国内的一些 App。第二个是，从官网的描述看起来，它只支持「在晚上自动开启」，而不支持「随屏幕亮度调节」。我真正需要 Dark Mode 的时间，至少有一半是「在无灯或灯光昏暗的室内」，比如卫生间、地下车库等等。
@@ -77,12 +80,15 @@ iOS 13 的相机继续增强了「人像模式」，但「人像模式」模型�
 <br>
 
 ![](/assets/2019/ipados.jpg)
+
 ## iPadOS
+
 这件事早在两年前就有预兆。
 
 WWDC17 上，苹果把 iOS 更新明确地分成了 iPhone 和 iPad 两部分，彻底重构了 iOS for iPad 的交互逻辑和体验。两年后，苹果要继续推动这件事，所以干脆将这部分独立，推出了 iPadOS。
 
 ### UI & 交互
+
 苹果在目前 iOS for iPad 的基础上进一步推动了 UI 的差异化。iPadOS 不止有 Dock，主界面上显示的 App 数量也更多了，通知中心开始可以和主界面共存了。Split View 和 Slide Over 变得更加复杂，你可以将同一 App 的两个窗口并列显示，可以通过 App Expose 浏览一个 App 的所有窗口。
 
 Apple Pencil 有了更丰富的功能选项，选中、复制、粘贴、撤回有了新的手势，Apple Pencil 现在可以在整页的文档上进行涂写标记了。
@@ -92,6 +98,7 @@ Apple Pencil 有了更丰富的功能选项，选中、复制、粘贴、撤回�
 iPad Pro 的生产力现状仍未改变。如果你现在就能够充分利用 iPad Pro 进行工作，iPadOS 能让你用得更爽。但如果你现在没法用 iPad Pro 进行工作，iPadOS 也暂时不能改变这件事。
 
 ### App 和功能
+
 iPadOS 的 App 功能更新围绕着 Safari 和「文件」app 展开。Safari 现在支持全局请求桌面版网站了，支持文件下载了。文件 App 的逻辑更像 Mac 了，支持访问外接硬盘和远程服务器了。
 
 总之，iPadOS 正在从 iOS 中剥离出来，成为介于 iOS 和 macOS 之间的一个系统。现在的 iPadOS 还在更多地停留在「改进版 iOS」的层面，但苹果把未来指得非常明白，iPadOS 最终要向 macOS 靠拢。
@@ -99,22 +106,25 @@ iPadOS 的 App 功能更新围绕着 Safari 和「文件」app 展开。Safari �
 <br>
 
 ![](/assets/2019/macos-catalina.jpg)
+
 ## macOS Catalina
+
 ### RIP, iTunes
+
 iTunes 没有死，只是被边缘化了。Apple Music、Apple TV 和播客这三个 iTunes 最主要的功能被剥离出来，成为了三个独立的 App。不出意外的话，性能上这三个 App 一定是要强于目前的 iTunes，应该也会和 Siri 整合得更好。
 
 值得一提的是，在苹果演示页面上，无论是 Apple Music 还是 Apple TV，都没有「商店」这个按钮，iOS 演示的主界面上也不再有 iTunes Store 的图标。所以 iTunes Store 这个名字应该是成为历史了。
 
-
 ### iPad✖️Mac
+
 脱离 iOS 之后，iPad 成为了 Mac 最好的朋友。
 
 苹果做了一套开发工具，让开发者能够轻松将 iPad app 移植到 macOS 上。与此同时，iPad 可以作为 Mac 的「配件」使用了，用户可以将它作为一块拓展的屏幕，也可以利用 Apple Pencil 进行涂、写、画的操作。
 
 这对 iPad 和 Mac 是非常重要的方向转变。理想情况下，macOS 能够从 iOS 丰富的第三方开发生态中受益，iPad 也能变得更像 Mac，更像一个生产力工具。开发层面，这是在为未来 ARM 架构的 Mac 铺路，甚至预示着一个没有实体键盘的，C 面是一整块触控屏的 MacBook 正在酝酿之中。
 
-
 ### App 和功能
+
 macOS Catalina 与 iOS 13 进行了更多小功能的同步。它也有了新的提醒事项 App，新的备忘录、相册，有了屏幕使用时间和 App 限制功能，新的「Find My」App。
 
 这些都属于 macOS 每年例行的体验同步，没有什么意外的。支持 Apple Watch 全局的管理员授权这个新功能很棒，在 MacBook Pro 外接屏幕的时候，不用每次都伸手去摸 Touch ID 以授权 iCloud 钥匙串了。
@@ -122,19 +132,21 @@ macOS Catalina 与 iOS 13 进行了更多小功能的同步。它也有了新的
 <br>
 
 ![](/assets/2019/mac-pro-display.jpg)
+
 ## Mac Pro & Pro Display XDR
+
 我原本期待库克以「One More Thing」的形式来介绍它们，结果在 macOS 之前就发布了，让我沉浸在震惊中，macOS 的部分都没怎么认真听。
 
-
 ### Mac Pro
+
 新 Mac Pro 的参数我就不复读了，一切都是最顶级的，价格也是最顶级的，5999 美元起步。
 
 苹果终于开始倾听（有钱的）专业用户的需求了，新的 Mac Pro 不像 7 年前的那一代产品，试图追求「一体化」、「性感小巧」，而是将「扩展性」和后续的「可定制化」带向了极致。苹果给电源和散热留了无比充足的余量，1400W 的电源，保证你无论如何加配置，这台性能怪兽也能把它吃下来。Afterburner 视频加速卡让你可以在剪辑的时候同时输出三路 8K RAW 视频，或者 12 路 4K RAW 视频。
 
 新 Mac Pro 性能的强大用一件事可以轻松概括，Adobe 等专业软件开发商都为它专门定制了更复杂、强大的软件，以适配它的性能。
 
-
 ### Pro Display XDR
+
 一句话解释这个显示器：它用「砸钱」的方式，做了一个 OLED 理论支撑的 LCD 屏幕。所以它可以提供堪比 OLED 的超高对比度、亮度，同时兼顾 LCD 屏幕的色准和寿命。
 
 Pro Display 的售价是 4999 / 5999 美元（经特殊处理的雾面屏版本贵 1000），以及它的专用支架 1000 美元一个。
@@ -142,7 +154,9 @@ Pro Display 的售价是 4999 / 5999 美元（经特殊处理的雾面屏版本�
 <br>
 
 ![](/assets/2019/iPad-mac-merge.jpg)
+
 ## 总结
+
 这的确是 10 年内最重要的一场 WWDC。苹果对整套产品生态进行了一次重构，iOS 和 watchOS 留在消费设备阵营，按照既定的路线稳步发展。Siri 也组建起了自己的「小队」，正酝酿下次的大更新。
 
 iPadOS 与 macOS 则组成了新的生产力设备阵营，即将开启一个全新的时代。在那个未来里，有 Mac Pro 这样的 X86 性能怪兽，有 iPad 这样能博采 iOS 和 macOS 所长的移动设备，iPad 和 Mac 在融合之后，将迎来计算架构和交互方式的双重巨变。

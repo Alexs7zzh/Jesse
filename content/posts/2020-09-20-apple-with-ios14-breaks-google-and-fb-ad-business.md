@@ -21,6 +21,7 @@ iPhone 上一个「弹窗」，击中了谷歌和 FB 的要害。
 <br>
 
 ## 广告系统和追踪
+
 过去 20 年，在线广告高速发展，将传统广告远远地甩在身后。
 
 传统电视、纸媒广告的模式就像「大水漫灌」。广告商将广告铺满电视荧幕、报纸版面，当他们想衡量效果时，却只能粗略估算这些广告的覆盖人数。广告主既不知道谁看了这些广告，也不知道他们看完之后的反应如何，更不能洞察广告最终的转化效果。传统广告能做的精细化投放，最多也就是在时尚杂志上宣传化妆品，在体育频道推销剃须刀这种程度。
@@ -42,6 +43,7 @@ iPhone 上一个「弹窗」，击中了谷歌和 FB 的要害。
 <br>
 
 ## 「默认」的力量
+
 这样一套追踪机制，为广告商带来巨大利益的同时，也带来了一系列隐私问题，引发了不小的争议。
 
 争议的焦点在于隐私，解决办法则在于「透明度」。大部分用户在使用互联网产品时，并不清楚这些产品出于什么目的，获取了自己哪些隐私信息，是如何做到的。为保护隐私，用户需要了解科技产品收集信息的整个过程，并有权进行干预、控制。
@@ -69,6 +71,7 @@ iPhone 上一个「弹窗」，击中了谷歌和 FB 的要害。
 <br>
 
 ## 推倒重建
+
 iOS 的微小变化，很快演变成整个行业的地震。
 
 8 月，FB 明确表示，iOS 的这一改变将削弱它投放个性化广告的能力，对未来财务状况带来打击。如果无法进行精准推送，FB 广告的投放效果会大幅下降，直接影响广告的价格。FB 在 iOS 14 测试版上进行了小规模测试，结果是广告收入出现了 50% 的断崖式下跌。
@@ -94,6 +97,7 @@ iOS 的微小变化，很快演变成整个行业的地震。
 <br>
 
 ## 未来会如何？
+
 苹果一直将「隐私」看作重要的产品战略，不断推出比业界平均水平更严格的隐私保护功能。
 
 2017 年，苹果在 Safari 浏览器上推出了「智能防追踪」功能，会默认定期清除浏览器 cookies 缓存，阻断了广告平台对用户长期的跨网页追踪。之后，每一年系统更新，苹果都会在之前的基础上，进一步强化这个功能。
@@ -107,15 +111,9 @@ iOS 的微小变化，很快演变成整个行业的地震。
 十年前的 D8 大会上，Walt Mossenberg 谈到了科技产品带来的隐私担忧。当时乔布斯旗帜鲜明地与「整个硅谷」划清界限。在解释苹果处理隐私问题的方式时，他说：
 
 > 硅谷对待隐私问题的态度并非铁板一块。相比硅谷的同仁，我们（苹果）在看待隐私问题时一直有着不同的观点。我们用极其严格的态度处理隐私问题。举个例子，我们很担心 iPhone 的定位功能，担心比如某个 14 岁小孩会因为我们手机的定位功能被跟踪。所以当任何一个 app 想要获取手机的位置时，我们的做法不是让 app 开发者自己设计一个弹窗去询问用户，因为他们可能不会遵守。我们的做法是让他们呼叫 iPhone 的「位置服务」，然后我们（iOS 系统）弹出一个窗口询问用户「这个 app 想要获取你的位置数据，可以吗？」，每一次获取都这样弹出。我们做了很多类似的事情，保证用户完全明白这些 app 在干什么。
-> 
->
 >
 > 「隐私」意味着用户签字同意的时候知道他们在签什么。我们相信用户是聪明的，有自己的判断能力。有些人或许愿意分享更多数据，但你必须先获得他们的允许，每一次都去询问，直到他们主动要求你不要再问了。让他们明确了解，你会拿他们的数据去干什么。
-> 
->
 >
 > Silicon Valley is not monolithic, we've always had a very different view of privacy than some of our colleagues in the valley. We take privacy EXTREMELY seriously. As an example, we worry a lot about location in phones, and we worry that some 14-year old is gonna get stalked and something terrible is gonna happen because our phone. So as an example before any app can get location data, we don't make it a rule that they have to put up a panel and ask because they might not follow that rule. They call out location services and we put up the panel saying "this app wants to use your location data, is that okay with you?" every time they wanna use it. We do a lot of things like that, to ensure that people understand what these apps are doing.
-> 
->
 >
 > Privacy means people know what they're signing up for in plain English and repeatedly. That's what it means. I'm an optimist. I believe people are smart and some people wanna share more data than other people do, ask them, ask them every time, make them tell you to stop asking then if they get tired of your asking them. Let them know precisely what you're gonna do with their data. That's what we think.

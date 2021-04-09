@@ -6,14 +6,14 @@ tags: 音乐 ⭐️
 image: /assets/2019/lover.jpg
 ---
 
-在 _Lover_ 放出之前，我把 Taylor Swift 之前的六张专辑听了四轮，特别是从  _Speak Now_ 开始，贯穿过去 10 年的后四张。站在今天的角度去回顾 Taylor 走过的路，你不得不感叹，她可能是过去 10 年里产出最稳定且质量最高的流行音乐艺术家。
+在 _Lover_ 放出之前，我把 Taylor Swift 之前的六张专辑听了四轮，特别是从 _Speak Now_ 开始，贯穿过去 10 年的后四张。站在今天的角度去回顾 Taylor 走过的路，你不得不感叹，她可能是过去 10 年里产出最稳定且质量最高的流行音乐艺术家。
 
 从这个角度来看，Lover 显然不是 Taylor Swift 最好的专辑，但只有从前一个山顶上走下来，她才能攀向新的高峰。
 
 <br>
 
-
 ## The Old Taylor
+
 我们常常会因为「回忆起 10 年前的自己疯狂迷恋某个偶像」而想扇当年的自己两耳光，对我来说，这件事是反过来的。10 年前的我如果知道自己现在这么喜欢 Taylor Swift，他可能会想穿越到未来，扇现在的我两耳光。
 
 作为一个「伪独立乐迷」，我对 Taylor Swift 天然过敏。从带有浓烈 Teen Pop 感歌词的乡村，到 _Speak Now_ 开始加入摇滚配器和合成器，调和出一点流行风味，2012 年以前，一个有点喜欢「装腔」的乐迷很难喜欢上 Taylor，那时的我也从未认真地听过她的歌，除了被迫洗脑的 _Love Story_ 和 _You Belong With Me_。
@@ -27,13 +27,13 @@ image: /assets/2019/lover.jpg
 Taylor Swift 的创作天才是全方位的，如特写镜头一般深入细节还各种不重样的歌词，从主歌到 Pre-Chorus 层层递进的铺垫，最后引爆令人过耳不忘的副歌旋律……在她的前 6 张专辑里，这样的例子太多了。
 
 > Long live the walls we crashed through; All the kingdom lights shined just for me and you (Long Live, Speak Now)
-> 
+>
 > Say you'll remember me; Standing in a nice dress; Staring at the sunset, babe; Red lips and rosy cheeks; Say you'll see me again; Even if it's just in your; Wildest dreams (Wildest Dreams, 1989)
 
 Taylor 的很多歌都并不急着进副歌，而是选择在主歌和 Pre-Chorus 阶段多走一两个循环，在 Bridge 之后也常常会设置一段主歌的 refrain，改成 Breakdown。比如 _Long Live_，走过三个主歌循环再点燃副歌旋律；_Back to December_，两个主歌循环加上一个 Pre-Chorus，_Moment I Knew_ 直接是有两段主歌……在这些副歌之前的部分，Taylor 会用她的歌词把要讲的故事全部一点点讲得深入细节。
 
 > I'm so glad you made time to see me; How's life? Tell me, how's your family?; I haven't seen them in a while; You've been good, busier than ever; We small talk, work and the weather; Your guard is up and I know why (Back to December, Speak Now)
-> 
+>
 > You should've been there; Should've burst through the door; With that "Baby, I'm right here" smile; And it would've felt like; A million little shining stars had just aligned; And I would've been so happy (The Moment I Knew, Red)
 
 **最能体现 Taylor Swift 是谁，她所创作的最优秀的一首歌，无疑是 _All Too Well_。**那是她创作欲望最强烈的一段时间，她为这首歌准备的歌词材料足以唱够 10 分钟。她做了很多缩减，最终才完成了这首长达 5 分 30 秒，三段主歌、副歌的歌词都完全不同的歌曲。其中还包含我个人认为 Taylor 写的最好的一句词。
@@ -67,7 +67,7 @@ Taylor Swift 用了 10 年时间、4 张唱片，将她作曲和作词的天赋�
 最早期的时候，她歌词无比直白，讲的是几近「花痴」的校园爱情：
 
 > He's the reason for the teardrops on my guitar; The only thing that keeps me wishing on a wishing star; He's the song in the car I keep singing; Don't know why I do (Teardrops on My Guitar, Taylor Swift)
-> 
+>
 > Our song is the slamming screen door; Sneakin' out late, tapping on your window; When we're on the phone and you talk real slow; 'Cause it's late and your mama don't know (Our Song, Taylor Swift)
 
 以及通过「王子公主」的故事来相征爱情：
@@ -78,7 +78,7 @@ Taylor Swift 用了 10 年时间、4 张唱片，将她作曲和作词的天赋�
 
 > So this is me swallowing my pride; Standing in front of you, saying I'm sorry for that night; And I'd go back to December all the time (Back to December, Speak Now)
 
-_Red_ 是 Taylor 的第二次成长。在此之前，她大部分情歌写的都是对某个人单纯的迷恋，或是分手后对这个「人」的挽留，到了 Red 里，Taylor Swift 的自我女性意识开始觉醒，最典型例子当然是本专的主打歌  _We Are Never Ever Getting Back Together_。
+_Red_ 是 Taylor 的第二次成长。在此之前，她大部分情歌写的都是对某个人单纯的迷恋，或是分手后对这个「人」的挽留，到了 Red 里，Taylor Swift 的自我女性意识开始觉醒，最典型例子当然是本专的主打歌 _We Are Never Ever Getting Back Together_。
 
 > Then you come around again and say; "Baby, I miss you and I swear I'm gonna change, trust me"; Remember how that lasted for a day?; I say, "I hate you," we break up, you call me, "I love you" (We Are Never Ever Getting Back Together, Red)
 
@@ -89,12 +89,13 @@ _Red_ 是 Taylor 的第二次成长。在此之前，她大部分情歌写的都
 到了 _1989_，Taylor 开始写 diss track，将外界对她的评价用歌词的形式「怼」回去，而且她的歌词也变得愈发「成人化」，这个趋势在 _reputation_ 被推向极致。
 
 > Magic, madness, heaven, sin; Saw you there, and I thought; "Oh my God, look at that face; You look like my next mistake; Love's a game, wanna play?" (Blank Space, 1989)
-> 
+>
 > Say my name and everything just stops; I don't want you like a best friend; Only bought this dress so you could take it off; Take it oh, ha, ha, ha-ah (Dress, reputation)
 
 <br>
 
 ## 🐍➡️🦋
+
 在 _reputation_ 里，Taylor Swift 向世界宣布「The old Taylor is dead.」。但真正的歌迷都知道，old Taylor 从未离开，只是藏在了那些其他人不会去听的 B 面曲里。在 _reputation_ 的后半段，她还是那个 old Taylor。
 
 > Could've spent forever with your hands in my pockets; Picture of your face in an invisible locket (Dancing with Our Hands Tied, reputation)
@@ -116,9 +117,9 @@ _1989_ 和 _reputation_ 里，大部分歌曲，特别是主打歌的制作是�
 毫无疑问，_Cornelia Street_ 是整张专辑里写的最好的一首歌。或者说，它是 _Lover_ 里的 _All Too Well_，继承了 Taylor 最经典的蒙太奇式叙事，极富触感的比喻和层层递进的旋律编排。
 
 > We were in the backseat; Drunk on something stronger than the drinks in the bar; I rent a place on Cornelia Street, I say casually in the car; We were a fresh page on the desk, filling in the blanks as we go; As if the streetlights pointed in an arrowhead, leading us home
-> 
+>
 > Windows flung right open, Autumn air; Jacket around my shoulders is yours; We bless the rains on Cornelia Street; Memorizing the creaks in the floor; Back when we were card sharks, playing games; I thought you were leading me on; I packed my bags, left Cornelia Street before you even knew I was gone
-> 
+>
 > You hold my hand on the street, walk me back to that apartment; Years ago we were just inside; Barefoot in the Kitchen; Sacred, new beginnings, That became my religion, listen (Cornelia Street, Lover)
 
 从 _Cornelia Street_ 开始，专辑的整个后半部分几乎成了 Taylor 玩编曲的游乐场。_Death By A Thousand Cuts_ 徘徊在左声道的吉他、_False God_ 里勾出一点爵士味的萨克斯、_ME!_ 里的军鼓、_It's Nice To Have A Friend_ 里的尤克里里和高亢的小号……
@@ -142,6 +143,7 @@ _Daylight_ 对整张专辑做出了最完美的总结。一切互相攻击、斗
 <br>
 
 ## Oversaturated dreams
+
 在整张专辑发布前，_Lover_ 先行的 4 首单曲散发出浓烈的「糊」味。
 
 其中 _ME!_ 的旋律和歌词过于单薄，制作又太笨重；_You Need To Calm Down_ 在立意上实在缺乏新意，创作上也略显老土；至于 _The Archer_，作为一首抒情歌，它的旋律一路无限下行，只有呼没有吸，难以凸显出背后的情感起伏。

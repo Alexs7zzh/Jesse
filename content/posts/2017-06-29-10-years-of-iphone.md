@@ -10,7 +10,7 @@ tags: 科技 🔥
 image: "/assets/2017/v2-c4e6644c4147625a8717e5fd5df529ef.jpg"
 ---
 
-2007 年 6 月 29 日，那个时候的我很可能在做的事情是，用自己的小号，打开自己的 QQ 空间，一只手按住 F5，帮自己的 QQ 空间刷访问量。距离我拥有自己的第一台智能手机还有两年，距离我拥有自己的第一台 iPhone 的时刻则还有 5 年。  
+2007 年 6 月 29 日，那个时候的我很可能在做的事情是，用自己的小号，打开自己的 QQ 空间，一只手按住 F5，帮自己的 QQ 空间刷访问量。距离我拥有自己的第一台智能手机还有两年，距离我拥有自己的第一台 iPhone 的时刻则还有 5 年。
 
 当然，那时在地球的另一端所正在发生的，就是之后我们看过无数次的那场发布会了。
 
@@ -70,5 +70,5 @@ Steve Jobs 走上台，宣布这是他们等待了两年半的一天，向台下
 
 今天，它十岁了。
 
-[1]:	https://www.youtube.com/watch?v=mmiWTKZzBLY
-[2]:	https://www.youtube.com/watch?v=mmiWTKZzBLY
+[1]: https://www.youtube.com/watch?v=mmiWTKZzBLY
+[2]: https://www.youtube.com/watch?v=mmiWTKZzBLY

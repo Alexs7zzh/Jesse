@@ -1,7 +1,7 @@
 ---
 excerpt: |-
   互联网让现实中催生出的关系能超越空间的限制，接受时间的考验，让真正的友谊历久弥新。同时它又像是给我们的意识装上了某种功率放大器，让我们可以从成千上万的人中，萃取出那些真正和自己怀揣着某种共同理想、信念，有着相似美学与价值认同的朋友。
-title: '⭐️ 赛博大酒吧：Go wild, go far.'
+title: "⭐️ 赛博大酒吧：Go wild, go far."
 tags: 科技 日常 ⭐️
 image: /assets/2018/alexandre-godreau-447229-unsplash.jpg
 ---
@@ -50,7 +50,7 @@ image: /assets/2018/alexandre-godreau-447229-unsplash.jpg
 
 我一直不太明白「社交」这件事，除了让我们获得一种「陪伴感」，还有什么更深层次的意义。[Sherry Turkle 在 TED 演讲上的话](https://youtu.be/t7Xr3AsBEK4?t=17m15s)让我突然明白了很多：
 
-> When we listen to each other, we reveal ourselves to each other… 
+> When we listen to each other, we reveal ourselves to each other…
 >
 > Technology is giving us an opportunity to affirm our values and our direction.
 

@@ -58,21 +58,21 @@ Revenge 把 Usher 歌曲开头经典的「Usher! Yeah,man」改成了「Creeper?
 **Track List**
 
 > BIg Girl (You Are Beautiful) - Mika
-> 
+>
 > Last Friday Night (T.G.I.F) - Katy Perry
-> 
+>
 > Like a Surgeon - "Weird Al" Yankovic
-> 
+>
 > 七里香 - 周杰伦
-> 
+>
 > 十年 - 陈奕迅
-> 
+>
 > Viva La Vida - Coldplay
-> 
+>
 > 22 - Taylor Swift
-> 
+>
 > Revenge - TryHardNinja & Approaching Nirvana
-> 
+>
 > Mice On Venus - C418
 
 [(Listen to "Karaoke on Cloud" on Apple Music)](https://music.apple.com/us/playlist/karaoke-on-cloud/pl.u-9N9L1rpux89930N)

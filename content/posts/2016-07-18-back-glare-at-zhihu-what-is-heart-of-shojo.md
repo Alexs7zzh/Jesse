@@ -34,7 +34,6 @@ image: /assets/2016/akram-shehadi-57720.jpg
 
 <br>
 
-
 ## 二
 
 早先两年，身边的大家还经常就感情问题讨论得不可开交。

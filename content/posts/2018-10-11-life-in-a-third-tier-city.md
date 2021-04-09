@@ -21,6 +21,7 @@ image: /assets/2018/claudio-schwarz-782803-unsplash.jpg
 <br>
 
 ## Local & Remote
+
 最近频频出现的一个概念是[「数字游民」](https://jarodise.com/about/)。它描述的是一种不需要在固定的场所进行工作，而可以依赖于互联网来获得收入，并最终解放身体的一种生活方式。「数字游民」的美妙之处如此显而易见，以至于我身边每一个了解到它的朋友几乎都开始思考自己要如何达到这样的一种状态。这恰恰是我去年想要获得的「超越空间」。
 
 我试图拓展出一种「灵活」的生活。这其中第一步的「远程工作」就已经让人觉得十分美妙了。我拥有的时间变多了，无论是稍微睡个懒觉，或是早起跑步并从容地找个地方吃早餐，也可以不在家工作而是抱着电脑找一家咖啡厅。在脱离了办公室的限制，远程工作一年之后，工作给我意识上带来的压力和负担明显降低了。我感觉自己获得了一种前所未有的自由，一种被从现实的土壤中连根拔起却仍能茁壮成长的感觉。我做事的效率变高了，思考变得更活跃了，也感到了一种更确切的「充实感」。
@@ -34,6 +35,7 @@ image: /assets/2018/claudio-schwarz-782803-unsplash.jpg
 <br>
 
 ## 「低功率」运行
+
 端传媒的[一篇报道](https://theinitium.com/article/20180619-japan-taiwan-oharahenri-madao/)，介绍了日本「废柴」大原扁理在台湾的「隐居」生活。他每周只工作两天，年收入仅 90 万日元。「少工作，少消费」的生活让他有大量的时间可以随意挥霍。即使从外部看来，他也没有将这大量的业余时间利用起来做什么有意义的事，但在他的叙述中，这种「闲」仍给他的生活带来了积极的影响，使他得以从某种压力中解放出来。
 
 这件事在中国已经不只是压力的问题了。有朋友刚刚向我抱怨完自己在北京六环外租住的 18 平单间的价格，从去年的 2600 一个月涨到了今年的 3500，紧接着而来的就是阿里工程师住半年自如后患急性白血病去世的新闻，这可能跟自如公寓在装修后没有处理好的过量甲醛有关。
@@ -53,6 +55,7 @@ image: /assets/2018/claudio-schwarz-782803-unsplash.jpg
 <br>
 
 ## 「慢」与「漫」
+
 三线城市的生活节奏很慢。
 
 因为这种慢，我有了相当多的时间可供我随意挥霍。在过去的一年半里，我培养了一些自己之前未曾想过的习惯。无论是运动，还是每周固定的电影以及读书、打游戏。这个过程让我第一次有了一种对自我的「掌控感」，我不再是被某种紧绷的生活和工作节奏驱使着前进，而是可以自己决定要怎么做。
@@ -76,6 +79,7 @@ image: /assets/2018/claudio-schwarz-782803-unsplash.jpg
 <br>
 
 ## I‘ve been set straight.
+
 在这一年半里，有两个工作 offer，开出了我几乎无法拒绝的条件，其中一个曾是我梦寐以求的工作。我甚至已经写好了肯定回复的邮件，只差点下「发送」按钮了。最终，我仍然婉拒了几个全职工作的 offer，表示只要有什么能以远程形式帮到的，一定全力以赴。
 
 因为我的人生所关乎的，已经不再单纯是收入、身份，或是「出人头地」这种虚无的事了。当我回头去读 5 年前我写的年终总结时，我突然有了某种奇妙的感受，我体会到了如果我一直坚持做某件事，能产生的令人惊讶的改变。我的人生经历，正在慢慢连成一种完整的东西。我脑海中有了一个再也挥之不去的想法，如果我把写作，以至于创作这件事再坚持 5 年、10 年、20 年，结局会怎样？
@@ -84,7 +88,7 @@ image: /assets/2018/claudio-schwarz-782803-unsplash.jpg
 
 我不免想到 Jason Snell 写的[关于 iPod 的文章](https://www.macworld.com/article/1053498/ipods/ipod5.html)，在乔布斯发布初代 iPod 后不久，他的女儿恰好出生。现在再回头去看这样一篇文章，其中所包含的丰富价值自然是不言自明。我不免问自己：我在今天对未来 10 年技术发展的预言，等到 10 年后再回头看，会显得非常荒谬吗？会包含某种有价值的洞察吗？这是我想要坚持下去，并验证的事。我也希望能在一个自由而宽松的环境下，看到创作这件事在时间的催化下发酵出更多价值，更看到自己的成长。就像 dunkey 在去年的[《Cuphead》视频](https://www.youtube.com/watch?v=CCkPhYiKbJU)里所说的：
 
-> “Persistence” is the keyword. Going back to New Grounds, there were so many moments when I was a kid that I thought I had something special. I worked so hard for months on some of those movies, and when I finally put them up, the reception was “gay”. And that was crushing for me. But for some reason, I kept going back again, and again, and again. And eventually, eventually, I got better. 
+> “Persistence” is the keyword. Going back to New Grounds, there were so many moments when I was a kid that I thought I had something special. I worked so hard for months on some of those movies, and when I finally put them up, the reception was “gay”. And that was crushing for me. But for some reason, I kept going back again, and again, and again. And eventually, eventually, I got better.
 
 <br>
 

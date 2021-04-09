@@ -21,6 +21,7 @@ image: /assets/2019/barrett-ward-451723-unsplash.jpg
 <br>
 
 ## 声音 & 连接性
+
 新 AirPods 的声音，和前代没有任何区别。
 
 作为耳机，AirPods 的音质当然算不上「Hi-Fi」，但这并不重要。因为 AirPods 不是一副耳机，它是一副可以时刻戴在耳朵上的音频 IO 设备。与其说你用 AirPods 听歌，不如说你是用 AirPods 接收苹果设备发出的一切声音，同时让它感知你发出的声音。
@@ -36,6 +37,7 @@ AirPods(2019) 从 W1 芯片升级到了 H1 芯片。[Twitter 博主 Brian](https
 <br>
 
 ## Hey Siri & 无线充电
+
 你真的需要 AirPods 也支持「Hey Siri」和无线充电吗？
 
 在用到新 AirPods 之前我觉得答案是否定的。我喊一句 Hey Siri，我的 iPhone、Apple Watch、iPad Pro、MacBook Pro、HomePod、CarPlay 都能听见，它们甚至常常因为抢着回答我而互相打架。这种环境下，我为什么还需要 AirPods 也能听见？
@@ -55,6 +57,7 @@ iPhone、Apple Watch、AirPods 恰好都是差不多一天一充的设备。所�
 <br>
 
 ## Air 是什么？
+
 3 年前，AirPods 发布后一周，我体验了苹果送给媒体的第一批 AirPods。仅仅是几分钟的时间，我意识到这是一个极为领先且会引发革命的产品。3 个月后，我在 Apple Store 门口，顶着北京初春的寒风，从一群犹豫不决的黄牛手上，抢到了一副首发的 AirPods。
 
 在这 3 年的时间里，我几乎体验了世面上所有的主流无线耳机。头戴式、颈环式、分体式；平头的、入耳的、主动降噪的……我买了 5 个蓝牙耳机，和一个号称能达到 Hi-Fi 级别的蓝牙接收器。它们中的大部分直到今天都还很新，只有 AirPods，在我每天重度的摧残下，表面遍布伤痕，电池也不太行，已经是伊拉克成色了。

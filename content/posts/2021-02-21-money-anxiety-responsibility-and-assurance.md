@@ -70,7 +70,7 @@ image: /assets/2021/money-dollar-bill.jpg
 
 此前购买了 LIFEHACKING101 的读者，可以免费获得所有 DLC 推送。
 
-**想阅读完整 DLC 的朋友，可以支付 99 元购买 LIFEHACKING101 Deluxe，获得全部文字和音频内容，以及未来全部 DLC 内容。** 
+**想阅读完整 DLC 的朋友，可以支付 99 元购买 LIFEHACKING101 Deluxe，获得全部文字和音频内容，以及未来全部 DLC 内容。**
 
 购买请转账 99 元至支付宝 & Paypal: jessechan42@gmail.com ，并备注你的邮箱地址，用于接收内容。
 

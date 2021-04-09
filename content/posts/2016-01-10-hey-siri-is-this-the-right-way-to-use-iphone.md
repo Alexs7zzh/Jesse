@@ -1,6 +1,6 @@
 ---
 excerpt: 关于「使用 Apple 产品的正确姿势」，我们要不要成为这样的「模范消费者」，以及这样做的意义是什么。
-title: 'Hey, Siri, is this the right way to use iPhone？'
+title: "Hey, Siri, is this the right way to use iPhone？"
 tags: 科技 次文化
 image: /assets/2016/2376f9fa902033ef6815fdf3c6f0ab45.jpg
 ---
@@ -13,7 +13,7 @@ image: /assets/2016/2376f9fa902033ef6815fdf3c6f0ab45.jpg
 
 <br>
 
-iMessage 刚刚推出的时候，我在每一次发短信之前，都会等1分钟，等 iPhone 去检测这个号码是不是 iMessage接收地址。一旦确认了对方使用 iMessage 之后，我就几乎不会再给其发微信，尽管 iMessage 慢、不能发语音和微信表情。
+iMessage 刚刚推出的时候，我在每一次发短信之前，都会等 1 分钟，等 iPhone 去检测这个号码是不是 iMessage 接收地址。一旦确认了对方使用 iMessage 之后，我就几乎不会再给其发微信，尽管 iMessage 慢、不能发语音和微信表情。
 
 去年我用着 iPhone 6 ，现在我用着 iPhone 6s ，尽管这两代手机之间被人们诟病没有差别，但对我来说两者的使用方式截然不同。
 
@@ -35,7 +35,7 @@ iOS 8 开始的 Hand Off，想看书的时候就经常先在 iPhone 上打开 iB
 
 <br>
 
-清晨起来，我使用英文 Siri，无法命令其播放中文歌曲和播客。使用中文会出现同样的情况，对于听英文歌曲更多的我，是更恐怖的噩梦。而像「IT公论」这样名称的播客，永远无法用 Siri 命令播放。
+清晨起来，我使用英文 Siri，无法命令其播放中文歌曲和播客。使用中文会出现同样的情况，对于听英文歌曲更多的我，是更恐怖的噩梦。而像「IT 公论」这样名称的播客，永远无法用 Siri 命令播放。
 
 Reminders 里面永远只有一天两次的吃维生素和呼吸峰值测试提醒。而测完呼吸峰值和吃药之后，我也经常忘记把数据记录到 Health 里面。
 

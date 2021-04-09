@@ -89,7 +89,7 @@ The 1975 拥有一种直面的坦然，它从一开始就没想着要维护什�
 
 但副歌部分，风头一转。The 1975 用歌名的四次重复，重申了他们对未来积极的，希望改变的态度。在 [Genius](https://genius.com/15024827) 上，他们解读了副歌部分的这句歌词，认为不应当用虚无的态度面对未来。人类的精神具有某种自愈力，能从目前的境况中超脱出来。
 
-> I think there’s a resilience to the human spirit. I think in regards to, “Love It If We Made It,” it’s about that. Is it an optimism or a desire? I’m not a nihilist, so I don’t want us all to go out in a big ball of flames. 
+> I think there’s a resilience to the human spirit. I think in regards to, “Love It If We Made It,” it’s about that. Is it an optimism or a desire? I’m not a nihilist, so I don’t want us all to go out in a big ball of flames.
 
 <br>
 
@@ -110,7 +110,7 @@ The 1975 拥有一种直面的坦然，它从一开始就没想着要维护什�
 
 三个月前，Medium 杂志上刊登了一篇文章，[《Can a Thirst-Trap Selfie Lead to True Love?》](https://medium.com/s/youthnow/can-a-thirst-trap-selfie-lead-to-true-love-492213744af8)。作者在文章的末尾这样写道：
 
-> I’d temporarily made myself an object, but beneath that surface, I was always a documenter. 
+> I’d temporarily made myself an object, but beneath that surface, I was always a documenter.
 >
 > …
 >

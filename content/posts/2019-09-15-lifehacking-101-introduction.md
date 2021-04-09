@@ -12,7 +12,7 @@ image: /assets/2019/lifehacking.jpg
 
 > LIFEHACING101 是一套付费内容，包含 4 个单元，每个单元都有对应的文字和音频内容，价格为 69 元人民币。
 >
->购买请将款项汇至支付宝/Paypal：jessechan42@gmail.com，来款请备注「预定」，并留下邮箱以接收后续内容。（Paypal 请汇 10 美元等值货币）
+> 购买请将款项汇至支付宝/Paypal：jessechan42@gmail.com，来款请备注「预定」，并留下邮箱以接收后续内容。（Paypal 请汇 10 美元等值货币）
 
 <br>
 

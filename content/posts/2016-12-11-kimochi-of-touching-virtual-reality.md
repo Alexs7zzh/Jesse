@@ -65,7 +65,7 @@ image: /assets/2016/IMG_3412.jpg
 
 《愛言葉》
 
-第一张放进 iPod 里的 Vocaloid 录音室专辑就是 Deco*27 的。高中的时候循环了很长时间。
+第一张放进 iPod 里的 Vocaloid 录音室专辑就是 Deco\*27 的。高中的时候循环了很长时间。
 
 《炉心融解》
 

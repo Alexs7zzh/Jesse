@@ -65,22 +65,21 @@ image: /assets/2017/v2-4ee3c42b9b8359dec05f57f298971a9f.jpg
 <br>
 
 **Track List:**
-    
-    
-    Super Mario Bros. / 地上BGM
-    The Legend of Zelda (ゼルダの伝説)
-    Kirby's Adventure
-    グリーングリーンズ
-    Excitebike
-    Lost Woods
-    Great Fairy's Fountain
-    Zelda's Theme
-    タイトル
-    チャンピオンシップロード
-    ホールインワン
-    さかな钓り
-   
+  
+  
+ Super Mario Bros. /  地上 BGM
+The Legend of Zelda (ゼルダの伝説)
+Kirby's Adventure
+グリーングリーンズ
+Excitebike
+Lost Woods
+Great Fairy's Fountain
+Zelda's Theme
+タイトル
+チャンピオンシップロード
+ホールインワン
+さかな钓り
+
 <br>
 
 [FRIDAY MUSICAL: 任天堂音乐考](https://link.zhihu.com/?target=http%3A//music.163.com/%23/playlist%3Fid%3D709684228)
-    

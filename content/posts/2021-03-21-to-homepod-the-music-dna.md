@@ -3,7 +3,7 @@ excerpt: |-
   HomePod 将「认真听」这件事平民化了。你不需要一个经过设计的听音室，不需要专门的唱机、专门的音箱，就可以认真听一张专辑。
 
   这是苹果做产品的核心理念，也就是他们反复强调的，the music DNA。
-title: '⭐️ To HomePod: the music DNA'
+title: "⭐️ To HomePod: the music DNA"
 tags: 科技 ⭐️
 image: /assets/2021/homepod.jpg
 ---
