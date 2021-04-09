@@ -19,7 +19,7 @@ image: /assets/2020/sony-playstation.jpg
 
 <br>
 
-# 价格博弈
+## 价格博弈
 
 过去 20 年的游戏机历史中，每次都是便宜的主机赢得市场。
 
@@ -39,7 +39,7 @@ image: /assets/2020/sony-playstation.jpg
 
 <br>
 
-# 立足游戏
+## 立足游戏
 
 PS5 的纸面性能不如 Xbox Series X，但索尼加速了布局游戏作品的脚步。
 
@@ -61,7 +61,7 @@ PS5 的纸面性能不如 Xbox Series X，但索尼加速了布局游戏作品�
 
 <br>
 
-# 探索边界
+## 探索边界
 
 新的世代来临，索尼想再赢一次。
 

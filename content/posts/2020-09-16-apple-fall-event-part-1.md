@@ -10,7 +10,9 @@ image: /assets/2020/apple-2020-event.jpg
 首先，说了没有 iPhone，那就是没有 iPhone，还是要相信正经媒体的消息资源，而不是无聊的爆料。
 
 <br>
-# Apple Watch
+
+## Apple Watch
+
 我对 Apple Watch Series 6 最大的期待原本是续航和充电的提升。
 
 因为苹果的产品，都有一套「规范的使用方式」，如果 WWDC 的软件更新打破了这个「规范」，秋季发布会上就要在硬件更新上给一个「解答」。
@@ -26,7 +28,9 @@ Series 6 的硬件功能只有一个更新，就是增加了血氧监测功能�
 考虑到 Apple Watch 整体的销量还是处在上升期，包括跟行业同类产品相比领先也大。更新脚步慢一点倒也没什么问题。
 
 <br>
-# Apple One
+
+## Apple One
+
 Apple One 其实没什么值得过度解读的。
 
 简单来说，就是苹果很明白，目前自己的服务矩阵里，Apple Music 和 iCloud 算是刚需，有强劲的用户需求，但 TV+ 和 Arcade，单独卖 5 美元一个月，就没什么太大的市场竞争力。
@@ -38,7 +42,8 @@ Apple One 个人版 15 美元，其中 Apple Music 和 iCloud 就要 11 美元�
 至于最高档，更多是针对 News+ 或 Fitness+ 的刚需人群，我对这块市场没什么直观认识，就不多评价了。但总体的原则还是那句话，游戏和视频这两个单卖 5 块的服务，就当是白送的。
 
 <br>
-# iPad Air
+
+## iPad Air
 
 iPad Air 是整场发布会最令人迷惑的一个产品。
 
