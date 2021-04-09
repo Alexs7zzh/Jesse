@@ -4,6 +4,6 @@
 {% if page.url == '/all/' %}
 <script src="{{ '/taglist.js' | jsHash }}"></script>
 {% endif %}
-{% if (page.filePathStem | startsWith('/content/posts/')) %}
+{% if (page.filePathStem | startsWith('/posts/')) %}
 <script src="{{ '/toc.js' | jsHash }}"></script>
 {% endif %}

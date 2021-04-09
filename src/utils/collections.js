@@ -2,13 +2,13 @@ const { DateTime } = require('luxon')
 
 module.exports = config => {
   config.addCollection('posts', collection => 
-    collection.getFilteredByGlob('content/posts/*.md')
+    collection.getFilteredByGlob('posts/*.md')
       .sort((a, b) => (b.date - a.date))
   )
   
   config.addCollection('postsByYear', collection => {
     let yearSet = new Set()
-    let posts = collection.getFilteredByGlob('content/posts/*.md')
+    let posts = collection.getFilteredByGlob('posts/*.md')
     posts.forEach(item => {
       yearSet.add(DateTime.fromJSDate(item.date).year)
     })
