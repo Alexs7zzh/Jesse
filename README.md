@@ -27,7 +27,9 @@ Finishing up
 2. 第x页的网页标题，原本：「Page 2 of 51 for 大破进击 - Page 2 of 51 | 大破进击」
 3. Maybe: 减小文章标题的行距（主要是手机上双行标题的情况）
 
-![](https://share.getcloudapp.com/L1udplOp/download/jesse-rebuild.vercel.app_2021_to-homepod-the-music-dna_(iPhone%20X).png "Normal line height (1.6)") ![](https://share.getcloudapp.com/kpuK5rN6/download/jesse-rebuild.vercel.app_2021_to-homepod-the-music-dna_(iPhone%20X)%20(1).png "1.4 line height")
+Normal line height (1.6)   |  1.4 line height
+:-------------------------:|:-------------------------:
+![](https://share.getcloudapp.com/L1udplOp/download/jesse-rebuild.vercel.app_2021_to-homepod-the-music-dna_(iPhone%20X).png)  |  ![](https://share.getcloudapp.com/kpuK5rN6/download/jesse-rebuild.vercel.app_2021_to-homepod-the-music-dna_(iPhone%20X)%20(1).png)
 
 ## Markdown
 
