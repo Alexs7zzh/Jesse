@@ -12,7 +12,7 @@ const callback = e => {
       const previous = current.parentElement.previousElementSibling && current.parentElement.previousElementSibling.querySelector('a')
       if (previous) {
         current = previous
-        previous.querySelector('a').classList.add('toc-active')
+        previous.classList.add('toc-active')
       }
     }
   })
