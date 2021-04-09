@@ -1,14 +1,9 @@
 ---
-excerpt: >-
-  我对Apple Watch这个产品的态度从其发布的第一分钟开始就是不屑一顾的。<br> 我甚至感觉Apple
-  Watch这个产品是非常反科技的，因为这个领域本身的实用主义基础，以及科技乐趣的普适性，已经被Apple
-  Watch本身可有可无的功能定位，尴尬的续航，和EDITION高昂的价格搞得根本不存在了。
+excerpt: |-
+  我对Apple Watch这个产品的态度从其发布的第一分钟开始就是不屑一顾的。<br> 我甚至感觉Apple Watch这个产品是非常反科技的，因为这个领域本身的实用主义基础，以及科技乐趣的普适性，已经被Apple Watch本身可有可无的功能定位，尴尬的续航，和EDITION高昂的价格搞得根本不存在了。
 
-
-
-  上周末我在北京，在街上看到了有史以来最多的Apple Watch。去三里屯想尝试一下3D
-  Touch的体验，6s没有试用到，却在准备走的时候第一次自己亲手用到了Apple Watch。<br> 然后我把Apple
-  Watch放到了我个人电子产品欲购列表上新款iPhone的后面。
+  上周末我在北京，在街上看到了有史以来最多的Apple Watch。去三里屯想尝试一下3D Touch的体验，6s没有试用到，却在准备走的时候第一次自己亲手用到了Apple Watch。  
+  然后我把Apple Watch放到了我个人电子产品欲购列表上新款iPhone的后面。
 title: "🔥 Understand Apple Watch and want one"
 tags: "科技 日常 🔥"
 image: /assets/2015/b50e990efeaa5d07b2b4b059f883b83e.jpg

@@ -8,7 +8,7 @@ tags: "科技 🔥"
 image: /assets/2017/apple-homepod-02.jpeg
 ---
 
-（关于我自己拿到 HomePod 之后的实际体验，[补充了一些在这里]({% post_url 2018-03-09-something-more-about-homepod %})。）
+（关于我自己拿到 HomePod 之后的实际体验，[补充了一些在这里](/2018/something-more-about-homepod/)。）
 
 <br>
 

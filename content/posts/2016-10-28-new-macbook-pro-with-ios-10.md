@@ -1,9 +1,7 @@
 ---
-excerpt: >-
-  还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的
-  OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个全新的 iPod 么？<br> 在今天这些事都完全不成立了，iPod
-  在苹果完全销声匿迹，在它诞生 15 周年这样一个时间点上，Tim Cook 连提都懒得提它一下，而最新的 MacBook Pro 呢？我看到的是一款，用
-  iOS 的逻辑来引领的，「试图进一步让 Mac 作为 iOS 用户以 iPhone 为起点进行延伸」的 Mac。
+excerpt: |-
+  还记得乔布斯发布第一代 iPhone 的时候，他上台宣布，iPhone 上运行的将会是 Mac 上的 OSX，台下的那一片掌声么？还记得乔布斯曾经说，iPhone 是一个全新的 iPod 么？  
+  在今天这些事都完全不成立了，iPod 在苹果完全销声匿迹，在它诞生 15 周年这样一个时间点上，Tim Cook 连提都懒得提它一下，而最新的 MacBook Pro 呢？我看到的是一款，用 iOS 的逻辑来引领的，「试图进一步让 Mac 作为 iOS 用户以 iPhone 为起点进行延伸」的 Mac。
 title: '新 MacBook Pro, with iOS 10.'
 tags: 科技
 image: /assets/2016/v2-56fa6d15f92ebddec2b7494806650fc4.jpg

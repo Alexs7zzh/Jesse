@@ -1,7 +1,6 @@
 ---
-excerpt: >-
-  当时的乔布斯「口出狂言」，称无论是索尼这样的大公司，还是 Creative 这样的小公司，都没有找到「做好数字音乐的秘诀」（the recipe for
-  digital music）。然后他说，苹果能找到这个「秘诀」。
+excerpt: |-
+  当时的乔布斯「口出狂言」，称无论是索尼这样的大公司，还是 Creative 这样的小公司，都没有找到「做好数字音乐的秘诀」（the recipe for digital music）。然后他说，苹果能找到这个「秘诀」。
 title: ⭐️ 数字音乐的终极秘诀
 tags: 科技 音乐 ⭐️
 image: /assets/2018/apple-music.jpg

@@ -1,10 +1,8 @@
 ---
-excerpt: >-
+excerpt: |-
   如果你回顾一下 iPhone 的 10 年历史，我觉得即使称这场发布会为除初代 iPhone 发布会之外最重要的一场苹果发布会也不为过。
 
-  > 重点在于，取消 Home 键对于 iPhone 来说，的确是一次「ground-breaking
-  change」。把如此基本的交互逻辑几乎推倒重来，难免会让人觉得 iPhone X 的 X 或许真的会跟 OS X 的 X 一样，开启 iPhone
-  的下一个 10 年。 
+  > 重点在于，取消 Home 键对于 iPhone 来说，的确是一次「ground-breaking change」。把如此基本的交互逻辑几乎推倒重来，难免会让人觉得 iPhone X 的 X 或许真的会跟 OS X 的 X 一样，开启 iPhone 的下一个 10 年。 
 
   而 Tim Cook 的说法则更是显得充满信心，要开启整个科技行业的下一个十年。
 title: 苹果的下一个十年

@@ -10,10 +10,12 @@ Function
 
 Immigration
 - [x] 移除所有 absolute_url
-- [ ] 移除所有 post_url
+- [x] 移除所有 post_url
 - [x] 移除所有 excerpt_img
 - [x] 更改 assets url
 - [ ] 部分文章 Markdown 语法错误，用 linter 检查
+- [ ] 检查所有图片
+- [ ] 检查所有链接
 
 Finishing up
 - [ ] 添加 analytics

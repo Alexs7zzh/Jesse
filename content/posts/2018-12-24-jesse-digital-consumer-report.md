@@ -30,7 +30,7 @@ Mac 形状的一个充电底座，挺可爱的。但因为不适配 Watch Series
 
 **Apple HomePod**（2793 人民币）
 
-今年我买的最满意的数码产品。已经[写过文章]({% post_url 2018-02-11-homepod-an-audio-hacking-speaker %})讲它了。
+今年我买的最满意的数码产品。已经[写过文章](/2018/homepod-an-audio-hacking-speaker/)讲它了。
 
 <br>
 
@@ -58,7 +58,7 @@ True Tone、T2 芯片也都是非常重要的升级。让围绕屏幕、扬声�
 
 **Apple Watch Series 4, 44mm with LTE**（4399 人民币）
 
-非常好的产品，也[写过文章]({% post_url 2018-10-05-apple-watch-series-4-review %})去讲了。
+非常好的产品，也[写过文章](/2018/apple-watch-series-4-review/)去讲了。
 
 需要补充的是，Apple Watch 强烈建议购买美版或港版，拥有完整未阉割的功能，可以拨打 FaceTime Audio，可以测量 HRV，美版还将可以测量 ECG。而且它们的 LTE 版本都可以在国内顺利入网。
 
@@ -66,7 +66,7 @@ True Tone、T2 芯片也都是非常重要的升级。让围绕屏幕、扬声�
 
 **iPad Pro 2018, 11‘ Wi-Fi**（7499 人民币）
 
-也是[写过文章]({% post_url blog/2018-11-24-ipad-pro-2018-review %})的产品。一个多月之后，我的 iPad Pro 实现了「物尽其用」。
+也是[写过文章](/2018/ipad-pro-2018-review/)的产品。一个多月之后，我的 iPad Pro 实现了「物尽其用」。
 
 买不买 4G 版没我想的那么关键，我用 iPad Pro 的场景 iPhone 都会在身边，打开设置点击联网即可，而且我用 iPad Pro 95% 以上的情况都是在有 Wi-Fi 的环境中。
 

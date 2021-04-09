@@ -2,7 +2,8 @@ const uslug = require('uslug')
 
 module.exports = require('markdown-it')({
   html: true,
-  typographer: true
+  typographer: true,
+  breaks: true
 })
   .use(require('./markdown/emphasis'))
   .use(require('./markdown/figure'))

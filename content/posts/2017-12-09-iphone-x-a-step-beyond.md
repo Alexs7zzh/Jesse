@@ -1,7 +1,6 @@
 ---
-excerpt: >-
-  iPhone X 真正所关乎的、引领的，从来就不是什么「全面屏风潮」，而是「making the physical object disappear
-  into the experience」这件事。<br> 苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。
+excerpt: |-
+  iPhone X 真正所关乎的、引领的，从来就不是什么「全面屏风潮」，而是「making the physical object disappear into the experience」这件事。<br> 苹果所定下的未来 10 年的目标，是让体验与现实之间的边界最终消失。
 title: "🔥 iPhone X: A step beyond"
 tags: "科技 🔥"
 image: /assets/2017/tyler-lastovich-454477.jpg
@@ -104,7 +103,7 @@ iPhone 5s 的产品视频中，Jony Ive 是这样总结 Touch ID 的。
 
 我的第一反应仍然是不解，特别是当其第一个 demo 是一个蹩脚的游戏时。  
 
-但后来的一些对 Tim Cook 的采访，包括去东京旅行的经历，让我对 AR 有了更深刻的认识。大部分感想我都写在了[这篇文章]({{ site.baseurl }}{% post_url 2017-12-03-tokyo-ar-publicspace %})里。
+但后来的一些对 Tim Cook 的采访，包括去东京旅行的经历，让我对 AR 有了更深刻的认识。大部分感想我都写在了[这篇文章]({{ site.baseurl }}/2017/tokyo-ar-publicspace/)里。
 
 <br>
 

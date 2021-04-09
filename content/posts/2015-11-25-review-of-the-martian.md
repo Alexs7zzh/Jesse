@@ -1,6 +1,6 @@
 ---
-excerpt: >-
-  最近这几年，geek和文艺青年这两个群体，很多时候被影视作品里的cliche所硬生生地割裂开来。而实际上，这两种人在很大程度上是互相重叠的，毕竟都是nerd嘛。<br>
+excerpt: |-
+  最近这几年，geek和文艺青年这两个群体，很多时候被影视作品里的cliche所硬生生地割裂开来。而实际上，这两种人在很大程度上是互相重叠的，毕竟都是nerd嘛。  
   《The Martian》所做的，就是在一部电影里，把两种趣味融合在一起。
 title: '《The Martian》：On your face, Neil Armstrong.'
 tags: 电影

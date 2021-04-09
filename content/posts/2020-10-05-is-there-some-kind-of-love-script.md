@@ -6,7 +6,7 @@ tags: 日常
 
 本文虚构，未影射任何现实事件和人物，欢迎对号入座。
 
-上集：[「我爸跟我说，要我肩负起男人的责任」]({% post_url blog/2018-10-02-my-dad-said-i-need-to-be-a-real-man %})
+上集：[「我爸跟我说，要我肩负起男人的责任」](/2018/my-dad-said-i-need-to-be-a-real-man/)
 
 <br>
 
