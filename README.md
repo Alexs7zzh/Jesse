@@ -82,9 +82,6 @@ Paragraph
 Getting links from: https://jesse-rebuild.vercel.app/2015/jesse-chan-talk-about-recent-zhihui/  
 ├─BROKEN─ http://www.zhihu.com/question/36519478 (HTTP_404)
 
-Getting links from: https://jesse-rebuild.vercel.app/page/28/  
-├─BROKEN─ https://www.bilibili.com/video/av9780659/ (HTTP_403)
-
 Getting links from: https://jesse-rebuild.vercel.app/2015/2015-annual-tops/  
 ├─BROKEN─ https://zhihu.com/question/36096053/answer/66130887 (HTTP_410)
 
@@ -99,9 +96,6 @@ Getting links from: https://jesse-rebuild.vercel.app/2016/cold-warmth-of-vending
 Getting links from: https://jesse-rebuild.vercel.app/2016/talk-to-siri-with-voice-of-c-3po/  
 ├─BROKEN─ https://www.youtube.com/watch%3Fv%3DnWiIWyCeZso
 
-Getting links from: https://jesse-rebuild.vercel.app/2016/kimochi-of-touching-virtual-reality/  
-├─BROKEN─ http://telegra.ph/Lawrence-Li-%E6%89%80%E4%BD%9C%E7%9A%84%E4%B8%8E%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E7%9B%B8%E5%85%B3%E7%9A%84%E8%AE%BA%E8%BF%B0-12-10 (HTTP_501)
-
 Getting links from: https://jesse-rebuild.vercel.app/2016/2016-annual-tops/  
 ├─BROKEN─ https://zhuanlan.zhihu.com/p/24459846 (HTTP_404)
 
@@ -111,15 +105,10 @@ Getting links from: https://jesse-rebuild.vercel.app/2016/year-end-salute/
 Getting links from: https://jesse-rebuild.vercel.app/2017/virtual-idol-struggle-prosper/  
 ├─BROKEN─ https://www.youtube.com/watch%3Fv%3DMGt25mv4-2Q (HTTP_429)
 
-Getting links from: https://jesse-rebuild.vercel.app/2017/musical-friday-nintendo-music/  
-├─BROKEN─ https://www.bilibili.com/video/av9780659/ (HTTP_403)
-
 Getting links from: https://jesse-rebuild.vercel.app/2017/beyond-the-space/  
 ├─BROKEN─ http://www.g-cores.com/articles/25846 (ERRNO_ENOTFOUND)
 
 Getting links from: https://jesse-rebuild.vercel.app/2018/liqi-review/  
-├─BROKEN─ https://www.xbox.com/en-US/xbox-one/accessories/controllers/elite-wireless-controller (HTTP_404)  
-├─BROKEN─ https://ulyssesapp.com/ (HTTP_504)  
 ├─BROKEN─ http://liqi.io/community/ (HTTP_404)
 
 Getting links from: https://jesse-rebuild.vercel.app/2018/behind-the-mac-in-the-front-of-iphone/  
@@ -134,8 +123,7 @@ Getting links from: https://jesse-rebuild.vercel.app/2018/gap-001/
 Getting links from: https://jesse-rebuild.vercel.app/2018/apple-18-fall-event/  
 ├─BROKEN─ https://techcrunch.cn/2018/09/13/apple-18-fall-event/ (BLC_UNKNOWN)
 
-Getting links from: https://jesse-rebuild.vercel.app/2018/gap-005/  
-├─BROKEN─ https://itunes.apple.com/us/tv-season/season-4-episode-2-the-best-burger-in-new-york/id1307176316?i=1311975938%EF%BF%BD (HTTP_413)  
+Getting links from: https://jesse-rebuild.vercel.app/2018/gap-005/   
 ├─BROKEN─ https://tan.today/about/ (HTTP_undefined)  
 ├─BROKEN─ https://tan.today/ (ERRNO_ENOTFOUND)  
 ├─BROKEN─ https://tan.today/original-desire-in-modern-age/ (ERRNO_ENOTFOUND)
@@ -172,6 +160,3 @@ Getting links from: https://jesse-rebuild.vercel.app/2019/apple-spring-event/
 
 Getting links from: https://jesse-rebuild.vercel.app/2019/AirPods-2019-review/  
 ├─BROKEN─ https://techcrunch.cn/2019/04/10/airpods-2019-review/ (BLC_UNKNOWN)
-
-Getting links from: https://jesse-rebuild.vercel.app/aboutme/  
-├─BROKEN─ http://www.bilibili.com/video/av9780659 (HTTP_403)
