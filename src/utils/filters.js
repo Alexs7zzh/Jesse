@@ -11,7 +11,6 @@ module.exports = config => {
   })
   
   config.addFilter('markdown', data => md.render(data).toString())
-  config.addFilter('markdownInline', data => md.renderInline(data).toString())
   config.addFilter('startsWith', (str, searchString) => str.startsWith(searchString))
   config.addFilter('svg', path => {
     const data = fs.readFileSync(path, (err, contents) => {

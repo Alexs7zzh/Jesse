@@ -1,10 +1,9 @@
 ---
-excerpt: "今天下午回家的路上，一条推送显示在我的 Apple Watch 上，提醒我今天是 iPhone 发布十周年的纪念日。我对 iPhone 说：「Hey, Siri, play Snow by Red Hot Chilli Peppers.」，Steve 在 10 年前的 demo 上播放过的那首歌。Siri 没有破坏我的一点点小兴致，以发布会 demo 的水准迅速识别了我说的话并准确地开始播放。<br>
-[初代 iPhone 的那个串剪了众多经典电影里接起电话说 「Hello」 的广告](https://www.youtube.com/watch?v=mmiWTKZzBLY)，至今仍然是我心中最棒的广告创意之一。
+excerpt: |-
+  今天下午回家的路上，一条推送显示在我的 Apple Watch 上，提醒我今天是 iPhone 发布十周年的纪念日。我对 iPhone 说：「Hey, Siri, play Snow by Red Hot Chilli Peppers.」，Steve 在 10 年前的 demo 上播放过的那首歌。Siri 没有破坏我的一点点小兴致，以发布会 demo 的水准迅速识别了我说的话并准确地开始播放。  
+  [初代 iPhone 的那个串剪了众多经典电影里接起电话说 「Hello」 的广告](https://www.youtube.com/watch?v=mmiWTKZzBLY)，至今仍然是我心中最棒的广告创意之一。
 
-
-
-只是 iPhone 在过去的 10 年里改变的，远远不止我们接起电话说「Hello」的方式，这大概是我在这样一个时刻还是有一点感动的原因，除了把苹果公司带向商业的顶端之外，iPhone 对我来说更重要的意义是把我与世界、与时间连接起来了，成为了我生活中不可或缺的一部分。"
+  只是 iPhone 在过去的 10 年里改变的，远远不止我们接起电话说「Hello」的方式，这大概是我在这样一个时刻还是有一点感动的原因，除了把苹果公司带向商业的顶端之外，iPhone 对我来说更重要的意义是把我与世界、与时间连接起来了，成为了我生活中不可或缺的一部分。
 title: "🔥 10 Years of iPhone"
 tags: 科技 🔥
 image: "/assets/2017/v2-c4e6644c4147625a8717e5fd5df529ef.jpg"

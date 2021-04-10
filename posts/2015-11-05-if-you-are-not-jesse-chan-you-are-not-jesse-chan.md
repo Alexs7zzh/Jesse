@@ -1,11 +1,10 @@
 ---
-excerpt: "有一天，知乎上有个关注者发私信过来，问怎么才能变成像我一样的人。<br>
-有人开始以自己为参照了，那种感觉，是有点难以言喻的。不禁哑然。
+excerpt: |-
+  有一天，知乎上有个关注者发私信过来，问怎么才能变成像我一样的人。
+  有人开始以自己为参照了，那种感觉，是有点难以言喻的。不禁哑然。
 
-
-
-但就像那句iPhone的广告语，If it's not an iPhone, it's not an iPhone. <br>
-因为每个人都会有那么一天，终于开始，要学着面对、接受这样的自己、一个在多元价值的世界里找到一些东西的自己。"
+  但就像那句iPhone的广告语，If it's not an iPhone, it's not an iPhone.
+  因为每个人都会有那么一天，终于开始，要学着面对、接受这样的自己、一个在多元价值的世界里找到一些东西的自己。
 title: "If you’re not Jesse Chan, you’re not Jesse Chan."
 tags: 日常
 image: "/assets/2015/christmas-cup.jpg"
