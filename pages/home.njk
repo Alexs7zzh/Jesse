@@ -5,8 +5,9 @@ pagination:
   size: 5
   alias: posts
 permalink: /{{ '' if pagination.pageNumber == 0 else 'page/' + (pagination.pageNumber + 1) + '/' }}
+eleventyComputed:
+  title: "{{ metadata.title }} - Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}"
 ---
-
 {% for post in posts %}
 <section aria-labelledby="{{ post.data.page.fileSlug }}">
   <h2 id="{{ post.data.page.fileSlug }}">
