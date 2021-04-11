@@ -41,13 +41,13 @@ module.exports = (document, options) => {
       let url = ''
       for (let j = meta.jpeg.length - 1; j >=0; j--)
         if (meta.jpeg[j].width <= 960) {
-          url = 'https://jesse-rebuild.vercel.app' + meta.jpeg[j].url
+          url = 'https://jesor.me' + meta.jpeg[j].url
           break
         }
       og.setAttribute('content', url)
       tw.setAttribute('content', url)
       preload.setAttribute('imagesrcset', meta.webp.map(p => p.srcset).join(', '))
-      preload.setAttribute('href', url.replace('https://jesse-rebuild.vercel.app', ''))
+      preload.setAttribute('href', url.replace('https://jesor.me', ''))
     }
     
     i.outerHTML = `
