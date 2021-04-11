@@ -91,7 +91,7 @@ Fearless，最初在歌词里是与男友在一起，感到无所畏惧。现在
 
 > Can you feel it now? These walls that they put up to hold us back will fall down. It's a revolution, the time will come for us to finally win. - Change, Fearless
 
-剧集 Brooklyn 99 (S01E21) 里，编剧将这件事演绎为喜剧桥段。一直试图「装酷」的 Jake Peralta 面对测谎仪，终于承认 Taylor Swift 才是自己最喜欢的歌手。
+[剧集 Brooklyn 99 (S01E21) 里](https://youtu.be/uYx8kSiFqTg?t=54)，编剧将这件事演绎为喜剧桥段。一直试图「装酷」的 Jake Peralta 面对测谎仪，终于承认 Taylor Swift 才是自己最喜欢的歌手。
 
 > She makes me feel things.
 >
@@ -103,7 +103,9 @@ Fearless 发行的时候，Taylor Swift 差不多 20 岁，她在作品里描写
 
 12 年后，面对这张重录的 Fearless，我获得了一个身份互换的视角，也终于理解了其中蕴含的价值：如果你不敢直面过去，就永远无法真正成长。
 
-12 年间，Taylor Swift 影响、激励了太多人。比如刚刚出道，年仅 18 岁的 Olivia Rodrigo，用 Lana Del Rey 的美学元素、Lorde 的声音技巧、唱了与 Taylor Swift 类似的青春期故事。她在新歌里唱「watching reruns of glee」、「trading jackets like we used to」，你会感受到，有些东西正在被传承。
+12 年间，Taylor Swift 影响、激励了太多人。比如刚刚出道，年仅 18 岁的 Olivia Rodrigo，用 Lana Del Rey 的美学元素、Lorde 的声音技巧、唱了与 Taylor Swift 类似的青春期故事。
+
+她在[新歌](https://youtu.be/cii6ruuycQA)里唱「watching reruns of glee」、「trading jackets like we used to」，你会感受到，有些东西正在被传承。
 
 今天的我们，再重看 You Belong With Me 的 MV，会惊讶地发现，原来其中两个女生其实都是由 Taylor Swift 饰演。「酷」的啦啦队长、「怂」的书呆子，本质上是同一个人。
 
