@@ -1,7 +1,3 @@
-Finishing up
-- [ ] 添加 analytics
-- [ ] 迁移域名时更改 picture plugin, metadata 中的网址
-
 ## Markdown
 
 ### 文章 meta 信息
