@@ -2,7 +2,7 @@ const Image = require('@11ty/eleventy-img')
 const { basename } = require('path')
 
 const defaultOptions = {
-  widths: [600, 768, 1000, 1024, 1280, 1366, 1440, 1600, 1680, 1800],
+  widths: [768, 1024, 1280, 1680],
   sizes: '',
   formats: ['webp', 'jpeg'],
   urlPath: '/assets/',
