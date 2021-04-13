@@ -40,7 +40,7 @@ module.exports = (document, options) => {
       
       let url = ''
       for (let j = meta.jpeg.length - 1; j >=0; j--)
-        if (meta.jpeg[j].width <= 960) {
+        if (meta.jpeg[j].width <= 1024) {
           url = 'https://jesor.me' + meta.jpeg[j].url
           break
         }
