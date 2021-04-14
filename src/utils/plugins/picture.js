@@ -32,7 +32,6 @@ module.exports = (document, options) => {
       i.setAttribute('decoding', 'async')
     } else if (document.querySelector('meta[property="og:image"]') !== null) {
       const og = document.querySelector('meta[property="og:image"]')
-      const tw = document.querySelector('meta[property="twitter:image"]')
       const preload = document.querySelector('link[as="image"][rel="preload"]')
       
       if (basename(src) !== basename(og.getAttribute('content')))
@@ -45,7 +44,6 @@ module.exports = (document, options) => {
           break
         }
       og.setAttribute('content', url)
-      tw.setAttribute('content', url)
       preload.setAttribute('imagesrcset', meta.webp.map(p => p.srcset).join(', '))
       preload.setAttribute('href', url.replace('https://jesor.me', ''))
     }
