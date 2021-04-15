@@ -30,7 +30,7 @@ module.exports = (document, options) => {
     if (index !== 0) {
       i.setAttribute('loading', 'lazy')
       i.setAttribute('decoding', 'async')
-    } else if (document.querySelector('meta[property="og:image"]') !== null) {
+    } else if (document.querySelector('link[as="image"][rel="preload"]') !== null) {
       const og = document.querySelector('meta[property="og:image"]')
       const preload = document.querySelector('link[as="image"][rel="preload"]')
       

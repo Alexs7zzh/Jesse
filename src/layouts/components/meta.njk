@@ -23,9 +23,7 @@
 <meta property="og:title" content="{{ pageTitle }}" />
 <meta property="og:site_name" content="{{ metadata.title }}">
 <meta property="og:description" content="{{ (excerpt or metadata.description) | markdown | striptags }}" />
-{% if image %}
-<meta property="og:image" content="{{ image }}">
-{% endif %}
+<meta property="og:image" content="{{ image if image else metadata.url + '/apple-touch-icon.png' }}">
 
 <link rel="canonical" href="{{ metadata.url }}{{ page.url }}">
     
