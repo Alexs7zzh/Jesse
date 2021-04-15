@@ -16,8 +16,6 @@ module.exports = config => {
   
   config.addPassthroughCopy('assets')
   config.addPassthroughCopy({ 'assets/logo' : '/' })
-  if (!process.env.ELEVENTY_ENV)
-    config.addPassthroughCopy({ 'src/js': '/' })
 
   config.setBrowserSyncConfig({
     ui: false,
