@@ -12,7 +12,7 @@
         },
         {
           "key": "Permissions-Policy",
-          "value": "interest-cohort=()",
+          "value": "interest-cohort=()"
         }
       ]
     },
