@@ -16,18 +16,15 @@ self.addEventListener('fetch', function(event) {
         const response = await fetch(event.request)
         const cache = await caches.open('statics')
         await cache.put(event.request, response.clone())
-        
         return response
-      } else {
-        const response = await fetch(event.request)
-        if (response) {
+      } else
+        try {
+          const response = await fetch(event.request)
           const cache = await caches.open('offline')
           await cache.put(event.request, response.clone())
           return response
-        } else {
-          const cachedResponse = await caches.match(event.request)
-          if (cachedResponse) return cachedResponse
+        } catch {
+          return caches.match(event.request)
         }
-      }
     }())
 })
