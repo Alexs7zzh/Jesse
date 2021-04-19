@@ -1,4 +1,5 @@
 <script>
+  if('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js')
   document.documentElement.style.setProperty('--width', window.innerWidth)
   document.documentElement.style.setProperty('--height', window.innerHeight)
   window.addEventListener('resize', () => {
