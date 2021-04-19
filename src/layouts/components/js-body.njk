@@ -5,6 +5,7 @@
 <script src="{{ '/toc.js' | jsHash }}"></script>
 {% endif %}
 
+{% if page.url != '/all/' %}
 <script src="/ql.v1.js"></script>
 <script>
   quicklink.listen({
@@ -12,6 +13,7 @@
     ignores: [/\/all\/\?tag=/]
   })
 </script>
+{% endif %}
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FSY0XHD72"></script>
 <script>
