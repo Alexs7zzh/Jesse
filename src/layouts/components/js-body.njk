@@ -9,8 +9,8 @@
 <script src="/ql.v1.js"></script>
 <script>
   quicklink.listen({
-    throttle: 6,
-    ignores: [/\/all\/\?tag=/]
+    throttle: 3,
+    ignores: [/\/all\/\?tag=/, /feed\.xml/]
   })
 </script>
 {% endif %}
