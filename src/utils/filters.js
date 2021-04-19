@@ -1,7 +1,7 @@
 const { DateTime } = require('luxon')
 const md = require('./markdown')
 const fs = require('fs-extra')
-/* global process */
+
 module.exports = config => {
   config.addFilter('dateString', dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat('yyyy-LL-dd')
@@ -12,33 +12,12 @@ module.exports = config => {
   
   config.addFilter('markdown', data => md.render(data).toString())
   config.addFilter('startsWith', (str, searchString) => str.startsWith(searchString))
-  config.addFilter('isEmptyString', str => str.trim().length === 0)
   config.addFilter('svg', path => {
     const data = fs.readFileSync(path, (err, contents) => {
       if (err) throw new Error(err)
       return contents
     })
     return data.toString('utf8')
-  })
-  config.addFilter('js', file => {
-    const data = fs.readFileSync(`src/js/${file}`, (err, contents) => {
-      if (err) throw new Error(err)
-      return contents
-    })
-    return data.toString('utf8')
-  })
-  config.addNunjucksAsyncFilter('jsmin', async (code, callback) => {
-    if (process.env.ELEVENTY_ENV)
-      try {
-        const { minify } = require('terser')
-        const minified = await minify(code, { toplevel: true })
-        callback(null, minified.code)
-      } catch (err) {
-        console.error('Terser error: ', err)
-        callback(null, code)
-      }
-    else
-      callback(null, code)
   })
   
   config.addFilter('pagination', (num, hrefs) => {

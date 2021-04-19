@@ -1,16 +1,8 @@
-{% set js %}
-  {% if page.url == '/all/' %}
-    {{ "taglist.js" | js | safe }}
-  {% endif %}
-  {% if (page.filePathStem | startsWith('/posts/')) %}
-    {{ "toc.js" | js | safe }}
-  {% endif %}
-{% endset %}
-
-{% if not (js | isEmptyString) %}
-  <script>
-    {{ js | jsmin | safe }}
-  </script>
+{% if page.url == '/all/' %}
+<script src="{{ '/taglist.js' | jsHash }}"></script>
+{% endif %}
+{% if (page.filePathStem | startsWith('/posts/')) %}
+<script src="{{ '/toc.js' | jsHash }}"></script>
 {% endif %}
 
 <script src="/ql.v1.js"></script>
