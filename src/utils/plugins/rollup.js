@@ -2,13 +2,14 @@ const fs = require('fs')
 const md5 = require('md5')
 const rollup = require('rollup')
 const { terser } = require('rollup-plugin-terser')
+const urlResolve = require('rollup-plugin-url-resolve')
 const { basename } = require('path')
 const Mutex = require('async-mutex').Mutex
 
 const bundling = async url => {
   const bundle = await rollup.rollup({
     input: [`src/js/${url}`],
-    plugins: [terser()]
+    plugins: [urlResolve(), terser()]
   })
     
   const { output } = await bundle.generate({
