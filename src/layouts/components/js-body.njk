@@ -5,15 +5,14 @@
 <script src="{{ '/toc.js' | jsHash }}"></script>
 {% endif %}
 
-{% if page.url != '/all/' %}
 <script src="/ql.v2.1.0.js"></script>
 <script>
   quicklink.listen({
-    throttle: 3,
+    throttle: 4,
+    delay: 400,
     ignores: [/\/all\/\?tag=/, /feed\.xml/]
   })
 </script>
-{% endif %}
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FSY0XHD72"></script>
 <script>
