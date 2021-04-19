@@ -5,7 +5,7 @@
 <script src="{{ '/toc.js' | jsHash }}"></script>
 {% endif %}
 
-<script {% if env %}type="module"{% endif %} src="{{ '/ql.js' | jsHash }}"></script>
+<script {% if not env %}type="module"{% endif %} src="{{ '/ql.js' | jsHash }}"></script>
 
 {% if env %}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FSY0XHD72"></script>
