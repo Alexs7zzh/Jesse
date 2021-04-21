@@ -3,7 +3,10 @@ self.addEventListener('install', function(event) {
 })
 
 self.addEventListener('activate', function(event) {
-  event.waitUntil(self.clients.claim())
+  event.waitUntil(async function() {
+    if (self.registration.navigationPreload) await self.registration.navigationPreload.enable()
+    await self.clients.claim()
+  }())
 })
 
 self.addEventListener('fetch', function(event) {
@@ -19,6 +22,9 @@ self.addEventListener('fetch', function(event) {
         return response
       } else
         try {
+          const preloadResponse = await event.preloadResponse
+          if (preloadResponse) return preloadResponse
+          
           const response = await fetch(event.request)
           const cache = await caches.open('offline')
           await cache.put(event.request, response.clone())
