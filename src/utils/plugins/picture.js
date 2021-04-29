@@ -9,6 +9,8 @@ const defaultOptions = {
   outputDir: './_site/assets/'
 }
 
+let set = new Set()
+
 module.exports = (document, options) => {
   options = Object.assign({}, defaultOptions, options)
   
@@ -19,7 +21,9 @@ module.exports = (document, options) => {
   images.forEach((i, index) => {
     const src = '.' + i.getAttribute('src')
     
-    Image(src, options)
+    if (!set.has(src)) Image(src, options)
+    else set.add(src)
+    
     const meta = Image.statsSync(src, options)
     
     const last = meta.jpeg[meta.jpeg.length - 1]
