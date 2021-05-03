@@ -9,6 +9,10 @@
         {
           "key": "X-Content-Type-Options",
           "value": "nosniff"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "interest-cohort=()"
         }
       ]
     },
@@ -17,7 +21,7 @@
       "headers": [
         {
           "key": "Cache-Control",
-          "value": "public, no-cache"
+          "value": "no-cache"
         }
       ]
     },
@@ -31,7 +35,7 @@
         ]
     },
     {
-       "source": "(.*).(css|svg)",
+       "source": "(.*).(css|js|svg)",
         "headers": [
           {
             "key": "Cache-Control",
@@ -40,17 +44,13 @@
         ]
     },
     {
-       "source": "(.*).ico",
-        "headers": [
-          {
-            "key": "Cache-Control",
-            "value": "public, max-age=31536000, immutable"
-          },
-          {
-            "key": "Content-Type",
-            "value": "image/x-icon"
-          }
-        ]
+      "source": "/sw.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, max-age=0"
+        }
+      ]
     }
   ]
 }

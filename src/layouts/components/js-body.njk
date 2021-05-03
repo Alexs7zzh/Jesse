@@ -1,18 +1,13 @@
-{% set js %}
-  {% if page.url == '/all/' %}
-    {{ "taglist.js" | js | safe }}
-  {% endif %}
-  {% if (page.filePathStem | startsWith('/posts/')) %}
-    {{ "toc.js" | js | safe }}
-  {% endif %}
-{% endset %}
-
-{% if not (js | isEmptyString) %}
-  <script>
-    {{ js | jsmin | safe }}
-  </script>
+{% if page.url == '/all/' %}
+<script src="{{ '/taglist.js' | jsHash }}"></script>
+{% endif %}
+{% if (page.filePathStem | startsWith('/posts/')) %}
+<script src="{{ '/toc.js' | jsHash }}"></script>
 {% endif %}
 
+<script {% if not env %}type="module"{% endif %} src="{{ '/ql.js' | jsHash }}"></script>
+
+{% if env %}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FSY0XHD72"></script>
 <script>
   window.dataLayer = window.dataLayer || []
@@ -20,3 +15,4 @@
   gtag('js', new Date())
   gtag('config', 'G-7FSY0XHD72')
 </script>
+{% endif %}
