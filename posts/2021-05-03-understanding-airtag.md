@@ -45,11 +45,11 @@ AirTag 另一个需要理解的功能是「防追踪」。
 
 我测试了一下这个功能。朋友将他的 AirTag 放到我的包里。第一天晚上，我们在我家门口分开。第二天早上，我背着包去吃早餐、喝咖啡，中午回家，手机收到「发现有陌生 AirTag 正在与你一起移动」的通知。
 
-![](/assets/2020/airtag-alert- notification.jpg)
+![](/assets/2021/airtag-alert-notification.jpg)
 
 在「查找」app 里，能看到这个 AirTag 第一次被检测到是什么时间，你带着它运动的轨迹，被记录的位置坐标点。
 
-![](/assets/2020/airtag-follow-along.jpg)
+![](/assets/2021/airtag-follow-along.jpg)
 
 AirTag 离开主人 3 天后，会自动播放声音报警，尝试让周围的人发现它。所以被追踪者如果不是 iPhone 用户，就要等待 3 天，通过 AirTag 的报警声才能意识到自己被追踪。
 
