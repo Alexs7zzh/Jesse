@@ -1,7 +1,7 @@
 const Mutex = require('async-mutex').Mutex
 const md5 = require('md5')
 const { basename, extname } = require('path')
-const fs = require('fs-extra')
+const fs = require('fs')
 const fg = require('fast-glob')
 const sass = require('sass')
 const csso = require('csso')
@@ -24,7 +24,7 @@ const compile = async () => {
     }  catch (er) {
       'nothing'
     }
-    fs.writeFile(`_site/${name}.css`, css) 
+    fs.writeFileSync(`_site/${name}.css`, css) 
   }
 }
 
@@ -65,7 +65,7 @@ const build = async () => {
     }  catch (er) {
       'nothing'
     }
-    fs.writeFile(`_site/${name}-${hash}.css`, css) 
+    fs.writeFileSync(`_site/${name}-${hash}.css`, css) 
   }
 
   return result

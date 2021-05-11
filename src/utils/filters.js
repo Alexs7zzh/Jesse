@@ -1,6 +1,6 @@
 const { DateTime } = require('luxon')
 const md = require('./markdown')
-const fs = require('fs-extra')
+const fs = require('fs')
 
 module.exports = config => {
   config.addFilter('dateString', dateObj => {
@@ -13,10 +13,7 @@ module.exports = config => {
   config.addFilter('markdown', data => md.render(data).toString())
   config.addFilter('startsWith', (str, searchString) => str.startsWith(searchString))
   config.addFilter('svg', path => {
-    const data = fs.readFileSync(path, (err, contents) => {
-      if (err) throw new Error(err)
-      return contents
-    })
+    const data = fs.readFileSync(path)
     return data.toString('utf8')
   })
   
