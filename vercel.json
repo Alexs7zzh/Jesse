@@ -52,5 +52,9 @@
         }
       ]
     }
+  ],
+  "rewrites": [
+    { "source": "/js/script.js", "destination": "https://analytics.shinlog.me/js/plausible.outbound-links.js" },
+    { "source": "/api/event", "destination": "https://analytics.shinlog.me/api/event" }
   ]
 }
