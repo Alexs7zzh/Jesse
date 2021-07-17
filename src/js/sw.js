@@ -22,7 +22,7 @@ self.addEventListener('fetch', function(event) {
         return response
       } else
         try {
-          if (/.+(js\/script\.js)$/.test(event.request.url) || event.request.url.includes('gtag') || event.request.url.includes('plausible')) return await fetch(event.request)
+          if (/.+(js\/script\.js)$/.test(event.request.url) || event.request.url.includes('gtag') || event.request.url.includes('plausible') || event.request.url.includes('umami')) return await fetch(event.request)
           
           const preloadResponse = await event.preloadResponse
           if (preloadResponse) return preloadResponse
