@@ -4,10 +4,10 @@
   "description": "",
   "scripts": {
     "eslint": "npx eslint . --fix",
-    "build": "ELEVENTY_ENV=true npx @11ty/eleventy",
+    "build": "PRODUCTION=true npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve --quiet",
     "clean": "rm -rf _site",
-    "brenchmark": "DEBUG=Eleventy:Benchmark* ELEVENTY_ENV=true npx @11ty/eleventy"
+    "brenchmark": "DEBUG=Eleventy:Benchmark* PRODUCTION=true npx @11ty/eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^1.0.0-canary.41",
@@ -25,6 +25,7 @@
     "markdown-it-link-attributes": "^3.0.0",
     "md5": "^2.3.0",
     "postcss": "^8.3.6",
+    "recursive-copy": "^2.0.13",
     "rollup": "^2.56.3",
     "rollup-plugin-terser": "^7.0.2",
     "rollup-plugin-url-resolve": "^0.2.0",

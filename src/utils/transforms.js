@@ -2,13 +2,13 @@ const uslug = require('uslug')
 
 /* global process */
 module.exports = config => {
-  config.addTransform('transform', (content, outputPath) => {
+  config.addTransform('transform', async (content, outputPath) => {
     if (outputPath && outputPath.endsWith('.html')) {
       const { parseHTML } = require('linkedom')
       let { document } = parseHTML(content)
       
-      if (process.env.ELEVENTY_ENV)
-        require('./plugins/picture')(document, {
+      if (process.env.PRODUCTION)
+        await require('./plugins/picture')(document, {
           sizes: '(max-width: 850px) 100vw, 820px',
           sharpWebpOptions: { quality: 55 },
           sharpJpegOptions: { quality: 50 }
@@ -35,7 +35,7 @@ module.exports = config => {
   })
   
   
-  if (process.env.ELEVENTY_ENV) {
+  if (process.env.PRODUCTION) {
     const minify = require('html-minifier').minify
     config.addTransform('minifyHtml', (content, outputPath) => {
       if (outputPath && outputPath.endsWith('.html')) 

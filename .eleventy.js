@@ -15,7 +15,6 @@ module.exports = config => {
   config.setTemplateFormats('md,njk')
   
   config.addPassthroughCopy('assets')
-  config.addPassthroughCopy({ 'src/js' : '/' })
   config.addPassthroughCopy({ 'assets/logo' : '/' })
 
   config.setBrowserSyncConfig({

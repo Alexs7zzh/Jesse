@@ -39,7 +39,7 @@ const bundling = async url => {
 
 module.exports = config => {
   /* global process */
-  if (process.env.ELEVENTY_ENV) {
+  if (process.env.PRODUCTION) {
     const mutex = new Mutex()
     let jsHash = {}
     
@@ -55,6 +55,19 @@ module.exports = config => {
       for(let i in jsHash)
         url = url.replace(i, jsHash[i])
       callback(null, url)
+    })
+
+    config.on('beforeBuild', async () => {
+      const bundle = await rollup.rollup({
+        input: ['src/js/sw.js'],
+        plugins: [terser()]
+      })
+      
+      await bundle.write({
+        dir: '_site/',
+        format: 'es'
+      })
+      await bundle.close()
     })
   } else
     config.addFilter('jsHash', url => url)

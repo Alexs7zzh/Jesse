@@ -6,31 +6,26 @@ const defaultOptions = {
   sizes: '',
   formats: ['webp', 'jpeg'],
   urlPath: '/assets/',
-  outputDir: './_site/assets/'
+  outputDir: './.cache/'
 }
 
-let set = new Set()
-
-module.exports = (document, options) => {
+module.exports = async (document, options) => {
   options = Object.assign({}, defaultOptions, options)
   
   if (options.sizes.length === 0) throw new Error('"sizes" for the picture plugin is not defined.')
   
   const images = [...document.querySelectorAll('figure img')]
-  
-  images.forEach((i, index) => {
+
+  for (let [index, i] of images.entries()) {
     const src = '.' + i.getAttribute('src')
     
-    if (!set.has(src)) Image(src, options)
-    else set.add(src)
-    
-    const meta = Image.statsSync(src, options)
-    
+    const meta = await Image(src, options)
+
     const last = meta.jpeg[meta.jpeg.length - 1]
     i.setAttribute('width', last.width)
     i.setAttribute('height', last.height)
     i.setAttribute('src', last.url)
-    
+
     if (index !== 0) {
       i.setAttribute('loading', 'lazy')
       i.setAttribute('decoding', 'async')
@@ -58,6 +53,6 @@ module.exports = (document, options) => {
       <source type="image/jpeg" sizes="${options.sizes}" srcset="${meta.jpeg.map(p => p.srcset).join(', ')}">
       ${i.outerHTML}
     </picture>`
-  })
+  }
 
 }
