@@ -75,7 +75,7 @@ module.exports = config => {
   const mutex = new Mutex()
   let cssHash = {}
   /* global process */
-  if (!process.env.ELEVENTY_ENV) {
+  if (!process.env.PRODUCTION) {
     config.addWatchTarget('./src/scss/')
     config.on('beforeBuild', compile)
     config.on('beforeWatch', compileWatch)

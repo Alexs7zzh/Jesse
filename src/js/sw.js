@@ -6,6 +6,7 @@ self.addEventListener('activate', function(event) {
   event.waitUntil(async function() {
     if (self.registration.navigationPreload) await self.registration.navigationPreload.enable()
     await self.clients.claim()
+    await caches.delete('statics')
   }())
 })
 
