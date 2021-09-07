@@ -10,11 +10,11 @@
     "brenchmark": "DEBUG=Eleventy:Benchmark* PRODUCTION=true npx @11ty/eleventy"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.0-canary.41",
-    "@11ty/eleventy-img": "^1.0.0-beta.0",
+    "@11ty/eleventy": "^1.0.0-canary.43",
+    "@11ty/eleventy-img": "^1.0.0-beta.2",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "async-mutex": "^0.3.2",
-    "autoprefixer": "^10.3.3",
+    "autoprefixer": "^10.3.4",
     "csso": "^4.2.0",
     "fast-glob": "^3.2.7",
     "html-minifier": "^4.0.0",
@@ -29,7 +29,7 @@
     "rollup": "^2.56.3",
     "rollup-plugin-terser": "^7.0.2",
     "rollup-plugin-url-resolve": "^0.2.0",
-    "sass": "^1.38.2",
+    "sass": "^1.39.0",
     "uslug": "^1.0.4"
   },
   "devDependencies": {
