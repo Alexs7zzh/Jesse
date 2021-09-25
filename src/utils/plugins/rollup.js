@@ -14,7 +14,8 @@ const bundling = async url => {
     
   const { output } = await bundle.generate({
     dir: '_site/',
-    format: 'iife'
+    format: 'iife',
+    generatedCode: 'es2015'
   })
   
   let result = {}
@@ -65,7 +66,8 @@ module.exports = config => {
       
       await bundle.write({
         dir: '_site/',
-        format: 'es'
+        format: 'es',
+        generatedCode: 'es2015'
       })
       await bundle.close()
     })

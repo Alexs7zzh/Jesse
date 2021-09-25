@@ -10,30 +10,30 @@
     "brenchmark": "DEBUG=Eleventy:Benchmark* PRODUCTION=true npx @11ty/eleventy"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.0-canary.43",
+    "@11ty/eleventy": "^1.0.0-canary.44",
     "@11ty/eleventy-img": "^1.0.0-beta.2",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "async-mutex": "^0.3.2",
-    "autoprefixer": "^10.3.4",
+    "autoprefixer": "^10.3.5",
     "csso": "^4.2.0",
     "fast-glob": "^3.2.7",
     "html-minifier": "^4.0.0",
-    "linkedom": "^0.11.2",
+    "linkedom": "^0.12.1",
     "luxon": "^2.0.2",
     "markdown-it": "^12.2.0",
-    "markdown-it-anchor": "^8.3.0",
+    "markdown-it-anchor": "^8.3.1",
     "markdown-it-link-attributes": "^3.0.0",
     "md5": "^2.3.0",
-    "postcss": "^8.3.6",
+    "postcss": "^8.3.7",
     "recursive-copy": "^2.0.13",
-    "rollup": "^2.56.3",
+    "rollup": "^2.57.0",
     "rollup-plugin-terser": "^7.0.2",
     "rollup-plugin-url-resolve": "^0.2.0",
-    "sass": "^1.39.0",
+    "sass": "^1.42.1",
     "uslug": "^1.0.4"
   },
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^8.0.0-rc.0"
   },
   "eslintConfig": {
     "env": {
