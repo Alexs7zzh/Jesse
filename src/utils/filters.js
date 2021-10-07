@@ -1,6 +1,9 @@
 const { DateTime } = require('luxon')
 const md = require('./markdown')
 const fs = require('fs')
+const { URL } = require('url')
+const posthtml = require('posthtml')
+const urls = require('posthtml-urls')
 
 module.exports = config => {
   config.addFilter('dateString', dateObj => {
@@ -64,4 +67,50 @@ module.exports = config => {
     
     return result
   })
+
+  config.addFilter('getNewestCollectionItemDate', collection => {
+    if( !collection || !collection.length ) {
+      return new Date()
+    }
+
+    return new Date(Math.max(...collection.map(item => {return item.date})))
+  })
+
+  config.addFilter('dateToRfc3339', dateObj => {
+    let split = dateObj.toISOString().split('.')
+    split.pop()
+    return split.join('') + 'Z'
+  })
+
+  const absoluteUrl = (url, base) => {
+    try {
+      return (new URL(url, base)).toString()
+    } catch(e) {
+      return url
+    }
+  }
+
+  config.addFilter('absoluteUrl', absoluteUrl)
+
+  config.addNunjucksAsyncFilter('htmlToAbsoluteUrls', (htmlContent, base, callback) => {
+    if(!htmlContent) {
+      callback(null, "")
+      return
+    }
+
+    let options = {
+      eachURL: function(url) {
+        return absoluteUrl(url.trim(), base)
+      }
+    }
+
+    let modifier = posthtml().use(urls(options))
+
+    modifier.process(htmlContent, {
+      closingSingleTag: 'slash'
+    }).then(result => {
+      callback(null, result.html)
+    })
+  })
+
 }

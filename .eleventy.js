@@ -10,7 +10,6 @@ module.exports = config => {
   addTransforms(config)
   addCollections(config)
 
-  config.setDataDeepMerge(true)
   config.setLibrary('md', markdown)
   config.setTemplateFormats('md,njk')
   
