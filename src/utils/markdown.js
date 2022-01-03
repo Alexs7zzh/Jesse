@@ -12,7 +12,9 @@ module.exports = require('markdown-it')({
     slugify: s => uslug(s)
   })
   .use(require('markdown-it-link-attributes'), {
-    pattern: /^http/,
+    matcher(href, config) {
+      return href.startsWith("http")
+    },
     attrs: {
       target: '_blank',
       rel: 'noopener'
