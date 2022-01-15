@@ -15,11 +15,6 @@ module.exports = config => {
   
   config.addPassthroughCopy('assets')
   config.addPassthroughCopy({ 'assets/logo' : '/' })
-
-  config.setBrowserSyncConfig({
-    ui: false,
-    ghostMode: false
-  })
   
   return {
     dir: {
