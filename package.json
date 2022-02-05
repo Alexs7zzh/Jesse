@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "eslint": "npx eslint . --fix",
-    "build": "PRODUCTION=true npx @11ty/eleventy",
-    "start": "npx @11ty/eleventy --serve --quiet --incremental",
-    "clean": "rm -rf _site",
-    "brenchmark": "DEBUG=Eleventy:Benchmark* PRODUCTION=true npx @11ty/eleventy"
+    "build": "PRODUCTION=true eleventy",
+    "start": "eleventy --serve --quiet --incremental",
+    "clean": "rm -rf _site"
   },
   "dependencies": {
     "@11ty/eleventy": "^1.0.0",
@@ -18,61 +16,19 @@
     "csso": "^5.0.2",
     "fast-glob": "^3.2.11",
     "html-minifier": "^4.0.0",
-    "linkedom": "^0.13.0",
+    "linkedom": "^0.13.2",
     "luxon": "^2.3.0",
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^8.4.1",
     "markdown-it-link-attributes": "^4.0.0",
     "md5": "^2.3.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.4.6",
     "recursive-copy": "^2.0.13",
-    "rollup": "^2.64.0",
+    "rollup": "^2.67.0",
     "rollup-plugin-terser": "^7.0.2",
     "rollup-plugin-url-resolve": "^0.2.0",
-    "sass": "^1.48.0",
+    "sass": "^1.49.7",
     "uslug": "^1.0.4"
-  },
-  "devDependencies": {
-    "eslint": "^8.6.0"
-  },
-  "eslintConfig": {
-    "env": {
-      "browser": true,
-      "commonjs": true,
-      "es2021": true
-    },
-    "extends": "eslint:recommended",
-    "parserOptions": {
-      "ecmaVersion": 12,
-      "sourceType": "module"
-    },
-    "rules": {
-      "indent": [
-        "error",
-        2
-      ],
-      "linebreak-style": [
-        "error",
-        "unix"
-      ],
-      "quotes": [
-        "error",
-        "single"
-      ],
-      "semi": [
-        "error",
-        "never"
-      ],
-      "arrow-parens": [
-        "error",
-        "as-needed"
-      ],
-      "arrow-spacing": "error",
-      "curly": [
-        "error",
-        "multi"
-      ]
-    }
   },
   "author": "Alex Zhou",
   "license": "MIT"
