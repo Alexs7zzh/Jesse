@@ -6,6 +6,8 @@ module.exports = config => {
   if (process.env.PRODUCTION)
     config.on('afterBuild', async () => {
       const copy = require('recursive-copy')
-      await copy('.cache', '_site/assets')
+      await copy('.cache', '_site/assets', {
+        overwrite: true
+      })
     })
 }
