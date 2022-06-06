@@ -3,6 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@11ty/eleventy': ^1.0.1
   '@11ty/eleventy-img': ^2.0.1
+  '@11ty/eleventy-plugin-directory-output': ^1.0.1
   '@11ty/eleventy-plugin-rss': ^1.1.2
   async-mutex: ^0.3.2
   autoprefixer: ^10.4.7
@@ -25,6 +26,7 @@ specifiers:
 dependencies:
   '@11ty/eleventy': 1.0.1
   '@11ty/eleventy-img': 2.0.1
+  '@11ty/eleventy-plugin-directory-output': 1.0.1
   '@11ty/eleventy-plugin-rss': 1.1.2
   async-mutex: 0.3.2
   autoprefixer: 10.4.7_postcss@8.4.14
@@ -74,6 +76,13 @@ packages:
     transitivePeerDependencies:
       - encoding
       - supports-color
+    dev: false
+
+  /@11ty/eleventy-plugin-directory-output/1.0.1:
+    resolution: {integrity: sha512-CPBiAOOu5pCIuQW10mURGMK/zBA6gwhzqZmzBBbUeqRsmb3gDk0jcQh/H+2D538Az6NVRSOfjXOzZWorjpG6nw==}
+    dependencies:
+      kleur: 4.1.4
+      strip-color: 0.1.0
     dev: false
 
   /@11ty/eleventy-plugin-rss/1.1.2:
@@ -2843,6 +2852,11 @@ packages:
 
   /strip-bom-string/1.0.0:
     resolution: {integrity: sha1-5SEekiQ2n7uB1jOi8ABE3IztrZI=}
+    engines: {node: '>=0.10.0'}
+    dev: false
+
+  /strip-color/0.1.0:
+    resolution: {integrity: sha1-EG9l09PmotlAHKwOsM6LinArT3s=}
     engines: {node: '>=0.10.0'}
     dev: false
 
