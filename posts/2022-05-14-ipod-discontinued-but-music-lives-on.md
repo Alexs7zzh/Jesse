@@ -6,6 +6,10 @@ tags: 科技 次文化
 image: /assets/2022/iPod-touch-music-lives-on.jpeg
 ---
 
+（本文首发于[极客公园](https://www.geekpark.net/news/302180)，本站收录时进行了修改。）
+
+<br>
+
 走过 21 年，iPod 终于走到了它的终点。
 
 5 月 10 日，苹果发布公告，宣布「iPod touch 库存有限，售完即止」，正式将 iPod 从产品序列里清除。
