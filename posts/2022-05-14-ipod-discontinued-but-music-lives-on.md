@@ -3,7 +3,7 @@ excerpt: |-
   从留声机到 Walkman，从磁带到 CD，再从 iPod 到互联网服务，一代又一代热爱音乐的人们，就像「盗火者普罗米修斯」，用名为技术的火把，传递音乐。iPod 完成了那个传递火种的任务。在它诞生 21 年后的今天，音乐比以往任何时候都要无处不在，生生不息。
 title: iPod 时代终结，但音乐没有告别
 tags: 科技 次文化
-image: /assets/2022/iPod-touch-music-lives-on.jpeg
+image: /assets/2022/ipod-cover.jpg
 ---
 
 （本文首发于[极客公园](https://www.geekpark.net/news/302180)，本站收录时进行了修改。）
