@@ -3,7 +3,7 @@ excerpt: |-
   我早该意识到，生活中真正塑造人的，从来不是那些，输入一万次都得出同一个结果的事情，而是那些更随机，更切身，真正属于你自己的瞬间。
 
 
-多年以后，我会记得这场旅途，记得我的 Apple Watch Ultra，记得我戴它爬过的山，尽管可能很少有人理解。
+  多年以后，我会记得这场旅途，记得我的 Apple Watch Ultra，记得我戴它爬过的山，尽管可能很少有人理解。
 title: Apple Watch Ultra：山在哪里
 tags: 科技
 image: /assets/2022/apple-watch-ultra.jpg
