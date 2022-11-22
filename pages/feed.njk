@@ -17,6 +17,7 @@ eleventyExcludeFromCollections: true
   </author>
   
   {%- for post in collections.posts %}
+  {%- if (loop.index <= 30) -%}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
     <entry>
       <title>{{ post.data.title }}</title>
@@ -36,6 +37,7 @@ eleventyExcludeFromCollections: true
       <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="{{ metadata.url }}{{ post.data.image }}"/>
       {% endif %}
     </entry>
+    {%- endif -%}
   {%- endfor %}
   
 </feed>
