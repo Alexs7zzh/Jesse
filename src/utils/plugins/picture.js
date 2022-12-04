@@ -6,13 +6,7 @@ const defaultOptions = {
   sizes: '',
   formats: ['webp', 'jpeg'],
   urlPath: '/assets/',
-  outputDir: './.cache/',
-  sharpWebpOptions: {
-    quality: 50
-  },
-  sharpJpegOptions: {
-    quality: 70
-  }
+  outputDir: './.cache/'
 }
 
 module.exports = async (document, options) => {
