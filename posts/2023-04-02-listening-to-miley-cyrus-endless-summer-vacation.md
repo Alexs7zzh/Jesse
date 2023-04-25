@@ -2,7 +2,7 @@
 excerpt: |-
   这可能就是我对今天性别议题、平权叙事 in general，感到不满意的地方。
 
-title: 听 Miley 新专辑，和一点点女权
+title: 听过：Endless Summer Vacation - Miley Cyrus
 tags: 音乐 日常
 ---
 
