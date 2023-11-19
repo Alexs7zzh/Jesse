@@ -8,7 +8,7 @@ excerpt: |-
 
   Unkillable，说的不只是 Faker 哪一次夺冠，更是李相赫的整个人生。
 
-title: 14 倍长的旅途
+title: Faker：再度攀登
 tags: 游戏
 image: /assets/2023/faker-2013-summer-lesson.jpg
 ---
