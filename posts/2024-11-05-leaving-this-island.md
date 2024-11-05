@@ -7,7 +7,7 @@ excerpt: |-
 
 title: "离开二十岁这座小岛"
 tags: 日常
-image: /assets/2024/turning-30-autumn.jpg
+image: /assets/2024/turning-30-autumn-equinox.jpg
 ---
 
 ## 一
