@@ -5,7 +5,7 @@ excerpt: |-
 
 已度过的时间，都是我们的命中注定。
 
-title: "离开二十岁这座小岛"
+title: 离开二十岁这座小岛
 tags: 日常
 image: /assets/2024/turning-30-autumn-equinox.jpg
 ---
