@@ -6,6 +6,7 @@ excerpt: |-
 
 title: 「成为收藏者的前提是意识到人生短暂」
 tags: 日常
+image: /assets/2024/densha-collection.jpg
 ---
 
 听了《迟早更新》的[「Episode 212: 成为周杰伦」](http://podcast.weareones.com/episodes/212)这期节目，很喜欢，其中大部分观点我都认同。
