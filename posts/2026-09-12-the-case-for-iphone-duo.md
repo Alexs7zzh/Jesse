@@ -6,7 +6,7 @@ excerpt: |-
 
   发布会上，负责工业设计的 VP Molly Anderson 在介绍 iPhone Duo 时也说，它的尺寸跟一本「护照」差不多。
 
-title: The case for iPhone Duo: 对抗「滑动」
+title: "The case for iPhone Duo: 对抗「滑动」"
 tags: 科技
 ---
 
